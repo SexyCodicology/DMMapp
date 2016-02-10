@@ -112,3 +112,8 @@ div#follow {text-align: center;}
 .twitter-flw {
     margin: 1em;
 }
+
+.selectors {
+    border: solid 1px #c0c0c0;
+    border-radius: 5px;
+}
