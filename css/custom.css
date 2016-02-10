@@ -54,6 +54,7 @@ h6,
 
 body {
     background: url("//digitizedmedievalmanuscripts.org/app/images/body-bg.png") #ececec;
+    text-align: center;
 }
 
 .well {
@@ -98,7 +99,11 @@ body {
 .filter-red {
     background-color: #FB6353;
 }
-
+.filters {
+    max-width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+}
 .nav-pills a {
     background-color: #e7e7e7;
     border: 1px solid #e3e3e3;
@@ -116,4 +121,9 @@ div#follow {text-align: center;}
 .selectors {
     border: solid 1px #c0c0c0;
     border-radius: 5px;
+}
+input.form-control {
+    max-width: 450px;
+    margin-left: auto;
+    margin-right: auto;
 }
