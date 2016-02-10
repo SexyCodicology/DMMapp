@@ -108,3 +108,7 @@ body {
 .alert-info {
     margin-top: 10px;
 }
+div#follow {text-align: center;}
+.twitter-flw {
+    margin: 1em;
+}
