@@ -127,3 +127,7 @@ input.form-control {
     margin-left: auto;
     margin-right: auto;
 }
+.missing {
+    max-width: 450px;
+    margin: auto;
+}
