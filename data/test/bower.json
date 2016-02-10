@@ -1,0 +1,20 @@
+{
+  "name": "fusiontable-app",
+  "version": "0.0.0",
+  "authors": [
+    "Vinay <rmdort@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "datatables": "~1.10.4",
+    "jquery": "1.11.1",
+    "datatables-responsive": "~1.0.2"
+  }
+}

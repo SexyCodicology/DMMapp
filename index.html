@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head prefix="og: //ogp.me/ns#">
+    <title>DMMapp - Digitized Medieval Manuscripts App</title>
+    <meta charset='utf-8' />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="description" content="The DMMapp is the portal to thousands of digitized medieval manuscripts around the world!">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="DMMapp - Digitized Medieval Manuscripts App">
+    <meta property="og:determiner" content="the">
+    <meta property="og:description" content="The DMMapp is the portal to thousands of digitized medieval manuscripts around the world!">
+    <meta property="og:url" content="//digitizedmedievalmanuscripts.org/app/">
+    <meta property="og:image" content="//digitizedmedievalmanuscripts.org/app/images/dmmapp.jpg" />
+    <meta property="og:site_name" content="DMMmaps - Digitized Medieval Manuscripts Maps" />
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@SexyCodicology">
+    <meta name="twitter:title" content="The DMMapp">
+    <meta name="twitter:description" content="The DMMapp is the portal to thousands of digitized medieval manuscripts around the world!">
+    <meta name="twitter:creator" content="@SexyCodicology">
+    <meta name="twitter:image:src" content="//digitizedmedievalmanuscripts.org/app/images/dmmapp.jpg">
+    <meta name="twitter:domain" content="//Digitizedmedievalmanuscripts.org">
+    <!-- Styles -->
+    <link href='//fonts.googleapis.com/css?family=Philosopher:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/custom.min.css" />
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script type="text/javascript" src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-45976702-3', 'digitizedmedievalmanuscripts.org');
+        ga('send', 'pageview');
+    </script>
+     <script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/jquery.address.js"></script>
+    <script type="text/javascript" src="//maps.google.com/maps/api/js?sensor=false&libraries=places&v=3.14"></script>
+    <script type="text/javascript" src="js/jquery.geocomplete.min.js"></script>
+    <script type="text/javascript" src="js/maps_lib.min.js"></script>
+</head>
+
+<body>
+    <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TRD4WW"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TRD4WW');</script>
+<!-- End Google Tag Manager -->
+    <div class='navbar navbar-default navbar-static-top'>
+        <div class='container'>
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class='navbar-brand' href='/'>
+                    <h1>DMMapp</h1>
+                </a>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="//digitizedmedievalmanuscripts.org/app/data">DMMapp data</a>
+                    </li>
+                    <li>
+                        <a href="//digitizedmedievalmanuscripts.org/maps/">
+                            About
+                        </a>
+                    </li>
+                    <li>
+                        <a href="//sexycodicology.net/blog/">
+                            Sexy Codicology Blog
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="//digitizedmedievalmanuscripts.org/">
+                            DMMmaps Blog
+                        </a>
+                    </li>
+                    <li>
+                        <a href="//digitizedmedievalmanuscripts.org/contact/send-us-tip/">
+                            Missing a Library?
+                        </a>
+                    </li>
+                    <li>
+                        <a href="//digitizedmedievalmanuscripts.org/contact/">
+                            Feedback
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <!--/.nav-collapse -->
+        </div>
+    </div>
+    <div class='container'>
+        <div class='row'>
+            <div class='col-md-4'>
+                <div class='manuscript'>
+                    <img id="links" src="images/dmmmap-header.jpg" alt="The Digitized Medieval Manuscripts Map, DMMapp, is made by Sexy Codicology" title="Sexy Codicology Logo">
+                </div>
+                <div class='well'>
+                    <h2>Discover thousands of digitized medieval manuscripts!</h2>
+                    <p>The DMMapp (Digitized Medieval Manuscripts App) links to
+                        <strong>more than 400 libraries</strong> in the world. Each one of these contains medieval manuscripts that can be browsed for free. The DMMapp is developed by the
+                        <a href='//sexycodicology.net/blog'>Sexy Codicology</a> Team; it is part of the <a href='//digitizedmedievalmanuscripts.org'>Digitized Medieval Manuscripts Maps (DMMmaps)</a> project.</p>
+                    <h4>Discover medieval manuscripts with us!</h4>
+                    <iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FSexyCodicology&amp;width&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;header=false&amp;stream=false&amp;show_border=false&amp;appId=705263246163822" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:70px;" allowTransparency="true"></iframe>
+                    <iframe allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/follow_button.html?screen_name=SexyCodicology" style="width:250px; height:40px;"></iframe>
+
+                    <h4>
+                        Zoom to Location
+                        <small>(
+                            <a id='find_me' href='#'>find me</a>)</small>
+                    </h4>
+                    <p>
+                        <input class='form-control' id='search_address' placeholder='i.e. &quot;London&quot;' type='text' />
+                    </p>
+                    <h4>
+                        Filter by Library Name
+                    </h4>
+                    <input class='form-control' id='text_search' placeholder="i.e. &quot;British Library&quot;" type='text' />
+                    <h4>
+                        Filter by Country
+                    </h4>
+                    <input class='form-control' id='nation_search' placeholder="i.e. &quot;Germany&quot;" type='text' />
+                    <h4>
+                        Filter by City
+                    </h4>
+                    <input class='form-control' id='city_search' placeholder="i.e. &quot;Paris&quot;" type='text' />
+                    <br />
+                    <a class='btn btn-primary' id='search' href='#'>
+                        <i class='glyphicon glyphicon-search'></i>
+                        Search / Filter
+                    </a>
+                    <a class='btn btn-default' id='reset' href='#'>
+                        <i class='glyphicon glyphicon-repeat'></i>
+                        Reset
+                    </a>
+                </div>
+                <div class='alert alert-info' id='result_box'>
+                    <strong id='result_count'></strong>
+                </div>
+            </div>
+            <div class='col-md-8'>
+                <div class='share'>
+                    <div class='shareaholic-canvas' data-app='share_buttons' data-app-id='5401486'>
+                    </div>
+                </div>
+                <noscript>
+                    <div class='alert alert-info'>
+                        <h4>Your JavaScript is disabled</h4>
+                        <p>Please enable JavaScript to view the map.</p>
+                    </div>
+                </noscript>
+                <div id='map_canvas'></div>
+                <div class='well'>
+                    <br />
+                    <a class="btn btn-success btn-lg btn-block" href="//digitizedmedievalmanuscripts.org/app/data" role="button">Data &amp; Links</a>
+                    <a class="btn btn-danger btn-lg btn-block" href="//digitizedmedievalmanuscripts.org/contact/send-us-tip/" role="button">Add a Missing Library</a>
+                    <a class="btn btn-primary btn-lg btn-block" href="//digitizedmedievalmanuscripts.org/" role="button">DMMmaps Blog</a>
+                    <a class="btn btn-primary btn-lg btn-block" href="//sexycodicology.net/blog/" role="button">Sexy Codicology Blog</a>
+
+
+
+
+                    <div id='license'>
+                        <center>
+                            <a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/">
+                                <img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by-sa/4.0/88x31.png" />
+                            </a>
+                            <br />
+                            <span xmlns:dct="//purl.org/dc/terms/" href="//purl.org/dc/dcmitype/InteractiveResource" property="dct:title" rel="dct:type">DMMapp</span>by
+                            <a xmlns:cc="//creativecommons.org/ns#" href="//sexycodicology.net/blog" property="cc:attributionName" rel="cc:attributionURL">Sexy Codicology</a>is licensed under a
+                            <a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+                            <br />Based on a work by
+                            <a xmlns:dct="//purl.org/dc/terms/" href="//derekeder.com/searchable_map_template/" rel="dct:source">Derek Eder</a>.
+                            <br />Permissions beyond the scope of this license may be available
+                            <a xmlns:cc="//creativecommons.org/ns#" href="//digitizedmedievalmanuscripts.org/contact/" rel="cc:morePermissions">here</a>.
+                            <a href='//digitizedmedievalmanuscripts.org/app'>DMMapp</a> development and idea by
+                            <a href='https://www.linkedin.com/in/giuliomenna'>Giulio Menna</a>.
+                            <br />Image source: <a href='//www.metmuseum.org/collection/the-collection-online/search/470306'>MET, The Belles Heures of Jean de France, Duc de Berry</a>.
+                        </center>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type='text/javascript'>
+        //<![CDATA[
+        $(window).resize(function () {
+            var h = $(window).height(),
+                offsetTop = 105; // Calculate the top offset
+
+            $('#map_canvas').css('height', (h - offsetTop));
+        }).resize();
+
+        $(function () {
+            MapsLib.initialize();
+            $("#search_address").geocomplete();
+
+            $(':checkbox').click(function () {
+                MapsLib.doSearch();
+            });
+
+            $(':radio').click(function () {
+                MapsLib.doSearch();
+            });
+
+            $('#search_radius').change(function () {
+                MapsLib.doSearch();
+            });
+
+            $('#search').click(function () {
+                MapsLib.doSearch();
+            });
+
+            $('#find_me').click(function () {
+                MapsLib.findMe();
+                return false;
+            });
+
+            $('#reset').click(function () {
+                $.address.parameter('address', '');
+                MapsLib.initialize();
+                return false;
+            });
+
+            $(":text").keydown(function (e) {
+                var key = e.keyCode ? e.keyCode : e.which;
+                if (key == 13) {
+                    $('#search').click();
+                    return false;
+                }
+            });
+        });
+         //]]>
+    </script>
+    <script type="text/javascript">
+        //<![CDATA[
+        (function () {
+            var shr = document.createElement('script');
+            shr.setAttribute('data-cfasync', 'false');
+            shr.src = '//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js';
+            shr.type = 'text/javascript';
+            shr.async = 'true';
+            shr.onload = shr.onreadystatechange = function () {
+                var rs = this.readyState;
+                if (rs && rs != 'complete' && rs != 'loaded') return;
+                var site_id = '528c47708669d3f5e561e116ce55b93c';
+                try {
+                    Shareaholic.init(site_id);
+                } catch (e) {}
+            };
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(shr, s);
+        })();
+         //]]>
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,1050 @@
+/*--------------------------------------------+
+ | Site: DerekEder.com  					  |
+ | Part: Master styles                        |
+ +--------------------------------------------*/
+/* Imports
+=====================================================================*/
+
+@import "../styles/reset.css";
+/* Reset styles */
+
+@import "../styles/ie.css";
+/* IE styles */
+/* Fonts
+======================================================================*/
+
+body,
+input,
+select,
+textarea {
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+/* Basics
+======================================================================*/
+
+a {
+    color: #1a76a3;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+address {
+    font-style: normal;
+}
+
+blockquote,
+dl,
+ol,
+p,
+table,
+ul {
+    margin-bottom: 1em;
+}
+
+body {
+    height: 100%;
+    color: #58595b;
+    font-size: 16px;
+    line-height: 1.35;
+    padding: 0;
+    margin: 0;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.428571429;
+    color: #666;
+    background: url("http://digitizedmedievalmanuscripts.org/app/images/body-bg.png") #ececec;
+}
+
+cite,
+em {
+    font-style: italic;
+}
+
+dt {
+    margin-top: 1.35em;
+}
+
+dt:first-child {
+    margin: 0;
+}
+
+fieldset {
+    border: 1px solid #ddd;
+    margin-bottom: 2em;
+    padding: 1em 1.5em;
+}
+
+hr {
+    background: #ddd;
+    border: 0;
+    clear: both;
+    color: #ddd;
+    height: 5px;
+    margin: .75em 0;
+}
+
+html {
+    height: 100%;
+}
+
+img {
+    padding-right: 15px;
+    border: none;
+}
+
+legend {
+    background: #fff;
+    color: #352f8e;
+    font-size: 1.7em;
+    margin: 0 0 0 -0.5em;
+    padding: 0.1em 0.75em 0.1em;
+}
+
+legend em {
+    color: #777;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: normal;
+    margin-left: 0.3em;
+}
+
+ol {
+    list-style: decimal;
+    margin-left: 1.5em;
+}
+
+ol ol {
+    list-style: lower-alpha;
+}
+
+select {
+    padding: 0.1em 0.2em;
+}
+
+sub {
+    font-size: 10px;
+    vertical-align: sub;
+}
+
+sup {
+    font-size: 10px;
+    vertical-align: super;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table p {
+    margin: 0;
+}
+
+td {
+    vertical-align: top;
+}
+
+thead th {
+    font-size: 1em;
+    padding: 0 0.4em 0.25em;
+}
+
+ul {
+    list-style: disc;
+    margin-left: 0;
+}
+
+ul ol li {
+    background: none;
+    padding: 0;
+}
+/* Stock classes */
+
+.l {
+    float: left;
+}
+
+.r {
+    float: right;
+}
+
+.num {
+    text-align: right;
+}
+
+ul.flat,
+ul.headlines {
+    list-style: none;
+    margin-left: 0;
+}
+
+ul.flat li,
+ul.headlines li {
+    background: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul.headlines li {
+    margin-bottom: 10px;
+}
+/* Core layout
+======================================================================*/
+
+.clear {
+    clear: both;
+}
+
+#frame {
+    width: 100%;
+    height: 100%;
+}
+
+#page {
+    clear: both;
+    margin: auto;
+    padding: 10px 20px 0 20px;
+    height: 90%;
+}
+/* Columns */
+
+.c2l,
+.c2r {
+    width: 48%;
+}
+
+.c2l,
+.c3l,
+.c3m {
+    float: left;
+}
+
+.c2r,
+.c3r {
+    float: right;
+}
+
+.c3l {
+    margin-right: 3%;
+}
+
+.c3l,
+.c3m,
+.c3r {
+    width: 31%;
+}
+
+ul.c2l,
+ul.c2r {
+    list-style: none;
+    margin-left: 0;
+}
+
+.col4 .col {
+    float: left;
+    margin-right: 1%;
+    width: 24%;
+}
+/* Content */
+
+#content {
+    height: 100%;
+    background: #fff;
+    border: 1px solid #dddddf;
+    border-bottom: 1px solid #90b1dc;
+    -moz-border-radius-topleft: 6px;
+    -moz-border-radius-topright: 6px;
+    -webkit-border-top-left-radius: 6px;
+    -webkit-border-top-right-radius: 6px;
+    padding: 25px;
+}
+
+.content-primary {
+    float: right;
+    padding-left: 10px;
+    width: 65%;
+    height: 95%;
+}
+
+.content-secondary {
+    float: left;
+    width: 33%;
+}
+
+.content-simple {
+    margin: auto;
+    width: 700px;
+}
+
+.content-simple p {
+    margin-top: .25em;
+}
+/* Full layout (no secondary content) */
+
+.full .content {
+    background-image: none;
+}
+
+.full .content-primary {
+    float: none;
+    margin: 0 auto;
+    padding-top: 1em;
+    width: 100%;
+}
+
+.full .content-secondary {
+    display: none;
+}
+/* Footer text */
+
+.footer {
+    color: #77787b;
+    font-size: 12px;
+}
+
+p.footer {
+    margin-bottom: 0.4em;
+}
+/* Home */
+
+.content-home {
+    margin: auto;
+    padding: 30px 0;
+    width: 900px;
+    font-size: 16px;
+}
+
+.content-home h1 {
+    width: 100%;
+}
+
+.content-home h2 {
+    font-size: 20px;
+    font-weight: normal;
+    margin-bottom: 0;
+}
+
+.content-home h3 {
+    font-size: 18px;
+}
+
+.content-home p {
+    font-size: 16px;
+    margin-bottom: 1.5em;
+}
+
+.content-home hr {
+    margin-top: 0;
+}
+
+.twtr-tweet p {
+    font-size: 12px;
+}
+
+.content-home .mute {
+    font-size: 14px;
+}
+
+.home-left {
+    float: left;
+    width: 28%;
+    padding: 0 5px;
+}
+
+.home-right {
+    float: right;
+    width: 68%;
+    padding-top: 15px;
+}
+/* Hint text boxes */
+
+.ezpz-hint {
+    color: #777;
+    font-style: italic;
+}
+/* Maps */
+
+#map_canvas {
+    height: 100%;
+    width: 100%;
+}
+
+#map_canvas img {
+    float: right;
+    padding-bottom: 8px;
+}
+
+#map_canvas h5 {
+    clear: both;
+}
+
+#amount-range,
+#year-range {
+    margin: 0.5em 4em 0.5em 0.5em;
+    width: 95%;
+}
+
+#layer-button-projects {
+    color: #FF6666;
+    font-weight: bold;
+}
+
+#layer-button-wards {
+    color: #80B16A;
+    font-weight: bold;
+}
+
+#layer-button-districts {
+    color: #3D85C6;
+    font-weight: bold;
+}
+
+.tagline {
+    font-size: 15px;
+}
+
+.btn {
+    background: #4A7ABA;
+    background-image: -moz-linear-gradient(top, #4A7ABA, #274976);
+    /* FF */
+
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #4A7ABA), color-stop(1, #274976));
+    /* Saf4+, Chrome */
+
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorStr='#4A7ABA', EndColorStr='#274976');
+    /* IE6,IE7 */
+
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorStr='#4A7ABA', EndColorStr='#274976')";
+    /* IE8 */
+
+    border: 1px solid #274976;
+    color: #ffffff;
+    font-weight: bold;
+    border-radius: 6px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    padding: 0.3em 1.1em;
+    margin-right: 0.5em;
+    text-shadow: 1px 1px 1px #58595B;
+}
+
+.ui-slider-horizontal {
+    height: 0.4em;
+}
+
+.ui-slider .ui-slider-handle {
+    height: 0.9em;
+    width: 0.9em;
+}
+
+.yellow {
+    color: #cccc33;
+}
+
+#label-yellow {
+    color: #cccc33;
+}
+
+#label-green {
+    color: #60c660;
+}
+
+#label-blue {
+    color: #7575db;
+}
+
+#label-purple {
+    color: #cc66cc;
+}
+
+#label-red {
+    color: #d73e3e;
+}
+
+#resultCount {
+    float: right;
+    font-weight: bold;
+    font-size: 15px;
+    margin-top: 8px;
+}
+/* Muted text */
+
+.mute {
+    color: #77787b;
+    font-size: 12px;
+}
+
+p.mute {
+    margin: 0;
+}
+/* Options */
+
+.options-h,
+.options-v {
+    list-style: none;
+    margin: 0 0 1em 0;
+    padding: 0;
+}
+
+td .options-h,
+td .options-v {
+    margin: 0;
+}
+
+.options-h input,
+.options-v input {
+    margin-bottom: -0.05em;
+}
+
+.options-h img {
+    border-bottom: 3px solid #fff;
+    padding: 5px;
+    vertical-align: middle;
+}
+
+.options-h li,
+.options-v li {
+    background: none;
+    clear: both;
+    margin-bottom: 0.3em;
+    padding: 0;
+}
+
+.options-h li {
+    display: inline;
+    margin-right: 0.7em;
+    white-space: nowrap;
+}
+
+.options-v li {
+    padding-left: 25px;
+    text-indent: -25px;
+}
+
+.options-v li p {
+    margin: 0;
+    text-indent: 0;
+}
+
+.options-days li {
+    margin-right: 0.1em;
+}
+/* Search */
+
+input,
+select,
+textarea {
+    color: #414042;
+    font-size: 1em;
+}
+
+textarea {
+    height: 10em;
+}
+
+#search {
+    font-size: 16px;
+}
+
+#search .txt {
+    width: 100%;
+}
+
+.input-addr {
+    width: 70%;
+    float: left;
+}
+
+.input-addr .txt {
+    width: 100%;
+}
+
+.input-radius {
+    width: 28%;
+    float: right;
+}
+/* Tables */
+
+.data {
+    width: 100%;
+    font-size: 15px;
+    padding-bottom: 15px;
+}
+
+.data td,
+.data th {
+    border: 1px solid #ccc;
+    padding: 0.5em;
+}
+
+.data th {
+    background: #e9f0f8;
+    font-weight: bold;
+}
+
+.data thead th {
+    border: 1px solid #ccc;
+}
+
+.data th {
+    background-position: 0.5em 50%;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    padding: 0.5em;
+}
+
+.data th.sorting {
+    color: #1a76a3;
+    font-family: 'Philosopher', sans-serif;
+}
+
+.data th.sorting_asc {
+    background-image: url(images/arrow-secondary-up.gif);
+    color: #1a76a3;
+    padding-left: 20px;
+}
+
+.data th.sorting:hover {
+    text-decoration: underline;
+}
+
+.data th.sorting_desc {
+    background-image: url(images/arrow-secondary-down.gif);
+    color: #1a76a3;
+    padding-left: 20px;
+}
+
+.dataTables_filter {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+.dataTables_filter input {
+    padding: 0.2em;
+}
+
+tr.alt,
+tr.even {
+    background: #FAFAFF;
+}
+
+th.sorting_disabled {
+    font-family: philosopher;
+}
+/* paginate */
+/*
+ * Colour dictionary:
+ *
+ * Table control elements:   #719ba7
+ * Header cells:             #66A9BD
+ * Body header cells:        #91c5d4
+ * Body content cells:       #d5eaf0
+ * Body content cells (alt): #bcd9e1
+ * Footer header:            #b0cc7f
+ * Footer content:           #d7e1c5
+ */
+/*
+ * Page setup styles
+ */
+/*
+ * DataTables framework
+ */
+
+div.dataTables_paginate {
+    float: right;
+    padding: 6px;
+}
+/*
+ * Pagination
+ */
+
+a.paginate_button,
+a.paginate_active {
+    display: inline-block;
+    background-color: #1a76a3;
+    padding: 2px 6px;
+    margin-left: 2px;
+    cursor: pointer;
+    *cursor: hand;
+}
+
+a.paginate_active {
+    background-color: transparent;
+    border: 1px solid black;
+}
+
+a.paginate_button_disabled {
+    color: #3d6672;
+}
+
+.paging_full_numbers a:active {
+    outline: none;
+    text-decoration: underline;
+}
+
+.paging_full_numbers a:hover {
+    text-decoration: underline;
+}
+
+div.dataTables_paginate span>a {
+    width: 15px;
+    text-align: center;
+}
+/*
+ * Control feature layout
+ */
+
+.dataTables_wrapper {
+    position: relative;
+    clear: both;
+    *zoom: 1;
+    zoom: 1;
+}
+
+.dataTables_wrapper .dataTables_length {
+    float: left;
+}
+
+.dataTables_wrapper .dataTables_filter {
+    float: right;
+    text-align: right;
+}
+
+.dataTables_wrapper .dataTables_filter input {
+    margin-left: 0.5em;
+}
+
+.dataTables_wrapper .dataTables_info {
+    clear: both;
+    float: left;
+    padding-top: 0.755em;
+}
+
+.dataTables_wrapper .dataTables_paginate {
+    float: right;
+    text-align: right;
+    padding-top: 0.25em;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+    box-sizing: border-box;
+    display: inline-block;
+    min-width: 1.5em;
+    padding: 0.5em 1em;
+    margin-left: 2px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    *cursor: hand;
+    color: #333;
+    border: 1px solid transparent;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button.current,
+.dataTables_wrapper .dataTables_paginate .paginate_button.current:hover {
+    color: #333;
+    border: 1px solid #cacaca;
+    background-color: white;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button.disabled,
+.dataTables_wrapper .dataTables_paginate .paginate_button.disabled:hover,
+.dataTables_wrapper .dataTables_paginate .paginate_button.disabled:active {
+    cursor: default;
+    color: #1a76a3;
+    border: 1px solid transparent;
+    background: transparent;
+    box-shadow: none;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+    background-color: #fff;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button:active {
+    outline: none;
+    background-color: #fff;
+}
+
+.dataTables_wrapper .dataTables_paginate .ellipsis {
+    padding: 0 1em;
+}
+
+.dataTables_wrapper .dataTables_processing {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    height: 40px;
+    margin-left: -50%;
+    margin-top: -25px;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 1.2em;
+    background-color: white;
+}
+
+.dataTables_wrapper .dataTables_length,
+.dataTables_wrapper .dataTables_filter,
+.dataTables_wrapper .dataTables_info,
+.dataTables_wrapper .dataTables_processing,
+.dataTables_wrapper .dataTables_paginate {
+    color: #333;
+}
+
+.dataTables_wrapper .dataTables_scroll {
+    clear: both;
+}
+
+.dataTables_wrapper .dataTables_scroll div.dataTables_scrollBody {
+    *margin-top: -1px;
+    -webkit-overflow-scrolling: touch;
+}
+
+.dataTables_wrapper .dataTables_scroll div.dataTables_scrollBody th > div.dataTables_sizing,
+.dataTables_wrapper .dataTables_scroll div.dataTables_scrollBody td > div.dataTables_sizing {
+    height: 0;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+.dataTables_wrapper.no-footer .dataTables_scrollBody {
+    border-bottom: 1px solid #111;
+}
+
+.dataTables_wrapper.no-footer div.dataTables_scrollHead table,
+.dataTables_wrapper.no-footer div.dataTables_scrollBody table {
+    border-bottom: none;
+}
+
+.dataTables_wrapper:after {
+    visibility: hidden;
+    display: block;
+    content: "";
+    clear: both;
+    height: 0;
+}
+
+@media screen and (max-width: 767px) {
+    .dataTables_wrapper .dataTables_info,
+    .dataTables_wrapper .dataTables_paginate {
+        float: none;
+        text-align: center;
+    }
+    .dataTables_wrapper .dataTables_paginate {
+        margin-top: 0.5em;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .dataTables_wrapper .dataTables_length,
+    .dataTables_wrapper .dataTables_filter {
+        float: none;
+        text-align: center;
+    }
+    .dataTables_wrapper .dataTables_filter {
+        margin-top: 0.5em;
+    }
+}
+/*additions*/
+
+span.paginate_active {
+    /* border: 1px solid; */
+
+    color: #999;
+    cursor: default;
+    box-sizing: border-box;
+    display: inline-block;
+    min-width: 1.5em;
+    padding: 0.5em 1em;
+    margin-left: 2px;
+    text-align: center;
+    text-decoration: none;
+    border: 1px solid transparent;
+}
+
+span.previous.paginate_button.paginate_button_disabled {
+    /* border: 1px solid; */
+
+    color: #999;
+    cursor: default;
+}
+
+span.previous.paginate_button.paginate_button_disabled:active {
+    /* border: 1px solid; */
+
+    color: #999;
+}
+
+span.first.paginate_button.paginate_button_disabled {
+    outline: none;
+    background: #fff;
+    box-shadow: none;
+    color: #999;
+    cursor: default;
+}
+
+span.first.paginate_button.paginate_button_disabled:active {
+    outline: none;
+    background-color: transparent;
+    background: : #999;
+    box-shadow: none;
+}
+
+span.first.paginate_button.paginate_button_disabled:hover {
+    outline: none;
+    background-color: transparent;
+    background: : #4b58a6;
+    box-shadow: none;
+}
+
+span.next.paginate_button.paginate_button_disabled {
+    /* border: 1px solid; */
+
+    color: #999;
+    cursor: default;
+}
+
+span.next.paginate_button.paginate_button_disabled:active {
+    /* border: 1px solid; */
+
+    color: #fff;
+}
+
+span.last.paginate_button.paginate_button_disabled {
+    outline: none;
+    background: #fff;
+    box-shadow: none;
+    color: #999;
+    cursor: default;
+}
+
+span.last.paginate_button.paginate_button_disabled:active {
+    color: #fff
+}
+
+span.last.paginate_button.paginate_button_disabled:hover {
+    outline: none;
+    background-color: transparent;
+    background: : #4b58a6;
+    box-shadow: none;
+}
+.row {
+  min-height: 20px;
+  padding: 19px;
+  margin-bottom: 20px;
+  background-color: #fff;
+  border: 1px solid #e3e3e3;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.05);
+  box-shadow: inset 0 1px 1px rgba(0,0,0,0.05);
+}
+a {
+    color: #1a76a3;
+}
+a:hover {
+    color: #1a76a3;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+    font-family: 'Philosopher', sans-serif;
+}
+h1,
+h2 {
+    color: #1a76a3;
+}
+#links {
+    vertical-align: middle;
+    border: 1px solid #e3e3e3;
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+    max-width: 100%;
+    margin-top: 10px;
+}
+#map_canvas {
+    border: 1px solid #e3e3e3;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+}
+#map_canvas img {
+    max-width: none;
+}
+#footer {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 9999;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+.col-md-7 {
+    padding-bottom: 90px;
+}
+/* IE 6 */
+
+* html #footer {
+    position: absolute;
+    top: expression((0-(footer.offsetHeight)+(document.documentElement.clientHeight ? document.documentElement.clientHeight: document.body.clientHeight)+(ignoreMe=document.documentElement.scrollTop ? document.documentElement.scrollTop: document.body.scrollTop))+'px');
+}
+body {
+    background: url("http://digitizedmedievalmanuscripts.org/app/images/body-bg.png") #ececec;
+}
+.well {
+    background-color: #fff;
+}
+.share {
+    background-color: #fff;
+    border: 1px solid #e3e3e3;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+}
+#license {
+    padding-top: 10px;
+    font-size: xx-small;
+}
+.filter-box {
+    height: 15px;
+    width: 15px;
+    display: inline-block;
+    *border-right-width: 2px;
+    *border-bottom-width: 2px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    -webkit-background-clip: padding-box;
+    -moz-background-clip: padding;
+    background-clip: padding-box;
+}
+.filter-yellow {
+    background-color: #FBF358;
+}
+.filter-green {
+    background-color: #00E13C;
+}
+.filter-blue {
+    background-color: #5781FC;
+}
+.filter-purple {
+    background-color: #7C54FB;
+}
+.filter-red {
+    background-color: #FB6353;
+}
+canvas {
+    -ms-touch-action: double-tap-zoom;
+}
