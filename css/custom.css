@@ -131,3 +131,9 @@ input.form-control {
     max-width: 450px;
     margin: auto;
 }
+
+ul { list-style: none;
+}
+
+div#appinfo {
+text-align: left}
