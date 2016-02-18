@@ -99,11 +99,13 @@ body {
 .filter-red {
     background-color: #FB6353;
 }
+
 .filters {
     max-width: 450px;
     margin-left: auto;
     margin-right: auto;
 }
+
 .nav-pills a {
     background-color: #e7e7e7;
     border: 1px solid #e3e3e3;
@@ -113,7 +115,11 @@ body {
 .alert-info {
     margin-top: 10px;
 }
-div#follow {text-align: center;}
+
+div#follow {
+    text-align: center;
+}
+
 .twitter-flw {
     margin: 1em;
 }
@@ -122,18 +128,31 @@ div#follow {text-align: center;}
     border: solid 1px #c0c0c0;
     border-radius: 5px;
 }
+
 input.form-control {
     max-width: 450px;
     margin-left: auto;
     margin-right: auto;
 }
+
 .missing {
     max-width: 450px;
     margin: auto;
 }
 
-ul { list-style: none;
+ul {
+    list-style: none;
 }
 
 div#appinfo {
-text-align: left}
+    text-align: left
+}
+div#table{
+    width: 100%;
+}
+
+.paypal {
+    display: inline;
+    margin-left: 10%;
+
+}
