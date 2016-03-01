@@ -156,3 +156,13 @@ div#table{
     margin-left: 10%;
 
 }
+ 
+#share-buttons img {
+width: 45px;
+padding: 5px;
+border: 0;
+box-shadow: 0;
+display: inline;
+    margin-top: 15px;
+}
+ 
