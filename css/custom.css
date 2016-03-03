@@ -124,11 +124,6 @@ div#follow {
     margin: 1em;
 }
 
-.selectors {
-    border: solid 1px #c0c0c0;
-    border-radius: 5px;
-}
-
 input.form-control {
     max-width: 450px;
     margin-left: auto;
