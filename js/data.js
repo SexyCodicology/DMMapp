@@ -526,8 +526,9 @@ var dataSet = [
 ];
 $(document).ready(function() {
     $('#example').DataTable( {
-        data: dataSet,
-        columns: [
+        "responsive": true,
+        "data": dataSet,
+        "columns": [
             { title: "Nation" },
             { title: "City" },
             { title: "Library" },
