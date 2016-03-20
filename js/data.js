@@ -460,7 +460,7 @@ var dataSet = [
   [ "France", "Périgord", "Bibliothèque numérique", "Unknown", "<a href='http://my.yoolib.com/ad24/'> Link to digitized manuscripts</a>" ],
   [ "Austria", "Salzburg", "Erzabtei St. Peter", "Few ( < 10 digitized manuscripts)", "<a href='http://manuscripta.at/m1/lib_digi.php?libcode=AT7300'> Link to digitized manuscripts</a>" ],
   [ "Germany", "Seligenthal", "Archiv der Zisterzienserinnenabtei", "Few ( < 10 digitized manuscripts)", "<a href='http://www.bayerische-landesbibliothek-online.de/seligenthal'> Link to digitized manuscripts</a>" ],
-  [ "England", "St. Andrews", "University Library", "Unknown", "<a href='https://arts.st-andrews.ac.uk/digitalhumanities/'> Link to digitized manuscripts</a>" ],
+  [ "Scotland", "St. Andrews", "University Library", "Unknown", "<a href='https://arts.st-andrews.ac.uk/digitalhumanities/'> Link to digitized manuscripts</a>" ],
   [ "Germany", "Aschaffenburg", "Hofbibliothek Aschaffenburg", "Few ( < 10 digitized manuscripts)", "<a href='http://daten.digitale-sammlungen.de/~db/0004/bsb00043455/images/index.html '> Link to digitized manuscripts</a>" ],
   [ "France", "Cambrai", "Archives Diocésaines / Bibliothèque Municipale", "Unknown", "<a href='http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=CAMBRAI&TOUT=true'> Link to digitized manuscripts</a>" ],
   [ "France", "Conches", "Bibliothèque Municipale", "Unknown", "<a href='http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=CONCHES&TOUT=true'> Link to digitized manuscripts</a>" ],
