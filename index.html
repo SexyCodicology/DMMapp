@@ -26,6 +26,7 @@
     <link href='//fonts.googleapis.com/css?family=Philosopher:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/t/bs-3.3.6/jqc-1.12.0,dt-1.10.11,r-2.0.2/datatables.min.css" />
     <link rel="stylesheet" type="text/css" href="css/custom.css" />
+
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
       <script type="text/javascript" src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -53,6 +54,7 @@
     <script src="//cdnjs.cloudflare.com/ajax/libs/geocomplete/1.6.5/jquery.geocomplete.min.js"></script>
     <script src="js/maps_lib.min.js"></script>
     <script src="js/data.js"></script>
+    <script src="js/app.js"></script>
 </head>
 
 <body>
@@ -88,6 +90,38 @@
             js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=705263246163822";
             fjs.parentNode.insertBefore(js, fjs);
         }(document, 'script', 'facebook-jssdk'));
+    </script>
+    <script>
+        $(function () {
+
+            var select = $('#selecter'),
+                table = $('.datatable');
+
+            _app.init({
+                el: table,
+                dataSource: select.val()
+            })
+
+            $('#selecter').change(function (e) {
+
+                var dt = table.data('datatable')
+
+                /* Destroy datatable */
+
+                dt.destroy();
+
+                /* Empty table */
+
+                table.empty();
+
+                /* Initialize */
+
+                _app.init({
+                    el: $('.datatable'),
+                    dataSource: this.value
+                })
+            })
+        })
     </script>
     <!-- End Facebook Stuff -->
     <!-- BEGIN NAV -->
@@ -294,10 +328,21 @@
             </div>
             <!-- END TAB 1! -->
             <!-- BEGIN TAB 2! -->
-            <div id="datatab" class="tab-pane fade">
+<div id="datatab" class="tab-pane fade">
+           <div class="well">
+            <p>Select data source:
+
+                <select id="selecter">
+                    <option value="1XGtRdaOjUtOuV9ZBPekRy2eYaYJTbeeYAu_doLY">Repositories</option>
+                </select>
+            </p>
+            <table class="table datatable display compact cell-border dt-responsive" cell-spacing="0" width="100%">
+            </table>
+    </div>
+            
                 <!-- BEGIN DATATABLE -->
 
-                <div class="well">
+                <!--<div class="well">
                     <h2>The DMMapp data: Searchable, sortable, browesable!</h2>
                     <p>Type anything you please in the searchbox: the name of the library you are searching for, or the country, or maybe the city you are interested in. If your query matches any of our entries, it will appear here! </p>
                     <div class="row">
@@ -305,7 +350,7 @@
                             <table id="example" class="table display compact cell-border dt-responsive"></table>
                         </div>
                     </div>
-                </div>
+                </div>-->
                 <!-- END DATATABLE -->
             </div>
             <!-- END TAB 2! -->
