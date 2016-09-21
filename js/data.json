@@ -1,0 +1,4754 @@
+[
+  {
+     "Nation":"Armenia"
+    ,"City":"Yerevan"
+    ,"Library":"The Mesrop Mashtots Institute of Ancient Manuscripts (Matenadaran)"
+    ,"lat":40.19196
+    ,"lng":44.520811
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://www.armenica.org/cgi-bin/armenica.cgi?778473216182650=2=l"
+  },
+  {
+     "Nation":"Australia"
+    ,"City":"Bundoora"
+    ,"Library":"La Trobe University Library"
+    ,"lat":-37.72165
+    ,"lng":145.046581
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.lib.latrobe.edu.au/MMDB/localmss.htm"
+  },
+  {
+     "Nation":"Australia"
+    ,"City":"Canberra"
+    ,"Library":"National Library of Australia"
+    ,"lat":-35.300912
+    ,"lng":149.134078
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.nla.gov.au/apps/cdview/?pi=nla.ms-ms1097"
+  },
+  {
+     "Nation":"Australia"
+    ,"City":"Adelaide"
+    ,"Library":"State Library of South Australia"
+    ,"lat":-34.919357
+    ,"lng":138.601693
+    ,"Quantity":"Few (< 10 digitized manuscripts)"
+    ,"Website":"http://www.slsa.sa.gov.au/antiphonal/"
+  },
+  {
+     "Nation":"Australia"
+    ,"City":"Melbourne"
+    ,"Library":"State Library of Victoria"
+    ,"lat":-37.80988
+    ,"lng":144.964844
+    ,"Quantity":"Unknown"
+    ,"Website":"http://gallery.slv.vic.gov.au/medieval-imagination"
+  },
+  {
+     "Nation":"Austria"
+    ,"City":"Vienna"
+    ,"Library":"Osterreichischen Nationalbibliothek"
+    ,"lat":48.206111
+    ,"lng":16.366389
+    ,"Quantity":"Thousands (more than 1000 digitized manuscripts)"
+    ,"Website":"http://aleph.onb.ac.at/F/?func=find-c&ccl_term=(WSG=han)AND(WUR=digitalisat)&local_base=ONB06"
+  },
+  {
+     "Nation":"Austria"
+    ,"City":"Graz"
+    ,"Library":"Universitatsbibliothek Karl-Franzens"
+    ,"lat":47.078064
+    ,"lng":15.450868
+    ,"Quantity":"Unknown"
+    ,"Website":"http://143.50.26.142/digbib/handschriften/Ms.0001-0199/Ms.0003/index.html"
+  },
+  {
+     "Nation":"Belgium"
+    ,"City":"Brussels"
+    ,"Library":"Koninklijke Bibliotheek van Belgie, Bibliotheque royale de Belgique"
+    ,"lat":50.843333
+    ,"lng":4.356389
+    ,"Quantity":"Unknown"
+    ,"Website":"http://belgica.kbr.be/fr/coll/ms/bibliotecaCarolina_fr.html"
+  },
+  {
+     "Nation":"Belgium"
+    ,"City":"Liege"
+    ,"Library":"Bibliotheques de l'Universite de Liege"
+    ,"lat":50.640306
+    ,"lng":5.575766
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://lib.ulg.ac.be/fr/content/du-pep-s-l-ulg-49-manuscrits-medievaux-et-renaissants-numerises"
+  },
+  {
+     "Nation":"Belgium"
+    ,"City":"Gent"
+    ,"Library":"Universiteitsbibliotheek Gent"
+    ,"lat":51.045201
+    ,"lng":3.725216
+    ,"Quantity":"More than half-thousand digitized manuscripts (between 500 and 1000)"
+    ,"Website":"http://adore.ugent.be/?q=manuscript&submit=search&confirm_search=1&language=en"
+  },
+  {
+     "Nation":"Belgium"
+    ,"City":"Leuven"
+    ,"Library":"Universiteitsbibliotheek KU Leuven"
+    ,"lat":50.859692
+    ,"lng":4.682045
+    ,"Quantity":"More than half-thousand digitized manuscripts (between 500 and 1000)"
+    ,"Website":"http://iterdigitalicum.bib.kuleuven.be/schatkamer/items/browse?type=Still+Image"
+  },
+  {
+     "Nation":"Bulgaria"
+    ,"City":"Sofia"
+    ,"Library":"National Library of Bulgaria"
+    ,"lat":42.694723
+    ,"lng":23.335923
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.nationallibrary.bg/cgi-bin/e-cms/vis/vis.pl?s=001&p=0192&g="
+  },
+  {
+     "Nation":"Canada"
+    ,"City":"Saanich"
+    ,"Library":"McPherson Library"
+    ,"lat":48.459263
+    ,"lng":-123.376722
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.uvic.ca/library/featured/collections/manuscripts/index.php"
+  },
+  {
+     "Nation":"Canada"
+    ,"City":"Toronto"
+    ,"Library":"Thomas Fisher Rare Book Library"
+    ,"lat":43.664088
+    ,"lng":-79.39888
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"https://fisher.library.utoronto.ca/resources/digitized-manuscripts"
+  },
+  {
+     "Nation":"Czech Republic"
+    ,"City":"Olomouc"
+    ,"Library":"Research Library in Olomouc"
+    ,"lat":49.593495
+    ,"lng":17.246814
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://dig.vkol.cz/"
+  },
+  {
+     "Nation":"Denmark"
+    ,"City":"Copenhagen"
+    ,"Library":"Det Kongelige Bibliotek"
+    ,"lat":55.67317
+    ,"lng":12.582088
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.kb.dk/en/nb/materialer/haandskrifter/HA/e-mss/e_mss.html"
+  },
+  {
+     "Nation":"England"
+    ,"City":"London"
+    ,"Library":"The British Library Digitised Manuscripts"
+    ,"lat":51.529222
+    ,"lng":-0.126753
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://www.bl.uk/manuscripts/"
+  },
+  {
+     "Nation":"England"
+    ,"City":"Oxford"
+    ,"Library":"Balliol College Special Collections"
+    ,"lat":51.756366
+    ,"lng":-1.247796
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"https://www.flickr.com/photos/balliolarchivist/collections/72157625091983501/"
+  },
+  {
+     "Nation":"England"
+    ,"City":"Oxford"
+    ,"Library":"The Bodleian Library"
+    ,"lat":51.754061
+    ,"lng":-1.254051
+    ,"Quantity":"Unknown"
+    ,"Website":"http://digital.bodleian.ox.ac.uk/"
+  },
+  {
+     "Nation":"England"
+    ,"City":"Manchester"
+    ,"Library":"University of Manchester Library: The John Rylands Library"
+    ,"lat":53.480274
+    ,"lng":-2.24876
+    ,"Quantity":"Unknown"
+    ,"Website":"http://enriqueta.man.ac.uk/luna/servlet/"
+  },
+  {
+     "Nation":"England"
+    ,"City":"Cambridge"
+    ,"Library":"Wren Library, Trinity College"
+    ,"lat":52.207018
+    ,"lng":0.114895
+    ,"Quantity":"Unknown"
+    ,"Website":"http://sites.trin.cam.ac.uk/james/browse.php?show=virtual_listing"
+  },
+  {
+     "Nation":"England"
+    ,"City":"Cambridge"
+    ,"Library":"Parker Library, Corpus Christi College"
+    ,"lat":52.205068
+    ,"lng":0.10776
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"https://parker.stanford.edu/parker/actions/browse.do?&category=ms_no&section=All"
+  },
+  {
+     "Nation":"England"
+    ,"City":"Lichfield"
+    ,"Library":"Lichfield Cathedral Library"
+    ,"lat":52.685395
+    ,"lng":-1.830164
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"https://lichfield.as.uky.edu/"
+  },
+  {
+     "Nation":"England"
+    ,"City":"Cambridge"
+    ,"Library":"The Fitzwilliam Museum"
+    ,"lat":52.199534
+    ,"lng":0.119944
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://webapps.fitzmuseum.cam.ac.uk/explorer/index.php?qu=manuscript"
+  },
+  {
+     "Nation":"Finland"
+    ,"City":"Helsinki"
+    ,"Library":"National Library of Finland"
+    ,"lat":60.170351
+    ,"lng":24.95068
+    ,"Quantity":"Unknown"
+    ,"Website":"http://fragmenta.kansalliskirjasto.fi/"
+  },
+  {
+     "Nation":"Finland"
+    ,"City":"Turku"
+    ,"Library":"Abo Akademis bibliotek"
+    ,"lat":60.452393
+    ,"lng":22.278464
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bibbild.abo.fi/hereditas/tammela/"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Douai"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":50.367617
+    ,"lng":3.073704
+    ,"Quantity":"More than half-thousand digitized manuscripts (between 500 and 1000)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=DOUAI&TOUT=true"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Reims"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":49.258269
+    ,"lng":4.031696
+    ,"Quantity":"More than half-thousand digitized manuscripts (between 500 and 1000)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Reims&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Angers"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":47.474141
+    ,"lng":-0.565097
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Angers,+Biblioth%C3%A8que+municipale&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Lyon"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":45.737075
+    ,"lng":4.867983
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=LYON&TOUT=true"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Toulouse"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":43.602639
+    ,"lng":1.425307
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=TOULOUSE&TOUT=true"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Paris"
+    ,"Library":"Bibliotheque Sainte-Genevieve"
+    ,"lat":48.848475
+    ,"lng":2.345826
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Biblioth%C3%A8que+Sainte-Genevi%C3%A8ve&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Valenciennes"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":50.359679
+    ,"lng":3.519563
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=VALENCIENNES&TOUT=true"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Amiens"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":49.898005
+    ,"lng":2.303637
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=AMIENS&TOUT=true"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Tours"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":47.394144
+    ,"lng":0.68484
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Tours&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Montpellier"
+    ,"Library":"Bibliotheque interuniversitaire"
+    ,"lat":43.604722
+    ,"lng":3.898679
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=MONTPELLIER&TOUT=true"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Paris"
+    ,"Library":"Bibliotheque de la Sorbonne"
+    ,"lat":48.849167
+    ,"lng":2.34346
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Biblioth%C3%A8que+de+la+Sorbonne&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Strasbourg"
+    ,"Library":"Bibliotheque nationale et universitaire"
+    ,"lat":48.592349
+    ,"lng":7.69754
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Strasbourg,+nationale&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Avignon"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":43.946098
+    ,"lng":4.80696
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=AVIGNON&TOUT=true"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Vendome"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":47.792551
+    ,"lng":1.065343
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Vendome&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Paris"
+    ,"Library":"Bibliotheque de l'Ecole des Beaux-Arts"
+    ,"lat":48.855186
+    ,"lng":2.359384
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Biblioth%C3%A8que+de+l%27Ecole+des+Beaux-Arts&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Besancon"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":47.238963
+    ,"lng":6.024054
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Besancon&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Orleans"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":47.902967
+    ,"lng":1.909251
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Orleans,+Biblioth%C3%A8que+municipale&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Avranches"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":48.686825
+    ,"lng":-1.36166
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Avranches&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Carpentras"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":44.05554
+    ,"lng":5.048722
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Carpentras&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Mans (Le)"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":48.006116
+    ,"lng":0.199556
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Mans+(Le)&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Caen"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":49.182725
+    ,"lng":-0.370679
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Caen,+Biblioth%C3%A8que+municipale&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Rouen"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":49.443844
+    ,"lng":1.106998
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=ROUEN&TOUT=true"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Autun"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":46.950914
+    ,"lng":4.301565
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Autun&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Aix-En-Provence"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":43.523961
+    ,"lng":439458
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Aix-En-Provence&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Bourges"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":47.080981
+    ,"lng":2.398782
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Bourges&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Alencon"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":48.431603
+    ,"lng":0.083669
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Alencon&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Paris"
+    ,"Library":"Musee de Cluny"
+    ,"lat":48.850455
+    ,"lng":2.344074
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=PARIS&TOUT=true"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Colmar"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":48.07784
+    ,"lng":7.358512
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Colmar&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Beaune"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":47.02604
+    ,"lng":4.840004
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Beaune&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Marseille"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":43.285586
+    ,"lng":5.384112
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=MARSEILLE&TOUT=true"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Albi"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":43.92686
+    ,"lng":2.146343
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Albi&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Melun"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":48.53639
+    ,"lng":2.659037
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=MELUN,+Biblioth%C3%A8que+municipale&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Arras"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":50.281989
+    ,"lng":2.784427
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=ARRAS&TOUT=true"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Chaumont"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":48.113726
+    ,"lng":5.139256
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Chaumont&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Chartres"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":48.443837
+    ,"lng":1.489012
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Chartres&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Dole"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":47.095382
+    ,"lng":5.49081
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Dole&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Chalons-En-Champagne"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":48.956466
+    ,"lng":4.363073
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Chalons-En-Champagne&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Solesmes"
+    ,"Library":"Bibliotheque de l'abbaye / Saint-Pierre; Bibliotheque municipale"
+    ,"lat":50.185436
+    ,"lng":3.497579
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=SOLESMES&TOUT=true"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Abbeville"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":50.108528
+    ,"lng":1.834584
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=ABBEVILLE&TOUT=true"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Rodez"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":44.349389
+    ,"lng":2.575986
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Rodez,+Biblioth%C3%A8que+municipale&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Rodez"
+    ,"Library":"Archives diocesaines"
+    ,"lat":44.347975
+    ,"lng":2.57439
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Rodez,+Archives+dioc%C3%A9saines&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Montauban"
+    ,"Library":"Archives departementales de Tarn-et-Garonne"
+    ,"lat":44.022732
+    ,"lng":1.347637
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=MONTAUBAN&TOUT=true"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Provins"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":48.558387
+    ,"lng":3.298778
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=PROVINS&TOUT=true"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Chambery"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":45.596794
+    ,"lng":5.915154
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=CHAMBERY&TOUT=true"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Auch"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":43.646288
+    ,"lng":0.584043
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=AUCH&TOUT=true"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Nice"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":43.701493
+    ,"lng":7.278586
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=NICE&TOUT=true"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Valognes"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":49.507654
+    ,"lng":-1.473881
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=VALOGNES&TOUT=true"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Rennes"
+    ,"Library":"Bibliotheque de Rennes Metropole"
+    ,"lat":48.108316
+    ,"lng":-1.676975
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://www.tablettes-rennaises.fr/app/photopro.sk/rennes/?"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Verdun"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":49.15894
+    ,"lng":5.386757
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Verdun&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Orleans"
+    ,"Library":"Musee historique et archeologique"
+    ,"lat":47.90065
+    ,"lng":1.905433
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Orleans,+Mus%C3%A9e+historique+et+arch%C3%A9ologique&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Cherbourg"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":49.636675
+    ,"lng":-1.622875
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=CHERBOURG&TOUT=true"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Lille"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":50.675671
+    ,"lng":3.064083
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=LILLE&TOUT=true"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Saint-Omer"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":50.74757
+    ,"lng":2.257262
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=SAINT-OMER&TOUT=true"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Langres"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":47.866816
+    ,"lng":5.334297
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Langres&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Evreux"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":49.026754
+    ,"lng":1.151361
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=EVREUX&TOUT=true"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Saint-Brieuc"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":48.51418
+    ,"lng":-2.765835
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Saint-Brieuc&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Foix"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":42.955731
+    ,"lng":1.609414
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=FOIX&TOUT=true"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Semur-En-Auxois"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":47.489854
+    ,"lng":4.33234
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Semur-En-Auxois&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Saumur"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":47.260184
+    ,"lng":-0.080893
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Saumur,+Biblioth%C3%A8que+municipale&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Strasbourg"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":48.601394
+    ,"lng":7.721664
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Strasbourg,+municipale&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Chateauroux"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":46.811416
+    ,"lng":1.686779
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Chateauroux&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Blois"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":47.588099
+    ,"lng":1.336272
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Blois&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Saint-Claude"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":46.385223
+    ,"lng":5.867782
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Blois\n"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Draguignan"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":43.537727
+    ,"lng":6.464993
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Draguignan&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Millau"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":44.099532
+    ,"lng":3.077801
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Millau&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Rodez"
+    ,"Library":"Bibliotheque de la Societe des lettres de l'Aveyron"
+    ,"lat":44.347419
+    ,"lng":2.574891
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Rodez,+Biblioth%C3%A8que+de+la+Soci%C3%A9t%C3%A9+des+lettres+de+l%27Aveyron&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Frejus"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":44.945673
+    ,"lng":6.559763
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=FREJUS&TOUT=true"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Epernay"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":49.043412
+    ,"lng":3.956242
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Epernay&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Haguenau"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":48.813491
+    ,"lng":7.79125
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Haguenau&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Laval"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":48.077863
+    ,"lng":-0.770138
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Laval&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Saumur"
+    ,"Library":"Chateau-Musee"
+    ,"lat":47.256747
+    ,"lng":-0.072355
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Ch%C3%A2teau-Mus%C3%A9e&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Cahors"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":44.474314
+    ,"lng":1.40688
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=CAHORS&TOUT=true"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Lisieux"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":49.145833
+    ,"lng":0.227849
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Lisieux&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Nantes"
+    ,"Library":"Archives Historiques du diocese de Nantes"
+    ,"lat":47.224267
+    ,"lng":-1.542319
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Archives+Historiques+du+dioc%C3%A8se+de+Nantes&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Soissons"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":49.376662
+    ,"lng":3.32342
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Soissons&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Castres"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":43.607151
+    ,"lng":2.253273
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=CASTRES&TOUT=true"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Paris"
+    ,"Library":"Bibliotheque du Chapitre metropolitain"
+    ,"lat":48.852968
+    ,"lng":2.349902
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Biblioth%C3%A8que+du+Chap%C3%AEtre+m%C3%A9tropolitain&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Angers"
+    ,"Library":"Universite catholique de l'Ouest, Bibliotheque centrale"
+    ,"lat":47.462173
+    ,"lng":-0.547861
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Universit%C3%A9+catholique+de+l%27Ouest,+Biblioth%C3%A8que+centrale&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Chateau-Gontier"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":47.826693
+    ,"lng":-0.7069
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Chateau-Gontier&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Havre (Le)"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":49.49432
+    ,"lng":0.107929
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Havre+(Le)&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Honfleur"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":49.418539
+    ,"lng":0.233262
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Honfleur&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Metz"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":49.119643
+    ,"lng":6.176905
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Metz&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Montbeliard"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":47.50961
+    ,"lng":6.798466
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Montbeliard&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Bagneres-De-Bigorre"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":43.06214
+    ,"lng":0.149293
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=BAGNERES-DE-BIGORRE&TOUT=true"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Hyres"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":43.075761
+    ,"lng":5.92789
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=HYERES&TOUT=true"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Saint-Antonin-Noble-Val"
+    ,"Library":"Archives municipales"
+    ,"lat":44.150055
+    ,"lng":1.756144
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=SAINT-ANTONIN-NOBLE-VAL&TOUT=true"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Clamecy"
+    ,"Library":"Musee d'Art et d'Histoire"
+    ,"lat":47.460371
+    ,"lng":3.520501
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Clamecy&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Nantes"
+    ,"Library":"Bibliotheque diocesain"
+    ,"lat":47.218371
+    ,"lng":-1.553621
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Nantes,+Biblioth%C3%A8que+dioc%C3%A9sain&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Nantes"
+    ,"Library":"Musee des Beaux-arts"
+    ,"lat":47.219451
+    ,"lng":-1.546684
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Nantes,+Mus%C3%A9e+des+Beaux-arts&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Nevers"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":46.990582
+    ,"lng":3.162845
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Nevers&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Quimper"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":47.997581
+    ,"lng":-4.097899
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Quimper&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Vannes"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":47.657964
+    ,"lng":-2.760847
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Vannes&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Tarbes"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":43.232951
+    ,"lng":0.078082
+    ,"Quantity":"Few (< 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=TARBES&TOUT=true"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Portet-Sur-Garonne"
+    ,"Library":"Mairie"
+    ,"lat":43.520483
+    ,"lng":1.399944
+    ,"Quantity":"Few (< 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=PORTET-SUR-GARONNE&TOUT=true"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Castelsarrasin"
+    ,"Library":"Archives municipales"
+    ,"lat":44.039783
+    ,"lng":1.107179
+    ,"Quantity":"Few (< 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=CASTELSARRASIN&TOUT=true"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Noyon"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":49.581384
+    ,"lng":2.998131
+    ,"Quantity":"Few (< 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=NOYON&TOUT=true"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Argentan"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":48.743833
+    ,"lng":-0.016566
+    ,"Quantity":"Few (< 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Argentan&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Brest"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":48.390255
+    ,"lng":-4.486076
+    ,"Quantity":"Few (< 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Brest&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Caen"
+    ,"Library":"Bibliotheque universitaire"
+    ,"lat":49.211253
+    ,"lng":-0.37011
+    ,"Quantity":"Few (< 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Caen,+Biblioth%C3%A8que+universitaire&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Coutances"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":49.047597
+    ,"lng":-1.445261
+    ,"Quantity":"Few (< 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Coutances&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Joigny"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":47.980967
+    ,"lng":3.398961
+    ,"Quantity":"Few (< 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Joigny&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Poitiers"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":46.580226
+    ,"lng":0.340375
+    ,"Quantity":"Few (< 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=poitiers&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Saint-Die-Des-Vosges"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":48.287468
+    ,"lng":6.947767
+    ,"Quantity":"Few (< 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Saint-Die-Des-Vosges&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Tournus"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":46.561617
+    ,"lng":4.911953
+    ,"Quantity":"Few (< 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Tournus&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Vitre"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":48.124746
+    ,"lng":-1.21543
+    ,"Quantity":"Few (< 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=VITRE,+Biblioth%C3%A8que+municipale,+0001&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Grenoble"
+    ,"Library":"Bibliotheque municipale de Grenoble"
+    ,"lat":45.185442
+    ,"lng":5.730617
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://manuscrits-medievaux.bm-grenoble.fr/index.htm"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Paris"
+    ,"Library":"Bibliotheque Mazarine"
+    ,"lat":48.857308
+    ,"lng":2.336891
+    ,"Quantity":"Unknown"
+    ,"Website":"http://liberfloridus.cines.fr/textes/biblio_fr.html"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Paris"
+    ,"Library":"Bibliotheque Sainte-Genevieve"
+    ,"lat":48.846957
+    ,"lng":2.345827
+    ,"Quantity":"Unknown"
+    ,"Website":"http://liberfloridus.cines.fr/textes/biblio_fr.html"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Laon"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":49.563359
+    ,"lng":3.609325
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://manuscrit.ville-laon.fr/_app/index.php"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Melun"
+    ,"Library":"Archives Departementales de Seine-et-Marne"
+    ,"lat":48.515031
+    ,"lng":2.620251
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Archives+D%C3%A9partementales+de+Seine-et-Marne&newSearch=1"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Karlsruhe"
+    ,"Library":"Badische Landesbibliothek"
+    ,"lat":49.010669
+    ,"lng":8.398898
+    ,"Quantity":"More than half-thousand digitized manuscripts (between 500 and 1000)"
+    ,"Website":"http://digital.blb-karlsruhe.de/Handschriften/nav/classification/20950"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Wolfenbuttel"
+    ,"Library":"Herzog August Bibliothek"
+    ,"lat":52.164047
+    ,"lng":10.530299
+    ,"Quantity":"More than half-thousand digitized manuscripts (between 500 and 1000)"
+    ,"Website":"http://dbs.hab.de/mss/"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Munchen,"
+    ,"Library":"Munchener Digitalisierungszentrum (MDZ)"
+    ,"lat":48.147529
+    ,"lng":11.580119
+    ,"Quantity":"More than half-thousand digitized manuscripts (between 500 and 1000)"
+    ,"Website":"http://www.digitale-sammlungen.de/index.html?c=zeit_index&kl=bis1000&l=en"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Cologne"
+    ,"Library":"Erzbischoflichen Diozesan- und Dombibliothek Koln (DDB)"
+    ,"lat":50.944368
+    ,"lng":6.95202
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://www.ceec.uni-koeln.de/"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Berlin"
+    ,"Library":"Staatsbibliothek zu Berlin"
+    ,"lat":52.507474
+    ,"lng":13.370871
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://digital.staatsbibliothek-berlin.de/suche/?tx_goobit3_sbb_search%5bDC%5d%5b0%5d=handschriften&tx_goobit3_sbb_search%5bDC%5d%5b1%5d=handschriften&tx_goobit3_sbb_search%5border%5d=BYCREATOR&tx_goobit3_sbb_search%5breverse%5d=0"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Bamberg"
+    ,"Library":"Staatsbibliothek Bamberg"
+    ,"lat":49.897355
+    ,"lng":10.882194
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://bsbsbb.bsb.lrz-muenchen.de/~db/ausgaben/index.html"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Heidelberg"
+    ,"Library":"Universitatsbibliothek Heidelberg"
+    ,"lat":49.408916
+    ,"lng":8.705869
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://www.ub.uni-heidelberg.de/helios/digi/handschriften.html"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Dusseldorf"
+    ,"Library":"Universitats- und Landesbibliothek Dusseldorf"
+    ,"lat":51.186793
+    ,"lng":6.802896
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://digital.ub.uni-duesseldorf.de/nav/classification/507874"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Ausburg"
+    ,"Library":"Universitatsbibliothek Augsburg"
+    ,"lat":48.334369
+    ,"lng":10.895214
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://www.bibliothek.uni-augsburg.de/dda/cod/"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Berlin"
+    ,"Library":"Humboldt University Library"
+    ,"lat":52.524929
+    ,"lng":13.379733
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://goobi.ub.hu-berlin.de/viewer/browse/mittelalterlichehandschriften/-/1/-/-/"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Darmstadt"
+    ,"Library":"Universitats- und Landesbibliothek Darmstadt"
+    ,"lat":49.876431
+    ,"lng":8.658064
+    ,"Quantity":"Unknown"
+    ,"Website":"http://tudigit.ulb.tu-darmstadt.de/show/sammlung22"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Dresden"
+    ,"Library":"Sachsische Landesbibliothek –\nStaats- und Universitatsbibliothek Dresden (SLUB)"
+    ,"lat":51.028563
+    ,"lng":13.736838
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://digital.slub-dresden.de/listenansicht/"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Erlangen"
+    ,"Library":"Universitatsbibliothek Erlangen-Nurnberg"
+    ,"lat":49.596806
+    ,"lng":11.007345
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://bvbm1.bib-bvb.de/R/Y6KIPU8R7PVV5HLCLD3M644L14E2BTIXK8N5S6RVMUFTLXPU1Y-04687?func=collections-result&collection_id=1995&local_base=UBE&pds_handle=GUEST"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Wurzburg"
+    ,"Library":"Universitatsbibliothek Wurzburg"
+    ,"lat":49.782455
+    ,"lng":9.968649
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://vb.uni-wuerzburg.de/ub/handschriften.html"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Giessen"
+    ,"Library":"Universitatsbibliothek Giesen"
+    ,"lat":50.57617
+    ,"lng":8.69526
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://digisam.ub.uni-giessen.de/handschriften.html"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Trier"
+    ,"Library":"Bibliothek des Bischoflichen Priesterseminars, Bistumsarchiv, Stadtbibliothek Trier"
+    ,"lat":49.7569
+    ,"lng":6.64248
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://www.stmatthias.uni-trier.de/index.php?id=4&zimk_stmatthias[action]=showDetails&zimk_stmatthias[uid]=-1"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Jena"
+    ,"Library":"Thuringer Universitats- und Landesbibliothek Jena"
+    ,"lat":50.930698
+    ,"lng":11.588001
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://archive.thulb.uni-jena.de/hisbest/servlets/solr/select?numPerPage=10&q=%2Bcomponent.top:%22sondersh%C3%A4user.fragmente%22&mask=content/main/component.xml&version=4.5&start=170&rows=10"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Fulda"
+    ,"Library":"Hochschul- und Landesbibliothek Fulda"
+    ,"lat":50.55483
+    ,"lng":9.68027
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://fuldig.hs-fulda.de/viewer/browse/handschriften*/-/1/-/-/"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Kassel"
+    ,"Library":"Universitatsbibliothek Kassel"
+    ,"lat":51.321851
+    ,"lng":9.505549
+    ,"Quantity":"Unknown"
+    ,"Website":"http://orka.bibliothek.uni-kassel.de/viewer/search/handschriften*/-/1/SORT_YEARPUBLISH/-/"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Cologne"
+    ,"Library":"Historisches Archiv der Stadt Koln"
+    ,"lat":50.93467
+    ,"lng":6.96211
+    ,"Quantity":"Unknown"
+    ,"Website":"http://historischesarchivkoeln.de/de/lesesaal/tektonik/3425/3.2.2+Handschriften"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Weimar"
+    ,"Library":"Herzogin Anna Amalia Bibliothek"
+    ,"lat":50.978516
+    ,"lng":11.332221
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://ora-web.swkk.de/digimo_online/digimo.entry"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Frankfurt am Main"
+    ,"Library":"Goethe-Universitat Frankfurt am Main Universitatsbibliothek"
+    ,"lat":50.12052
+    ,"lng":8.653091
+    ,"Quantity":"More than half-thousand digitized manuscripts (between 500 and 1000)"
+    ,"Website":"http://sammlungen.ub.uni-frankfurt.de/msma/nav/index/all"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Stuttgart"
+    ,"Library":"Wurttembergische Landesbibliothek"
+    ,"lat":48.776926
+    ,"lng":9.18504
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://digital.wlb-stuttgart.de/start/"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Freiburg im Breisgau"
+    ,"Library":"Albert-Ludwigs-Universitat Freiburg"
+    ,"lat":47.986787
+    ,"lng":7.872744
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"https://www.ub.uni-freiburg.de/recherche/digitale-bibliothek/freiburger-historische-bestaende/mittelalter/"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Tubingen"
+    ,"Library":"Universitatsbibliothek Tubingen"
+    ,"lat":48.5251
+    ,"lng":9.06176
+    ,"Quantity":"Unknown"
+    ,"Website":"http://idb.ub.uni-tuebingen.de/digitue/tue/"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Ansbach"
+    ,"Library":"Staatliche Bibliothek (Schlosbibliothek)"
+    ,"lat":49.3034
+    ,"lng":10.57451
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!%22digitalisierteHandschriften%22%20r5a:*%20r5a!%22Ansbach%22"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Barth"
+    ,"Library":"Kirchenbibliothek Sankt Marien"
+    ,"lat":54.368928
+    ,"lng":12.724311
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!\"digitalisierteHandschriften\"%20r5a:*%20r5a!\"Barth\""
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Bonn"
+    ,"Library":"Universitats- und Landesbibliothek Bonn"
+    ,"lat":50.731342
+    ,"lng":7.108468
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!\"digitalisierteHandschriften\"%20r5a!\"Bonn\""
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Darmstadt"
+    ,"Library":"Hessische Landes- und Hochschulbibliothek"
+    ,"lat":49.873369
+    ,"lng":8.656489
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!\"digitalisierteHandschriften\"%20r5a:*%20r5a!\"Darmstadt\""
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Dillingen an der Donau"
+    ,"Library":"Studienbibliothek"
+    ,"lat":48.576892
+    ,"lng":10.491123
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!\"digitalisierteHandschriften\"%20r5a:*%20r5a!\"Dillingen an der Donau\""
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Dusseldorf"
+    ,"Library":"Heinrich-Heine-Universitat Dusseldorf"
+    ,"lat":51.192465
+    ,"lng":6.793181
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!\"digitalisierteHandschriften\"%20r5a:*%20r5a!\"Dusseldorf\""
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Greifswald"
+    ,"Library":"Geistliches Ministerium Greifswald"
+    ,"lat":54.095319
+    ,"lng":13.377666
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!\"digitalisierteHandschriften\"%20r5a:*%20r5a!\"Greifswald\"%20r5b!\"Geistliches Ministerium Greifswald|Greifswald\""
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Greifswald"
+    ,"Library":"Universitatsbibliothek Greifswald"
+    ,"lat":54.090826
+    ,"lng":13.406299
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!\"digitalisierteHandschriften\"%20r5a:*%20r5a!\"Greifswald\"%20r5b!\"Universitatsbibliothek Greifswald|Greifswald\""
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Leipzig"
+    ,"Library":"Universitatsbibliothek Leipzig"
+    ,"lat":51.332293
+    ,"lng":12.368593
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!\"digitalisierteHandschriften\"%20r5a:*%20r5a!\"Leipzig\""
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Marburg"
+    ,"Library":"Staatsarchiv Marburg"
+    ,"lat":50.80355
+    ,"lng":8.76291
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!\"digitalisierteHandschriften\"%20r5a:*%20r5a!\"Marburg\""
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Modingen"
+    ,"Library":"Bibliothek des Klosters Maria-Medingen"
+    ,"lat":48.632276
+    ,"lng":10.444606
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!\"digitalisierteHandschriften\"%20r5a:*%20r5a!\"Modingen\""
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Munich"
+    ,"Library":"Bayerische Staatsbibliothek"
+    ,"lat":48.147493
+    ,"lng":11.580119
+    ,"Quantity":"Thousands (more than 1000 digitized manuscripts)"
+    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!\"digitalisierteHandschriften\"%20r5a:*%20r5a!\"Munchen\""
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Stralsund"
+    ,"Library":"Stadtarchiv Stralsund"
+    ,"lat":54.317652
+    ,"lng":13.092205
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!\"digitalisierteHandschriften\"%20r5a:*%20r5a!\"Stralsund\""
+  },
+  {
+     "Nation":"Greece"
+    ,"City":"Kalloni"
+    ,"Library":"Leimonos Monastery (Μονή Λειμώνος)"
+    ,"lat":39.247975
+    ,"lng":26.17225
+    ,"Quantity":"Unknown"
+    ,"Website":"http://84.205.233.134/library/xeirografa_en.php"
+  },
+  {
+     "Nation":"Hungary"
+    ,"City":"Budapest"
+    ,"Library":"National Szechenyi Library"
+    ,"lat":47.495106
+    ,"lng":19.039612
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://www.corvina.oszk.hu/corvinas-html/corvinas.htm"
+  },
+  {
+     "Nation":"Hungary"
+    ,"City":"Budapest"
+    ,"Library":"National Szechenyi Library Multimedia Project"
+    ,"lat":47.496615
+    ,"lng":19.037932
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://nyelvemlekek.oszk.hu/tud/nyelvemlekek"
+  },
+  {
+     "Nation":"Iceland"
+    ,"City":"Reykjavik"
+    ,"Library":"Stofnun Arna Magnussonar"
+    ,"lat":64.1405
+    ,"lng":-21.949
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://handrit.is/en/institution/collectionsview/SAM"
+  },
+  {
+     "Nation":"Ireland"
+    ,"City":"Dublin"
+    ,"Library":"Royal Irish Academy"
+    ,"lat":53.34067
+    ,"lng":-6.25822
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"https://www.isos.dias.ie/master.html?https://www.isos.dias.ie/libraries/RIA/english/index.html?ref="
+  },
+  {
+     "Nation":"Ireland"
+    ,"City":"Dublin"
+    ,"Library":"National Library of Ireland"
+    ,"lat":53.341098
+    ,"lng":-6.254482
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"https://www.isos.dias.ie/master.html?https://www.isos.dias.ie/libraries/NLI/english/index.html?ref="
+  },
+  {
+     "Nation":"Ireland"
+    ,"City":"Dublin"
+    ,"Library":"Trinity College Dublin"
+    ,"lat":53.343738
+    ,"lng":-6.254759
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"https://www.isos.dias.ie/master.html?https://www.isos.dias.ie/libraries/TCD/english/index.html?ref="
+  },
+  {
+     "Nation":"Ireland"
+    ,"City":"Dublin"
+    ,"Library":"University College Dublin"
+    ,"lat":53.307227
+    ,"lng":-6.219077
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"https://www.isos.dias.ie/master.html?https://www.isos.dias.ie/libraries/UCD/english/index.html?ref="
+  },
+  {
+     "Nation":"Ireland"
+    ,"City":"Maynooth"
+    ,"Library":"National University of Ireland "
+    ,"lat":53.38129
+    ,"lng":-6.59185
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"https://www.isos.dias.ie/master.html?https://www.isos.dias.ie/libraries/NUIM/english/index.html?ref="
+  },
+  {
+     "Nation":"Ireland"
+    ,"City":"Cappoquin"
+    ,"Library":"Mount Melleray Abbey"
+    ,"lat":52.187332
+    ,"lng":-7.856836
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"https://www.isos.dias.ie/master.html?https://www.isos.dias.ie/libraries/MMA/english/index.html?ref="
+  },
+  {
+     "Nation":"Ireland"
+    ,"City":"Galway"
+    ,"Library":"National University of Ireland"
+    ,"lat":53.279243
+    ,"lng":-9.058142
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"https://www.isos.dias.ie/master.html?https://www.isos.dias.ie/libraries/UCG/english/index.html?ref="
+  },
+  {
+     "Nation":"Ireland"
+    ,"City":"Cork"
+    ,"Library":"University College Cork"
+    ,"lat":51.891494
+    ,"lng":-8.49286
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"https://www.isos.dias.ie/master.html?https://www.isos.dias.ie/libraries/UCC/english/index.html?ref="
+  },
+  {
+     "Nation":"Ireland"
+    ,"City":"Castlerea"
+    ,"Library":"Clonalis House"
+    ,"lat":53.77025
+    ,"lng":-8.508675
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"https://www.isos.dias.ie/master.html?https://www.isos.dias.ie/libraries/CLON/english/index.html?ref="
+  },
+  {
+     "Nation":"Ireland"
+    ,"City":"Dungarvan"
+    ,"Library":"Colaiste na Rinne"
+    ,"lat":52.050296
+    ,"lng":-7.590866
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"https://www.isos.dias.ie/master.html?https://www.isos.dias.ie/libraries/CNR/english/index.html?ref="
+  },
+  {
+     "Nation":"Ireland"
+    ,"City":"Dublin"
+    ,"Library":"School of Celtic Studies"
+    ,"lat":53.331252
+    ,"lng":-6.245721
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"https://www.isos.dias.ie/master.html?https://www.isos.dias.ie/libraries/DIAS/english/index.html?ref="
+  },
+  {
+     "Nation":"Ireland"
+    ,"City":"Dublin"
+    ,"Library":"Farmleigh House"
+    ,"lat":53.365455
+    ,"lng":-6.359557
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"https://www.isos.dias.ie/master.html?https://www.isos.dias.ie/libraries/Farmleigh/english/index.html?ref="
+  },
+  {
+     "Nation":"Ireland"
+    ,"City":"Maynooth"
+    ,"Library":"St. Patrick's College Drumcondra"
+    ,"lat":53.370592
+    ,"lng":-6.253838
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"https://www.isos.dias.ie/master.html?https://www.isos.dias.ie/libraries/SPD/english/index.html?ref="
+  },
+  {
+     "Nation":"Ireland"
+    ,"City":"Dublin"
+    ,"Library":"Marsh's Library"
+    ,"lat":53.339022
+    ,"lng":-6.270694
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"https://www.isos.dias.ie/master.html?https://www.isos.dias.ie/libraries/MARSH/english/index.html?ref="
+  },
+  {
+     "Nation":"Ireland"
+    ,"City":"Chesterfield"
+    ,"Library":"Chatsworth"
+    ,"lat":51.677376
+    ,"lng":-9.46744
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"https://www.isos.dias.ie/master.html?http://www.isos.dias.ie/libraries/CHATSWORTH/english/?ref=http://www.isos.dias.ie/libraries/CHATSWORTH/"
+  },
+  {
+     "Nation":"Italy"
+    ,"City":"Firenze"
+    ,"Library":"Biblioteca Medicea Laurenziana"
+    ,"lat":43.774181
+    ,"lng":11.254802
+    ,"Quantity":"Unknown"
+    ,"Website":"http://teca.bmlonline.it/TecaRicerca/index.jsp"
+  },
+  {
+     "Nation":"Italy"
+    ,"City":"Assisi"
+    ,"Library":"Fondo Antico presso la Biblioteca del Sacro Convento"
+    ,"lat":43.074426
+    ,"lng":12.605824
+    ,"Quantity":"More than half-thousand digitized manuscripts (between 500 and 1000)"
+    ,"Website":"http://www.internetculturale.it/opencms/opencms/it/ricercaMag.jsp?searchType=avanzato&q=&opCha__creator=AND&channel__creator=&opCha__title=AND&channel__title=&opCha__contributor=AND&channel__contributor=&opCha__issuedYear=AND&channel__issuedYear_from=&channel__issuedYear_until=&opCha__publisher=AND&channel__publisher=&opCha__subject=AND&channel__subject=&opCha__language=AND+OR&opCha__typeTipo=AND+OR&opCha__typeLivello=AND&channel__typeLivello=&opCha__typeDigitale=AND+OR&opCha__location=AND&channel__location=&opCha__collectionText=AND&channel__collectionText=Mediatheca+Franciscana+-+Fondo+antico+del+Sacro+Convento+di+Assisi&opCha__agency=AND+OR&opCha__descSourceLevel2=AND+OR&imageField2.x=3&imageField2.y=12"
+  },
+  {
+     "Nation":"Italy"
+    ,"City":"Modena"
+    ,"Library":"Biblioteca Estense Universitaria"
+    ,"lat":44.648208
+    ,"lng":10.921019
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://bibliotecaestense.beniculturali.it/info/img/ebook.html"
+  },
+  {
+     "Nation":"Italy"
+    ,"City":"Perugia"
+    ,"Library":"Biblioteca Digitale Augusta di Perugia"
+    ,"lat":43.113851
+    ,"lng":12.390454
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://augusta.alchimedia.com/indice.aspx?prov=div"
+  },
+  {
+     "Nation":"Italy"
+    ,"City":"Cesena"
+    ,"Library":"Biblioteca Malatestiana"
+    ,"lat":44.139089
+    ,"lng":12.244332
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://catalogoaperto.malatestiana.it/cgi-bin/wxis.exe/?IsisScript=Opcat/search2.xis"
+  },
+  {
+     "Nation":"Italy"
+    ,"City":"Mantua"
+    ,"Library":"Biblioteca Teresiana"
+    ,"lat":45.158031
+    ,"lng":10.79731
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://www.adacta.fi.it/digitalib/teresiana3/poli_gruppo.php?op=esplora_ric&cata=polironiani&gruppo=Manoscritti%20serie%20generale"
+  },
+  {
+     "Nation":"Italy"
+    ,"City":"Bologna"
+    ,"Library":"Collegio di Spagna"
+    ,"lat":44.490646
+    ,"lng":11.338025
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://irnerio.cirsfid.unibo.it/codex/"
+  },
+  {
+     "Nation":"Italy"
+    ,"City":"Florence"
+    ,"Library":"Archivio dell'Opera\ndi Santa Maria del Fiore\ndi Firenze"
+    ,"lat":43.773168
+    ,"lng":11.258017
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://archivio.operaduomo.fi.it/corali/"
+  },
+  {
+     "Nation":"Japan"
+    ,"City":"Tokyo"
+    ,"Library":"Senshu University Library"
+    ,"lat":35.697369
+    ,"lng":139.75842
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.senshu-u.ac.jp/libif/lib/gallery.html"
+  },
+  {
+     "Nation":"Netherlands"
+    ,"City":"Utrecht"
+    ,"Library":"Utrecht University Library"
+    ,"lat":52.083996
+    ,"lng":5.172763
+    ,"Quantity":"More than half-thousand digitized manuscripts (between 500 and 1000)"
+    ,"Website":"http://objects.library.uu.nl/reader/index.php?obj=1874-26261&lan=en#page//73/50/49/7350497683016643926023021703543630924.jpg/mode/1up"
+  },
+  {
+     "Nation":"Netherlands"
+    ,"City":"The Hague"
+    ,"Library":"De Nationale Bibliotheek van Nederland (Including  Museum Meermanno | Huis van het Boek)"
+    ,"lat":52.081739
+    ,"lng":4.327369
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://manuscripts.kb.nl/"
+  },
+  {
+     "Nation":"Netherlands"
+    ,"City":"Leiden"
+    ,"Library":"Leiden University Library"
+    ,"lat":52.157513
+    ,"lng":4.481256
+    ,"Quantity":"Unknown"
+    ,"Website":"https://disc.leidenuniv.nl/R/?func=search-advanced-go&file_format_code=WTP&language_code=WLN&LOCAL_BASE=GEN01-DISC&find_code1=CID&request1=1741"
+  },
+  {
+     "Nation":"Netherlands"
+    ,"City":"Utrecht"
+    ,"Library":"Utrechts Archief"
+    ,"lat":52.089057
+    ,"lng":5.122844
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.hetutrechtsarchief.nl/collectie/handschriften/buchelius"
+  },
+  {
+     "Nation":"Netherlands"
+    ,"City":"Utrecht"
+    ,"Library":"Museum Catharijneconvent: Collectie en Bibliotheek"
+    ,"lat":52.087208
+    ,"lng":5.124153
+    ,"Quantity":"Unknown"
+    ,"Website":"http://adlib.catharijneconvent.nl/search.aspx"
+  },
+  {
+     "Nation":"Netherlands"
+    ,"City":"s-Heerenberg"
+    ,"Library":"Huis Berg"
+    ,"lat":51.874634
+    ,"lng":6.241771
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.collectiegelderland.nl/zoeken/?q=manuscript&fq=instellingscode:0211"
+  },
+  {
+     "Nation":"Netherlands"
+    ,"City":"Leeuwarden"
+    ,"Library":"Tresoar"
+    ,"lat":53.203412
+    ,"lng":5.790062
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.tresoar.nl/links/Pages/Digicollectie.aspx"
+  },
+  {
+     "Nation":"New Zealand"
+    ,"City":"Thorndon"
+    ,"Library":"National Library of New Zealand"
+    ,"lat":-41.274737
+    ,"lng":174.777852
+    ,"Quantity":"Unknown"
+    ,"Website":"https://www.flickr.com/photos/nationallibrarynz_commons/sets/72157625795521244/with/5343925075/"
+  },
+  {
+     "Nation":"New Zealand"
+    ,"City":"Auckland"
+    ,"Library":"Sir George Grey Special Collections"
+    ,"lat":-36.851728
+    ,"lng":174.765358
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.aucklandlibraries.govt.nz/EN/heritage/sirgeorgegrey/manuscripts/Pages/manuscripts.aspx"
+  },
+  {
+     "Nation":"Norway"
+    ,"City":"Oslo"
+    ,"Library":"Riksarkivet - National Archives"
+    ,"lat":59.966973
+    ,"lng":10.735958
+    ,"Quantity":"Unknown"
+    ,"Website":"https://fragments.app.uib.no/search/f?p=657:1:0::NO"
+  },
+  {
+     "Nation":"Poland"
+    ,"City":"Wroclaw"
+    ,"Library":"Digital Library of Wroclaw University"
+    ,"lat":51.108761
+    ,"lng":17.028079
+    ,"Quantity":"More than half-thousand digitized manuscripts (between 500 and 1000)"
+    ,"Website":"http://www.bibliotekacyfrowa.pl/dlibra/collectiondescription?dirids=8"
+  },
+  {
+     "Nation":"Portugal"
+    ,"City":"Lisboa"
+    ,"Library":"Biblioteca Nacional de Portugal"
+    ,"lat":38.751018
+    ,"lng":-9.15174
+    ,"Quantity":"Unknown"
+    ,"Website":"http://purl.pt/index/geral/date/PT/index.html"
+  },
+  {
+     "Nation":"Romania"
+    ,"City":"Cluj-Napoca"
+    ,"Library":"Biblioteca Central Universitara Cluj"
+    ,"lat":46.767016
+    ,"lng":23.584872
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://documente.bcucluj.ro/patrimoniu.html"
+  },
+  {
+     "Nation":"Russia"
+    ,"City":"Moscow"
+    ,"Library":"Russian State Library (Российская государственная библиотека)"
+    ,"lat":55.752161
+    ,"lng":37.609043
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!\"digitalisierteHandschriften\"%20r5a!\"Moskau\""
+  },
+  {
+     "Nation":"Scotland"
+    ,"City":"Edinburgh"
+    ,"Library":"National Library of Scotland"
+    ,"lat":55.948549
+    ,"lng":-3.191873
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://digital.nls.uk/gallery.cfm?cat=5"
+  },
+  {
+     "Nation":"Scotland"
+    ,"City":"Dirleton"
+    ,"Library":"The Stair Society"
+    ,"lat":56.047894
+    ,"lng":-2.781698
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.stairsociety.org/resources/manuscripts"
+  },
+  {
+     "Nation":"Scotland"
+    ,"City":"Glasgow"
+    ,"Library":"University of Glasgow"
+    ,"lat":55.873422
+    ,"lng":-4.28907
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://www.gla.ac.uk/services/specialcollections/digitisedbooksmss/"
+  },
+  {
+     "Nation":"Spain"
+    ,"City":"Madrid"
+    ,"Library":"National Library of Spain"
+    ,"lat":40.423761
+    ,"lng":-3.690232
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://bdh.bne.es/bnesearch/Search.do"
+  },
+  {
+     "Nation":"Spain"
+    ,"City":"Madrid"
+    ,"Library":"Real Biblioteca"
+    ,"lat":40.417955
+    ,"lng":-3.714312
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.realbiblioteca.es/"
+  },
+  {
+     "Nation":"Spain"
+    ,"City":"Valencia"
+    ,"Library":"Universitat de Valencia"
+    ,"lat":39.471577
+    ,"lng":-0.372604
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://roderic.uv.es/handle/10550/43"
+  },
+  {
+     "Nation":"Spain"
+    ,"City":"Barcelona"
+    ,"Library":"Biblioteca Nacional de Catalunya"
+    ,"lat":41.380464
+    ,"lng":2.170341
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://mdc.cbuc.cat/cdm/search/collection/manuscritBC/searchterm/manuscrits%20catalans%20--%20barcelona%20--%20s.%20xiv%20%3B%20croniques%20catalanes%20%3B%20corona%20catalanoaragonesa%20--%20historia%20--%20fonts/field/subjec/mode/all/conn/and/order/title/ad/asc"
+  },
+  {
+     "Nation":"Spain"
+    ,"City":"Madrid"
+    ,"Library":"Biblioteca de la Fundacion Lazaro Galdiano"
+    ,"lat":40.436865
+    ,"lng":-3.68597
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://www.bibliotecalazarogaldiano.es/mss/"
+  },
+  {
+     "Nation":"Sweden"
+    ,"City":"Lund"
+    ,"Library":"Lund University Library"
+    ,"lat":55.708951
+    ,"lng":13.197349
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://laurentius.ub.lu.se/index_by_idno.html"
+  },
+  {
+     "Nation":"Sweden"
+    ,"City":"Stockholm"
+    ,"Library":"Kungliga Biblioteket"
+    ,"lat":59.338163
+    ,"lng":18.072134
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://www.kb.se/samlingarna/Handskrifter/Smakprov/"
+  },
+  {
+     "Nation":"Sweden"
+    ,"City":"Uppsala"
+    ,"Library":"Uppsala Universitetsbibliotek"
+    ,"lat":59.855188
+    ,"lng":17.631549
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.ub.uu.se/samlingar/handskrifter/vasterlandska-medeltidshandskrifter/?languageId=1"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"St. Gallen"
+    ,"Library":"Stiftsbibliothek"
+    ,"lat":47.423439
+    ,"lng":9.3777
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/csg"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Cologny"
+    ,"Library":"Fondation Martin Bodmer"
+    ,"lat":46.215268
+    ,"lng":6.180629
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/fmb"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Einsiedeln"
+    ,"Library":"Stiftsbibliothek"
+    ,"lat":47.128093
+    ,"lng":8.744269
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/sbe"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Engelberg"
+    ,"Library":"Stiftsbibliothek"
+    ,"lat":46.819979
+    ,"lng":8.406987
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/bke"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Zurich"
+    ,"Library":"Zentralbibliothek"
+    ,"lat":47.374074
+    ,"lng":8.545021
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/zbz"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Geneve"
+    ,"Library":"Bibliotheque de Geneve"
+    ,"lat":46.198816
+    ,"lng":6.14508
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/bge"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"St. Gallen"
+    ,"Library":"Kantonsbibliothek, Vadianische Sammlung"
+    ,"lat":47.4291
+    ,"lng":9.38194
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/vad"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Frauenfeld"
+    ,"Library":"Kantonsbibliothek Thurgau"
+    ,"lat":47.556178
+    ,"lng":8.89947
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/kbt"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Schaffhausen"
+    ,"Library":"Stadtbibliothek"
+    ,"lat":47.695395
+    ,"lng":8.63706
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/sbs"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Private Collection. Location Uknown."
+    ,"Library":"Utopia, armarium codicum bibliophilorum"
+    ,"lat":47.36865
+    ,"lng":9.471488
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/utp"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Bern"
+    ,"Library":"Burgerbibliothek"
+    ,"lat":46.947167
+    ,"lng":7.448377
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/bbb"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Aarau"
+    ,"Library":"Aargauer Kantonsbibliothek"
+    ,"lat":47.388955
+    ,"lng":8.045077
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/kba"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Luzern"
+    ,"Library":"Zentral- und Hochschulbibliothek"
+    ,"lat":47.047332
+    ,"lng":8.307468
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/zhl"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Fribourg"
+    ,"Library":"Bibliotheque cantonale et universitaire / Kantons- und Universitatsbibliothek"
+    ,"lat":46.820073
+    ,"lng":7.004371
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/bcuf"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Sarnen"
+    ,"Library":"Benediktinerkollegium"
+    ,"lat":46.891228
+    ,"lng":8.24542
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/bks"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Solothurn"
+    ,"Library":"Zentralbibliothek"
+    ,"lat":47.209945
+    ,"lng":7.529658
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/zbs"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"St. Gallen"
+    ,"Library":"Stiftsarchiv (Abtei Pfafers)"
+    ,"lat":47.423505
+    ,"lng":9.377647
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/ssg"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Wil"
+    ,"Library":"Dominikanerinnenkloster St. Katharina"
+    ,"lat":47.465409
+    ,"lng":9.050683
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/kaw"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Basel"
+    ,"Library":"Universitatsbibliothek"
+    ,"lat":47.55901
+    ,"lng":7.580962
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/ubb"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Fribourg"
+    ,"Library":"Couvent des Cordeliers / Franziskanerkloster"
+    ,"lat":46.807222
+    ,"lng":7.160755
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/fcc"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Trogen"
+    ,"Library":"Kantonsbibliothek Appenzell Ausserrhoden"
+    ,"lat":47.443245
+    ,"lng":8.539182
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/cea"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Fribourg"
+    ,"Library":"Archives de l'Etat de Fribourg / Staatsarchiv Freiburg"
+    ,"lat":46.798362
+    ,"lng":7.149808
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/aef"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Aarau"
+    ,"Library":"Staatsarchiv Aargau"
+    ,"lat":47.388957
+    ,"lng":8.049608
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/saa"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Sitten"
+    ,"Library":"Archives du Chapitre/Kapitelsarchiv"
+    ,"lat":46.233372
+    ,"lng":7.358321
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/acs"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Neuchatel"
+    ,"Library":"Bibliotheque publique et universitaire de Neuchatel"
+    ,"lat":46.984896
+    ,"lng":6.931266
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/bpun"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Schaffhausen"
+    ,"Library":"Staatsarchiv"
+    ,"lat":47.695832
+    ,"lng":8.634199
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/stash"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Orselina"
+    ,"Library":"Convento della Madonna del Sasso"
+    ,"lat":46.175795
+    ,"lng":8.79331
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/oms"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Lausanne"
+    ,"Library":"Bibliotheque cantonale et universitaire de Lausanne"
+    ,"lat":46.522546
+    ,"lng":6.57926
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/bcul"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Solothurn"
+    ,"Library":"Domschatz der St.-Ursen-Kathedrale"
+    ,"lat":47.207648
+    ,"lng":7.538777
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/dss"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Sitten"
+    ,"Library":"Mediatheque du Valais"
+    ,"lat":46.230705
+    ,"lng":7.355588
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/mvs"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Porrentruy"
+    ,"Library":"Bibliotheque cantonale jurassienne"
+    ,"lat":46.891228
+    ,"lng":7.07466
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/bcj"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Beromunster"
+    ,"Library":"Stiftskirche St. Michael"
+    ,"lat":47.206732
+    ,"lng":8.193103
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/sbb"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Zofingen"
+    ,"Library":"Stadtbibliothek"
+    ,"lat":47.289202
+    ,"lng":7.946039
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/zos"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Sarnen"
+    ,"Library":"Staatsarchiv Obwalden"
+    ,"lat":46.896117
+    ,"lng":8.2451
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/staow"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Luzern"
+    ,"Library":"Provinzarchiv Schweizer Kapuziner Luzern"
+    ,"lat":47.061508
+    ,"lng":8.313333
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/pal"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Bremgarten"
+    ,"Library":"Stadtarchiv Bremgarten"
+    ,"lat":47.350877
+    ,"lng":8.343808
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/stab"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Schlatt"
+    ,"Library":"Eisenbibliothek"
+    ,"lat":47.68382
+    ,"lng":8.677247
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/ebs"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Solothurn"
+    ,"Library":"Domschatz der St. Ursen-Kathedrale"
+    ,"lat":47.208117
+    ,"lng":7.538777
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!\"digitalisierteHandschriften\"%20r5a:*%20r5a!\"Solothurn\"%20r5b!\"Domschatz der St.-Ursen-Kathedrale|Solothurn\""
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"New York"
+    ,"Library":"Columbia University, Rare Book and Manuscript Library"
+    ,"lat":40.8064
+    ,"lng":-73.9631
+    ,"Quantity":"Thousands (more than 1000 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=20&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Philadelphia"
+    ,"Library":"Free Library of Philadelphia, Rare Book Department"
+    ,"lat":39.949353
+    ,"lng":-75.173158
+    ,"Quantity":"Thousands (more than 1000 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=4&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Berkeley"
+    ,"Library":"University of California, Berkeley, Bancroft Library"
+    ,"lat":37.87226
+    ,"lng":-122.25885
+    ,"Quantity":"More than half-thousand digitized manuscripts (between 500 and 1000)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=1&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Philadelphia"
+    ,"Library":"University of Pennsylvania, Rare Book and Manuscript Library"
+    ,"lat":39.952739
+    ,"lng":-75.193497
+    ,"Quantity":"More than half-thousand digitized manuscripts (between 500 and 1000)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=27&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Cambridge"
+    ,"Library":"Harvard University, Houghton Library"
+    ,"lat":42.373069
+    ,"lng":-71.115919
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=2&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Baltimore"
+    ,"Library":"The Walters Art Museum"
+    ,"lat":39.296142
+    ,"lng":-76.616119
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"New York"
+    ,"Library":"The Metropolitan Museum of Art"
+    ,"lat":40.780008
+    ,"lng":-73.96305
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://www.metmuseum.org/collection/the-collection-online/search?&what=Manuscripts&ft=*&ao=on&when=A.D.+1000-1400&pg=1"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Columbia"
+    ,"Library":"University of Missouri, Ellis Library, Special Collections"
+    ,"lat":38.944278
+    ,"lng":-92.326472
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=45&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Lawrence"
+    ,"Library":"University of Kansas, Kenneth Spencer Research Library, Special Collections"
+    ,"lat":38.958922
+    ,"lng":-95.247567
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=30&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Berkeley"
+    ,"Library":"University of California, Berkeley, Robbins Collection"
+    ,"lat":37.869972
+    ,"lng":-122.253297
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=11&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"New York"
+    ,"Library":"New York Public Library, Manuscripts and Archives Division and the Spencer Collection"
+    ,"lat":40.758703
+    ,"lng":-73.978361
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=41&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Austin"
+    ,"Library":"University of Texas at Austin, Harry Ransom Humanities Research Center"
+    ,"lat":30.2843
+    ,"lng":-97.7412
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=37&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"New Haven"
+    ,"Library":"Beinecke Rare Book & Manuscript Library"
+    ,"lat":41.311636
+    ,"lng":-72.927222
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://brbl-dl.library.yale.edu/vufind/Search/Results?type=AllFields&filter[]=genre_facet:%22Manuscripts%22&daterange[]=publishDate&publishDatefrom=0&publishDateto=1550"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Notre Dame"
+    ,"Library":"University of Notre Dame, Hesburgh Library, Special Collections"
+    ,"lat":41.702683
+    ,"lng":-86.234097
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=14&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"New York"
+    ,"Library":"New York Public Library,"
+    ,"lat":40.758703
+    ,"lng":-73.978361
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=42&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"New York"
+    ,"Library":"The Morgan Library & Museum"
+    ,"lat":40.748667
+    ,"lng":-73.982025
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://utu.morganlibrary.org/index.cfm"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Bloomington"
+    ,"Library":"Indiana University, The Lilly Library"
+    ,"lat":39.167894
+    ,"lng":-86.518975
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=40&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"New York"
+    ,"Library":"Fordham University, Walsh Library, Archives and Special Collections"
+    ,"lat":40.861331
+    ,"lng":-73.889247
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=3&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"New York"
+    ,"Library":"Columbia University, Burke Library at Union Theological Seminary"
+    ,"lat":40.811269
+    ,"lng":-73.961881
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=22&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"New Brunswick"
+    ,"Library":"Rutgers, The State University of New Jersey, Special Collections and University Archives"
+    ,"lat":40.503858
+    ,"lng":-74.452933
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=6&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Oberlin"
+    ,"Library":"Oberlin College, Main Library, Special Collections"
+    ,"lat":41.29325
+    ,"lng":-82.222939
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=26&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Berkeley"
+    ,"Library":"University of California, Berkeley, Jean Gray Hargrove Music Library"
+    ,"lat":37.870447
+    ,"lng":-122.256128
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=8&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Conception"
+    ,"Library":"Conception Abbey and Seminary, Special Collection"
+    ,"lat":40.241353
+    ,"lng":-94.682606
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=15&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"San Francisco"
+    ,"Library":"State of California, Sutro Collection"
+    ,"lat":37.720914
+    ,"lng":-122.477211
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=12&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"San Francisco"
+    ,"Library":"San Francisco State University, J. Paul Leonard Library, De Bellis Collection"
+    ,"lat":37.721894
+    ,"lng":-122.479403
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=13&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Davis"
+    ,"Library":"University of California, Davis, Shields Library, Special Collections"
+    ,"lat":38.539511
+    ,"lng":-121.749672
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=7&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"San Francisco"
+    ,"Library":"San Francisco State University, J. Paul Leonard Library, De Bellis Collection"
+    ,"lat":37.721458
+    ,"lng":-122.47805
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=13&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"New York"
+    ,"Library":"The Library of The Jewish Theological Seminary"
+    ,"lat":40.811742
+    ,"lng":-73.960611
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=39&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Pittsburgh"
+    ,"Library":"University of Pittsburgh, Hillman Library, Special Collections"
+    ,"lat":40.442603
+    ,"lng":-79.954156
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=36&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"New York"
+    ,"Library":"General Theological Seminary, Christoph Keller, Jr. Library, Special Collections"
+    ,"lat":40.745931
+    ,"lng":-74.003672
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=23&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Baltimore"
+    ,"Library":"Johns Hopkins University, Milton S. Eisenhower Library"
+    ,"lat":39.3275798
+    ,"lng":-76.6207579
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=33&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"New York"
+    ,"Library":"Grolier Club"
+    ,"lat":40.7613
+    ,"lng":-73.971367
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=24&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Baltimore"
+    ,"Library":"Johns Hopkins University, John Work Garrett Library"
+    ,"lat":39.348333
+    ,"lng":-76.621111
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=31&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Riverside"
+    ,"Library":"University of California, Riverside, Tomas Rivera Library, Special Collections"
+    ,"lat":33.972522
+    ,"lng":-117.327439
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=10&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Kansas City"
+    ,"Library":"Nelson-Atkins Museum of Art, Spencer Art Reference Library"
+    ,"lat":39.044817
+    ,"lng":-94.580906
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=46&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"New York"
+    ,"Library":"New York University, Bobst Library, Special Collections"
+    ,"lat":40.729467
+    ,"lng":-73.997142
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=25&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Providence"
+    ,"Library":"Providence Public Library, Special Collections"
+    ,"lat":41.822067
+    ,"lng":-71.416944
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=28&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"New York"
+    ,"Library":"Columbia University, Barnard College Library"
+    ,"lat":40.809673
+    ,"lng":-73.962814
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=16&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Sacramento"
+    ,"Library":"State of California, California State Library"
+    ,"lat":38.575783
+    ,"lng":-121.496408
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=9&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"New York"
+    ,"Library":"Columbia University, Gabe M. Wiener Music and Arts Library"
+    ,"lat":40.807764
+    ,"lng":-73.962667
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=19&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"New York"
+    ,"Library":"Columbia University, Gottesman Libraries, Special Collections"
+    ,"lat":40.809897
+    ,"lng":-73.959928
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=21&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Baltimore"
+    ,"Library":"Johns Hopkins University, George Peabody Library"
+    ,"lat":39.297361
+    ,"lng":-76.615
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=32&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Burlington"
+    ,"Library":"University of Vermont, Bailey/Howe Library, Special Collections"
+    ,"lat":44.475942
+    ,"lng":-73.197636
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=38&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Baltimore"
+    ,"Library":"Johns Hopkins University, Institute of the History of Medicine, Historical Collection"
+    ,"lat":39.299053
+    ,"lng":-76.590289
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=34&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"New York"
+    ,"Library":"Columbia University, Arthur W. Diamond Law Library"
+    ,"lat":40.807128
+    ,"lng":-73.960283
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=17&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"New York"
+    ,"Library":"City College of New York, Morris R. Cohen Library, Archives and Special Collections"
+    ,"lat":40.823275
+    ,"lng":-73.947739
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=5&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"New York"
+    ,"Library":"Columbia University, Augustus C. Long Health Sciences Library"
+    ,"lat":40.823275
+    ,"lng":-73.947739
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=18&docsPerPage=30"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Gambier"
+    ,"Library":"Greenslade Archives and Special Collections"
+    ,"lat":40.376809
+    ,"lng":-82.39659
+    ,"Quantity":"Unknown"
+    ,"Website":"https://www.flickr.com/photos/kenyon_special_collections/sets/72157627655737919/"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Chicago"
+    ,"Library":"University of Chicago Library"
+    ,"lat":41.79218
+    ,"lng":-87.599934
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://goodspeed.lib.uchicago.edu/list/index.php?list=listscanned"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Stanford"
+    ,"Library":"Stanford University Libraries"
+    ,"lat":37.427474
+    ,"lng":-122.169719
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://collections.stanford.edu/images/bin/search/advanced/process?sort=title&clauseMapped(collectionBrowse)=Medieval+Manuscripts+and+Fragments&browse=1"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Los Angeles"
+    ,"Library":"The J. Paul Getty Museum"
+    ,"lat":34.077174
+    ,"lng":-118.473942
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://www.getty.edu/art/collection/"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Iowa City"
+    ,"Library":"Special Collections, University of Iowa Libraries"
+    ,"lat":41.659395
+    ,"lng":-91.538411
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://digital.lib.uiowa.edu/"
+  },
+  {
+     "Nation":"Vatican"
+    ,"City":"Vatican City"
+    ,"Library":"Biblioteca Apostolica Vaticana"
+    ,"lat":41.903038
+    ,"lng":12.454465
+    ,"Quantity":"More than half-thousand digitized manuscripts (between 500 and 1000)"
+    ,"Website":"http://www.mss.vatlib.it/gui/scan/link.jsp"
+  },
+  {
+     "Nation":"Wales"
+    ,"City":"Aberystwyth"
+    ,"Library":"National Library of Wales"
+    ,"lat":52.414311
+    ,"lng":-4.068509
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://www.llgc.org.uk/index.php?id=4730"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Philadelphia"
+    ,"Library":"Schoenberg Collection"
+    ,"lat":39.952576
+    ,"lng":-75.193576
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://dla.library.upenn.edu/dla/medren/search.html?fq=collection_facet:%22Medieval%20%26%20Renaissance%20Manuscripts%22%20AND%20facsimile_facet:%22Yes%22%20AND%20collection_facet:%22Lawrence%20J.%20Schoenberg%20Collection%22"
+  },
+  {
+     "Nation":"Estonia"
+    ,"City":"Tallinn"
+    ,"Library":"Eesti Ajaloomuuseum - Estonian History Museum"
+    ,"lat":59.4525
+    ,"lng":24.81
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://www.ra.ee/pargamendid/index.php/en/parchment/search?institution=AM&end_year=1500&q=1&sort=years"
+  },
+  {
+     "Nation":"Estonia"
+    ,"City":"Tartu"
+    ,"Library":"Estonian Historical Archives"
+    ,"lat":58.378286
+    ,"lng":26.713496
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://www.ra.ee/pargamendid/index.php/en/parchment/search?institution=EAA&end_year=1500&q=1&sort=years"
+  },
+  {
+     "Nation":"Estonia"
+    ,"City":"Tallinn"
+    ,"Library":"Tallinn City Archives"
+    ,"lat":59.441968
+    ,"lng":24.748075
+    ,"Quantity":"More than half-thousand digitized manuscripts (between 500 and 1000)"
+    ,"Website":"http://www.ra.ee/pargamendid/index.php/en/parchment/search?institution=TLA&end_year=1500&q=1&sort=years"
+  },
+  {
+     "Nation":"Netherlands"
+    ,"City":"Groningen"
+    ,"Library":"Bibliotheek Rijksuniversiteit Groningen"
+    ,"lat":53.218765
+    ,"lng":6.563144
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://facsimile.ub.rug.nl/cdm/search/collection/manuscripts/order/date"
+  },
+  {
+     "Nation":"Italy"
+    ,"City":"Verona"
+    ,"Library":"Biblioteca capitolare"
+    ,"lat":45.447067
+    ,"lng":10.996376
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.nuovabibliotecamanoscritta.it/Generale/BibliotecaDigitale/manoscritti.html"
+  },
+  {
+     "Nation":"Austria"
+    ,"City":"Linz"
+    ,"Library":"Oberosterreichische Landesbibliothek"
+    ,"lat":48.297254
+    ,"lng":14.290938
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://digi.landesbibliothek.at/viewer/browse/"
+  },
+  {
+     "Nation":"Czech Republic"
+    ,"City":"Strahov"
+    ,"Library":"Royal Canonry of Premonstratensians"
+    ,"lat":50.086381
+    ,"lng":14.389146
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.manuscriptorium.com/en/node/867"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Munich"
+    ,"Library":"LMU University Library"
+    ,"lat":48.158186
+    ,"lng":11.564218
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://epub.ub.uni-muenchen.de/view/malte/handschriften.html"
+  },
+  {
+     "Nation":"Italy"
+    ,"City":"Chioggia"
+    ,"Library":"Biblioteca civica Cristoforo Sabbadino"
+    ,"lat":45.216052
+    ,"lng":12.277146
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.nuovabibliotecamanoscritta.it/Generale/BibliotecaDigitale/caricaVolumi.html?codice=9"
+  },
+  {
+     "Nation":"Italy"
+    ,"City":"Venezia"
+    ,"Library":"Biblioteca del Museo Correr"
+    ,"lat":45.433576
+    ,"lng":12.337191
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.nuovabibliotecamanoscritta.it/Generale/BibliotecaDigitale/manoscritti.html"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Washington"
+    ,"Library":"Library of Congress, Lessing J. Rosenwald Collection"
+    ,"lat":38.888629
+    ,"lng":-77.004728
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.loc.gov/rr/rarebook/rosenwald-MandR.html"
+  },
+  {
+     "Nation":"Austria"
+    ,"City":"Klosterneuburg"
+    ,"Library":"Augustiner-Chorherrenstift, Bibliothek"
+    ,"lat":48.306193
+    ,"lng":16.326588
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://mws.unibas.ch/mikrofilmarchiv/musikhandschriften-online/#c36670"
+  },
+  {
+     "Nation":"Italy"
+    ,"City":"Trento"
+    ,"Library":"Castello del Buonconsiglio"
+    ,"lat":46.071532
+    ,"lng":11.126576
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.trentinocultura.net/portal/server.pt/community/musical_manuscripts_%27400/814/sfoglia_codice/22660?Codice=Tr87"
+  },
+  {
+     "Nation":"Austria"
+    ,"City":"Kremsmunster"
+    ,"Library":"Stiftsbibliothek Kremsmunster"
+    ,"lat":48.054408
+    ,"lng":14.128826
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://schulen.eduhi.at/stift_kremsmuenster/vat/index.htm"
+  },
+  {
+     "Nation":"Poland"
+    ,"City":"Torun"
+    ,"Library":"Biblioteka Uniwersytecka w Toruniu"
+    ,"lat":53.020103
+    ,"lng":18.571357
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://www.bu.umk.pl/rekopisy-online"
+  },
+  {
+     "Nation":"England"
+    ,"City":"Leeds"
+    ,"Library":"Leeds University Library"
+    ,"lat":53.80724
+    ,"lng":-1.551635
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"https://ludos.leeds.ac.uk/R?func=search-simple&local_base=gen01-medmss"
+  },
+  {
+     "Nation":"Poland"
+    ,"City":"Krakow"
+    ,"Library":"Jagiellonian Library"
+    ,"lat":50.061372
+    ,"lng":19.922311
+    ,"Quantity":"Unknown"
+    ,"Website":"http://jbc.bj.uj.edu.pl/dlibra/collectiondescription?dirids=180"
+  },
+  {
+     "Nation":"Italy"
+    ,"City":"Padova"
+    ,"Library":"Biblioteca Medica 'V.Pinali'"
+    ,"lat":45.40346
+    ,"lng":11.885444
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://phaidra.cab.unipd.it/o:875"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Rostock"
+    ,"Library":"Universitatsbibliothek Rostock"
+    ,"lat":54.075574
+    ,"lng":12.103569
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://rosdok.uni-rostock.de/browse_histbest.action?searcher.classCollection=DigiHandschriften"
+  },
+  {
+     "Nation":"Portugal"
+    ,"City":"Coimbra"
+    ,"Library":"Biblioteca Geral da Universidade de Coimbra"
+    ,"lat":40.207469
+    ,"lng":-8.425135
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://almamater.uc.pt"
+  },
+  {
+     "Nation":"Belgium"
+    ,"City":"Antwerp"
+    ,"Library":"Erfgoedbibliotheek Hendrik Conscience"
+    ,"lat":50.938831
+    ,"lng":5.970545
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.flandrica.be/solr-search/results/?solrfacet=collection:%22Erfgoedbibliotheek%20Hendrik%20Conscience%22+AND+136_s:%22handschrift%22"
+  },
+  {
+     "Nation":"Italy"
+    ,"City":"Venice"
+    ,"Library":"Santa Maria della Fava"
+    ,"lat":45.436991
+    ,"lng":12.337935
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://smcfava.regione.veneto.it/pages/index_man_per.htm"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Libourne"
+    ,"Library":"Bibliotheque de Libourne"
+    ,"lat":44.914537
+    ,"lng":-0.241447
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://manuscrits-drac.bnsa.aquitaine.fr/resultats.aspx?fd=99"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Oloron-Sainte-Marie"
+    ,"Library":"Bibliotheque d'Oloron-Sainte-Marie"
+    ,"lat":43.194046
+    ,"lng":-0.608059
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://manuscrits-drac.bnsa.aquitaine.fr/resultats.aspx?fd=96"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Pau"
+    ,"Library":"Mediatheque Intercommunale Andre Labarrere"
+    ,"lat":43.300272
+    ,"lng":-0.368258
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://manuscrits-drac.bnsa.aquitaine.fr/resultats.aspx?fd=98"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Bordeaux"
+    ,"Library":"Bibliotheque de Bordeaux"
+    ,"lat":44.873793
+    ,"lng":-0.572865
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://manuscrits-drac.bnsa.aquitaine.fr/resultats.aspx?fd=95"
+  },
+  {
+     "Nation":"Belgium"
+    ,"City":"Hasselt"
+    ,"Library":"Provinciale Bibliotheek Limburg"
+    ,"lat":50.66991
+    ,"lng":5.28475
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.flandrica.be/solr-search/results/?solrfacet=collection:%22Provinciale%20Bibliotheek%20Limburg%22+AND+136_s:%22handschrift%22"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Pau"
+    ,"Library":"Bibliotheque Chateau de Pau"
+    ,"lat":43.294822
+    ,"lng":-0.3757
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://manuscrits-drac.bnsa.aquitaine.fr/resultats.aspx?fd=100"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Bordeaux"
+    ,"Library":"Archives departementales de la Gironde"
+    ,"lat":44.857054
+    ,"lng":-0.568412
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://manuscrits-drac.bnsa.aquitaine.fr/resultats.aspx?fd=101"
+  },
+  {
+     "Nation":"Belgium"
+    ,"City":"Leuven"
+    ,"Library":"Universiteitsbibliotheek Leuven"
+    ,"lat":50.878002
+    ,"lng":4.707499
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.flandrica.be/solr-search/results/?solrfacet=collection:%22Universiteitsbibliotheek%20Leuven%22+AND+136_s:%22handschrift%22"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Bayonne"
+    ,"Library":"Bibliotheque de Bayonne"
+    ,"lat":43.491076
+    ,"lng":-1.478219
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://manuscrits-drac.bnsa.aquitaine.fr/resultats.aspx?fd=94"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Bordeaux"
+    ,"Library":"Cathedrale Saint-Andre de Bordeaux"
+    ,"lat":44.837645
+    ,"lng":-0.57767
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://manuscrits-drac.bnsa.aquitaine.fr/resultats.aspx?fd=102"
+  },
+  {
+     "Nation":"Belgium"
+    ,"City":"Ghent"
+    ,"Library":"Universiteitsbibliotheek Gent"
+    ,"lat":51.045201
+    ,"lng":3.725216
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.flandrica.be/solr-search/results/?solrfacet=collection:%22Universiteitsbibliotheek%20Gent%22+AND+136_s:%22handschrift%22"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Agen"
+    ,"Library":"Bibliotheque d'Agen"
+    ,"lat":44.200865
+    ,"lng":0.61727
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://manuscrits-drac.bnsa.aquitaine.fr/resultats.aspx?fd=93"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Perigueux"
+    ,"Library":"Bibliotheque de Perigueux"
+    ,"lat":45.188728
+    ,"lng":0.723237
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://manuscrits-drac.bnsa.aquitaine.fr/resultats.aspx?fd=97"
+  },
+  {
+     "Nation":"Belgium"
+    ,"City":"Antwerp"
+    ,"Library":"Universiteitsbibliotheek Antwerpen"
+    ,"lat":51.22281
+    ,"lng":4.410232
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.flandrica.be/solr-search/results/?solrfacet=collection:%22Universiteitsbibliotheek%20Antwerpen%22+AND+136_s:%22handschrift%22"
+  },
+  {
+     "Nation":"Belgium"
+    ,"City":"Antwerp"
+    ,"Library":"Museum Plantin-Moretus"
+    ,"lat":51.218446
+    ,"lng":4.397957
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.museumplantinmoretus.be/Museum_PlantinMoretus_NL/PlantinMoretusNL/PlantinMoretusNL-Bibliotheken-en-archieven/Bibliotheken-en-archieven-Bibliotheken/De-oude-bibliotheek/De-oude-bibliotheek-Manuscripten.html"
+  },
+  {
+     "Nation":"Belgium"
+    ,"City":"Bruges"
+    ,"Library":"Openbare Bibliotheek Brugge"
+    ,"lat":51.20969
+    ,"lng":3.223162
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.flandrica.be/solr-search/results/?solrfacet=collection:%22Openbare%20Bibliotheek%20Brugge%22+AND+136_s:%22handschrift%22"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Berlin"
+    ,"Library":"Staatliche Museen zu Berlin"
+    ,"lat":52.509289
+    ,"lng":13.364284
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.smb-digital.de/eMuseumPlus"
+  },
+  {
+     "Nation":"Netherlands"
+    ,"City":"Middelburg"
+    ,"Library":"Zeeuwse Bibliotheek"
+    ,"lat":51.49632
+    ,"lng":3.615961
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.mmdc.nl/static/site/search/?searchMode=advanced&recordId=null&selectedRecordId=null&maximumRecords=15&recordDisplayLevel=1&startRecord=1&showMap=1&freetextsearch=Type+in+query&shelfmark=middelburg&author=Type+in+query...+%28autocompleted%29&title=Type+in+query...+%28autocompleted%29&startyear=Type+in+query&endyear=Type+in+query&alt-title=Type+in+query...+%28autocompleted%29&incipit=Type+in+query&annotation_contents=Type+in+query&contains=null&language=null&language_original=null&translator=Type+in+query...+%28autocompleted%29&type=null&keyword=Type+in+query&person=Type+in+query...+%28autocompleted%29&medium=null&script=Type+in+query&scribe=Type+in+query...+%28autocompleted%29&binding=null&binder=Type+in+query...+%28autocompleted%29&region=null&place=Type+in+query&patron=Type+in+query...+%28autocompleted%29&collection=Type+in+query...+%28autocompleted%29"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Kalamazoo"
+    ,"Library":"Dwight B. Waldo Library, Western Michigan University"
+    ,"lat":42.282326
+    ,"lng":-85.613934
+    ,"Quantity":"Unknown"
+    ,"Website":"http://luna.library.wmich.edu:8180/luna/servlet/s/4w5t8d"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Birmingham"
+    ,"Library":"Reynolds Historical Library, University of Alabama at Birmingham"
+    ,"lat":33.498091
+    ,"lng":-86.806779
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://contentdm.mhsl.uab.edu/cdm/search/collection/PHARM"
+  },
+  {
+     "Nation":"Netherlands"
+    ,"City":"Enschede"
+    ,"Library":"Rijksmuseum Twenthe"
+    ,"lat":52.227582
+    ,"lng":6.896681
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.collectierijksmuseumtwenthe.nl/ventura/engine.php?Cmd=see&P_site=812&P_self=32&PMax=0&PSkip=0&Fresh=1&Push=1411028631&x=0&y=0&Search=manuscript"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"St. Louis"
+    ,"Library":"Pius XII Memorial Library, Special Collections"
+    ,"lat":38.636763
+    ,"lng":-90.235025
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://ucblibrary4.berkeley.edu:8088/xtf22/search?rmode=digscript&smode=bid&bid=44&docsPerPage=30"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Dijon"
+    ,"Library":"Bibliotheque municipale de Dijon"
+    ,"lat":47.319294
+    ,"lng":5.042493
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.mediatheque.grand-troyes.fr/webmat2/expos/clairvaux/galerie.html"
+  },
+  {
+     "Nation":"Croatia"
+    ,"City":"Zagreb"
+    ,"Library":"Croatian State Archives"
+    ,"lat":45.806315
+    ,"lng":15.97015
+    ,"Quantity":"Unknown"
+    ,"Website":"http://arhinet.arhiv.hr/details.aspx?ItemId=1_4793"
+  },
+  {
+     "Nation":"Spain"
+    ,"City":"Valladolid"
+    ,"Library":"Biblioteca Historica Santa Cruz"
+    ,"lat":41.651668
+    ,"lng":-4.720905
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.bhsc.uva.es:8080/BHSC/bhsc/bhsc/VerCatalogoAlfabetico.action"
+  },
+  {
+     "Nation":"Denmark"
+    ,"City":"Copenhagen"
+    ,"Library":"The Arnamagnaean Manuscript Collection"
+    ,"lat":55.687409
+    ,"lng":12.568310
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://haandskrift.ku.dk/en/"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Bamberg"
+    ,"Library":"Bamberg State Library"
+    ,"lat":49.891798
+    ,"lng":10.882070
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://digital.bib-bvb.de/R/?func=collections&collection_id=2247&local_base=SBG"
+  },
+  {
+     "Nation":"Italy"
+    ,"City":"Bologna"
+    ,"Library":"International Museum and Library of Music of Bologna"
+    ,"lat":44.492884
+    ,"lng":11.350320
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.internetculturale.it/opencms/opencms/it/collezioni/collezione_0029.html"
+  },
+  {
+     "Nation":"Italy"
+    ,"City":"Bologna"
+    ,"Library":"Biblioteca dell'Archiginnasio"
+    ,"lat":44.492106
+    ,"lng":11.343443
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://badigit.comune.bologna.it/books/ludolfo/index.html"
+  },
+  {
+     "Nation":"Spain"
+    ,"City":"Barcelona"
+    ,"Library":"Biblioteca de la Universidad de Barcelona"
+    ,"lat":41.501285
+    ,"lng":2.103270
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://bipadi.ub.edu/cdm/search/collection/manuscrits/display/200/order/title/ad/asc"
+  },
+  {
+     "Nation":"New Zealand"
+    ,"City":"Christchurch"
+    ,"Library":"University of Canterbury"
+    ,"lat":-43.523537
+    ,"lng":172.583921
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.canterbury.ac.nz/canterburyroll"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Plano"
+    ,"Library":"Center for the Study of New Testament Manuscripts"
+    ,"lat":33.008042
+    ,"lng":-96.732293
+    ,"Quantity":"Thousands (more than 1000 digitized manuscripts)"
+    ,"Website":"http://www.csntm.org/"
+  },
+  {
+     "Nation":"Ireland"
+    ,"City":"Dublin"
+    ,"Library":"Trinity College Dublin"
+    ,"lat":53.343044
+    ,"lng":-6.252082
+    ,"Quantity":"Thousands (more than 1000 digitized manuscripts)"
+    ,"Website":"http://www.digitalcollections.tcd.ie"
+  },
+  {
+     "Nation":"Spain"
+    ,"City":"Madrid"
+    ,"Library":"Biblioteca de la Real Academia de la Historia"
+    ,"lat":40.413475
+    ,"lng":-3.698988
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://bibliotecadigital.rah.es/dgbrah/es/estaticos/contenido.cmd?pagina=estaticos/presentacion"
+  },
+  {
+     "Nation":"Scotland"
+    ,"City":"Edinburgh"
+    ,"Library":"University of Edinburgh"
+    ,"lat":55.944516
+    ,"lng":-3.189242
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://images.is.ed.ac.uk/"
+  },
+  {
+     "Nation":"Australia"
+    ,"City":"Sydney"
+    ,"Library":"State Library of New South Wales"
+    ,"lat":-33.866754
+    ,"lng":151.212784
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://acms.sl.nsw.gov.au/album/albumView.aspx?itemID=1255751&acmsid=0"
+  },
+  {
+     "Nation":"England"
+    ,"City":"Oxford"
+    ,"Library":"Polonsky Project"
+    ,"lat":51.754370
+    ,"lng":-1.255140
+    ,"Quantity":"Unknown"
+    ,"Website":"http://bav.bodleian.ox.ac.uk/browse"
+  },
+  {
+     "Nation":"Australia"
+    ,"City":"Canberra"
+    ,"Library":"Australian National University"
+    ,"lat":-35.277700
+    ,"lng":149.118527
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"https://digitalcollections.anu.edu.au/handle/1885/45199"
+  },
+  {
+     "Nation":"Netherlands"
+    ,"City":"Deventer"
+    ,"Library":"Stadsarchief en Athenaeumbibliotheek"
+    ,"lat":52.253324
+    ,"lng":6.152568
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://www.deventerboekenstad.nl/?method=c.dsp_lib_rep_searchresults&set_id=6847A5E9-B96C-B63B-506198C1D25AB191"
+  },
+  {
+     "Nation":"Australia"
+    ,"City":"Melbourne"
+    ,"Library":"University of Melbourne"
+    ,"lat":-37.800361
+    ,"lng":144.957981
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"https://digitised-collections.unimelb.edu.au/handle/11343/151"
+  },
+  {
+     "Nation":"Australia"
+    ,"City":"Sydney"
+    ,"Library":"University of Sydney"
+    ,"lat":-33.881738
+    ,"lng":151.049136
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.library.usyd.edu.au/libraries/rare/7digmat.html"
+  },
+  {
+     "Nation":"Australia"
+    ,"City":"Ballarat"
+    ,"Library":"Art Gallery of Ballarat"
+    ,"lat":-37.560486
+    ,"lng":143.858271
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.slv.vic.gov.au/search-discover/explore-collections-theme/history-book/medieval-manuscripts"
+  },
+  {
+     "Nation":"England"
+    ,"City":"Leeds"
+    ,"Library":"Leeds University Library"
+    ,"lat":53.807240
+    ,"lng":-1.551635
+    ,"Quantity":"More than half-thousand digitized manuscripts (between 500 and 1000)"
+    ,"Website":"http://library.leeds.ac.uk/special-collections-explore/?query=&displayMedia=list&objectType=&searchColumn=archiveKeyWord&collectionGroup=Medieval+Manuscripts&archiveLevel=&archiveEarliest=&archiveLatest=&sortBy=Relevance&browseQuery=Search&searchMode=advanced&selection="
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Trogen"
+    ,"Library":"Kantonsbibliothek Appenzell Ausserrhoden"
+    ,"lat":47.443143
+    ,"lng":9.471495
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Trogen%2C+Kantonsbibliothek+Appenzell+Ausserrhoden"
+  },
+  {
+     "Nation":"Poland"
+    ,"City":"Warsaw"
+    ,"Library":"Biblioteka Narodowa"
+    ,"lat":52.213658
+    ,"lng":21.003451
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://polona.pl/"
+  },
+  {
+     "Nation":"Poland"
+    ,"City":"Poznan"
+    ,"Library":"University Library (Biblioteka Uniwersytecka)"
+    ,"lat":52.407058
+    ,"lng":16.925662
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://www.wbc.poznan.pl/dlibra"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Munchen"
+    ,"Library":"Pracht auf Pergament"
+    ,"lat":48.135125
+    ,"lng":11.581981
+    ,"Quantity":"Unknown"
+    ,"Website":"https://www.bsb-muenchen.de/benutzung-und-service/virtuelle-angebote-app0/pracht-auf-pergament-schaetze-der-buchmalerei-von-780-bis-1180/"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Aschaffenburg"
+    ,"Library":"Hofbibliothek Aschaffenburg"
+    ,"lat":49.975790
+    ,"lng":9.142110
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://daten.digitale-sammlungen.de/~db/0008/bsb00086015/images/index.html?seite=0001&l=de"
+  },
+  {
+     "Nation":"Poland"
+    ,"City":"Krakow"
+    ,"Library":"ARMARIUM dominikanska biblioteka cyfrowa"
+    ,"lat":50.267893
+    ,"lng":18.984522
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://bc.dominikanie.pl/dlibra/collectiondescription?dirids=31"
+  },
+  {
+     "Nation":"England"
+    ,"City":"Oxford"
+    ,"Library":"Early Manuscripts at Oxford University"
+    ,"lat":51.756634
+    ,"lng":-1.254704
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://image.ox.ac.uk/"
+  },
+  {
+     "Nation":"England"
+    ,"City":"Oxford"
+    ,"Library":"New Digital Bodleian"
+    ,"lat":51.754591
+    ,"lng":-1.254510
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://digital.bodleian.ox.ac.uk/inquire/Discover/Search/#/?p=c+,t+,rsrs+0,rsps+10,fa+ox%3Acollection%5EWestern%20Manuscripts,so+ox%3Asort%5Easc,scids+,pid+,vi+"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Troyes"
+    ,"Library":"Mediatheque du Grand Troyes"
+    ,"lat":48.301431
+    ,"lng":4.072377
+    ,"Quantity":"Thousands (more than 1000 digitized manuscripts)"
+    ,"Website":"https://www.bibliotheque-virtuelle-clairvaux.com"
+  },
+  {
+     "Nation":"England "
+    ,"City":"London"
+    ,"Library":"Wellcome Library"
+    ,"lat":51.525924
+    ,"lng":-0.134148
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://wellcomelibrary.org/collections/browse/collections/digwms"
+  },
+  {
+     "Nation":"Spain"
+    ,"City":"Valencia"
+    ,"Library":"Biblioteca Valenciana Nicolau Primitiu"
+    ,"lat":39.499507
+    ,"lng":-0.369979
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://bivaldi.gva.es/es/cms/elemento.cmd?id=estaticos/paginas/inicio.html"
+  },
+  {
+     "Nation":"Spain"
+    ,"City":"Madrid"
+    ,"Library":"Portal de Archivos Espanoles"
+    ,"lat":40.416775
+    ,"lng":-3.703790
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://pares.mcu.es/"
+  },
+  {
+     "Nation":"Netherlands"
+    ,"City":"Amsterdam"
+    ,"Library":"Universiteitsbibliotheek Vrije Universiteit "
+    ,"lat":52.333757
+    ,"lng":4.865720
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://imagebase.ubvu.vu.nl/cdm/search/collection/mhs"
+  },
+  {
+     "Nation":"England"
+    ,"City":"London"
+    ,"Library":"British Library Catalogue of Illuminated Manuscripts"
+    ,"lat":51.531169
+    ,"lng":-0.128074
+    ,"Quantity":"Thousands (more than 1000 digitized manuscripts)"
+    ,"Website":"http://www.bl.uk/catalogues/illuminatedmanuscripts/welcome.htm"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Nantes"
+    ,"Library":"Musee Dobree"
+    ,"lat":47.212604
+    ,"lng":-1.566473
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=dobree&newSearch=1"
+  },
+  {
+     "Nation":"Netherlands"
+    ,"City":"Nijmegen"
+    ,"Library":"Universiteitsbibliotheek Nijmegen / Radboud Universiteit (they have no own website with digitized mss)"
+    ,"lat":51.819972
+    ,"lng":5.865495
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://mmdc.nl/static/site/search/?searchMode=advanced&recordId=null&selectedRecordId=null&maximumRecords=15&recordDisplayLevel=1&startRecord=1&showMap=1&freetextsearch=Type+in+query&shelfmark=nijmegen+ub&author=Type+in+query...+%28autocompleted%29&title=Type+in+query...+%28autocompleted%29&startyear=Type+in+query&endyear=Type+in+query&alt-title=Type+in+query...+%28autocompleted%29&incipit=Type+in+query&annotation_contents=Type+in+query&contains=null&language=null&language_original=null&translator=Type+in+query...+%28autocompleted%29&type=null&keyword=Type+in+query&person=Type+in+query...+%28autocompleted%29&medium=null&script=Type+in+query&scribe=Type+in+query...+%28autocompleted%29&binding=null&binder=Type+in+query...+%28autocompleted%29&region=null&place=Type+in+query&patron=Type+in+query...+%28autocompleted%29&collection=Type+in+query...+%28autocompleted%29"
+  },
+  {
+     "Nation":"Netherlands"
+    ,"City":"Groningen"
+    ,"Library":"Rijksuniversiteit Groningen"
+    ,"lat":53.219263
+    ,"lng":6.562989
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://facsimile.ub.rug.nl/cdm/search/collection/membradisje!manuscripts"
+  },
+  {
+     "Nation":"Netherlands"
+    ,"City":"Rotterdam"
+    ,"Library":"Museum Rotterdam"
+    ,"lat":51.918780
+    ,"lng":4.482080
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://mmdc.nl/static/site/search/?searchMode=advanced&recordId=null&selectedRecordId=null&maximumRecords=15&recordDisplayLevel=1&startRecord=1&showMap=1&freetextsearch=Type+in+query&shelfmark=rotterdam+hmr&author=Type+in+query...+%28autocompleted%29&title=Type+in+query...+%28autocompleted%29&startyear=Type+in+query&endyear=Type+in+query&alt-title=Type+in+query...+%28autocompleted%29&incipit=Type+in+query&annotation_contents=Type+in+query&contains=null&language=null&language_original=null&translator=Type+in+query...+%28autocompleted%29&type=null&keyword=Type+in+query&person=Type+in+query...+%28autocompleted%29&medium=null&script=Type+in+query&scribe=Type+in+query...+%28autocompleted%29&binding=null&binder=Type+in+query...+%28autocompleted%29&region=null&place=Type+in+query&patron=Type+in+query...+%28autocompleted%29&collection=Type+in+query...+%28autocompleted%29"
+  },
+  {
+     "Nation":"Netherlands"
+    ,"City":"Alkmaar"
+    ,"Library":"Regionaal Archief Alkmaar"
+    ,"lat":52.635901
+    ,"lng":4.737095
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.mmdc.nl/static/site/search/?searchMode=advanced&recordId=null&selectedRecordId=null&maximumRecords=15&recordDisplayLevel=1&startRecord=1&showMap=1&freetextsearch=Type+in+query&shelfmark=alkmaar&author=Type+in+query...+%28autocompleted%29&title=Type+in+query...+%28autocompleted%29&startyear=Type+in+query&endyear=Type+in+query&alt-title=Type+in+query...+%28autocompleted%29&incipit=Type+in+query&annotation_contents=Type+in+query&contains=null&language=null&language_original=null&translator=Type+in+query...+%28autocompleted%29&type=null&keyword=Type+in+query&person=Type+in+query...+%28autocompleted%29&medium=null&script=Type+in+query&scribe=Type+in+query...+%28autocompleted%29&binding=null&binder=Type+in+query...+%28autocompleted%29&region=null&place=Type+in+query&patron=Type+in+query...+%28autocompleted%29&collection=Type+in+query...+%28autocompleted%29"
+  },
+  {
+     "Nation":"Netherlands "
+    ,"City":"Leiden"
+    ,"Library":"Erfgoed Leiden en Omstreken"
+    ,"lat":52.154296
+    ,"lng":4.487330
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://mmdc.nl/static/site/search/?searchMode=advanced&recordId=null&selectedRecordId=null&maximumRecords=15&recordDisplayLevel=1&startRecord=1&showMap=1&freetextsearch=Type+in+query&shelfmark=leiden+ral&author=Type+in+query...+%28autocompleted%29&title=Type+in+query...+%28autocompleted%29&startyear=Type+in+query&endyear=Type+in+query&alt-title=Type+in+query...+%28autocompleted%29&incipit=Type+in+query&annotation_contents=Type+in+query&contains=null&language=null&language_original=null&translator=Type+in+query...+%28autocompleted%29&type=null&keyword=Type+in+query&person=Type+in+query...+%28autocompleted%29&medium=null&script=Type+in+query&scribe=Type+in+query...+%28autocompleted%29&binding=null&binder=Type+in+query...+%28autocompleted%29&region=null&place=Type+in+query&patron=Type+in+query...+%28autocompleted%29&collection=Type+in+query...+%28autocompleted%29"
+  },
+  {
+     "Nation":"Netherlands"
+    ,"City":"Amsterdam"
+    ,"Library":"The Ritman Library / Bibliotheca Philosophica Hermetica"
+    ,"lat":52.374269
+    ,"lng":4.882299
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://www.mmdc.nl/static/site/search/?searchMode=advanced&recordId=null&selectedRecordId=null&maximumRecords=15&recordDisplayLevel=1&startRecord=1&showMap=1&freetextsearch=Type+in+query&shelfmark=bph&author=Type+in+query...+%28autocompleted%29&title=Type+in+query...+%28autocompleted%29&startyear=Type+in+query&endyear=Type+in+query&alt-title=Type+in+query...+%28autocompleted%29&incipit=Type+in+query&annotation_contents=Type+in+query&contains=null&language=null&language_original=null&translator=Type+in+query...+%28autocompleted%29&type=null&keyword=Type+in+query&person=Type+in+query...+%28autocompleted%29&medium=null&script=Type+in+query&scribe=Type+in+query...+%28autocompleted%29&binding=null&binder=Type+in+query...+%28autocompleted%29&region=null&place=Type+in+query&patron=Type+in+query...+%28autocompleted%29&collection=Type+in+query...+%28autocompleted%29"
+  },
+  {
+     "Nation":"Netherlands"
+    ,"City":"Zwolle"
+    ,"Library":"Historisch Centrum Overijssel"
+    ,"lat":52.517622
+    ,"lng":6.100476
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://mmdc.nl/static/site/search/?searchMode=advanced&recordId=null&selectedRecordId=null&maximumRecords=15&recordDisplayLevel=1&startRecord=1&showMap=1&freetextsearch=Type+in+query&shelfmark=hco&author=Type+in+query...+%28autocompleted%29&title=Type+in+query...+%28autocompleted%29&startyear=Type+in+query&endyear=Type+in+query&alt-title=Type+in+query...+%28autocompleted%29&incipit=Type+in+query&annotation_contents=Type+in+query&contains=null&language=null&language_original=null&translator=Type+in+query...+%28autocompleted%29&type=null&keyword=Type+in+query&person=Type+in+query...+%28autocompleted%29&medium=null&script=Type+in+query&scribe=Type+in+query...+%28autocompleted%29&binding=null&binder=Type+in+query...+%28autocompleted%29&region=null&place=Type+in+query&patron=Type+in+query...+%28autocompleted%29&collection=Type+in+query...+%28autocompleted%29"
+  },
+  {
+     "Nation":"Netherlands"
+    ,"City":"Rotterdam"
+    ,"Library":"Bibliotheek Rotterdam"
+    ,"lat":51.921231
+    ,"lng":4.488820
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://mmdc.nl/static/site/search/?searchMode=advanced&recordId=null&selectedRecordId=null&maximumRecords=15&recordDisplayLevel=1&startRecord=1&showMap=1&freetextsearch=Type+in+query&shelfmark=rotterdam+gb&author=Type+in+query...+%28autocompleted%29&title=Type+in+query...+%28autocompleted%29&startyear=Type+in+query&endyear=Type+in+query&alt-title=Type+in+query...+%28autocompleted%29&incipit=Type+in+query&annotation_contents=Type+in+query&contains=null&language=null&language_original=null&translator=Type+in+query...+%28autocompleted%29&type=null&keyword=Type+in+query&person=Type+in+query...+%28autocompleted%29&medium=null&script=Type+in+query&scribe=Type+in+query...+%28autocompleted%29&binding=null&binder=Type+in+query...+%28autocompleted%29&region=null&place=Type+in+query&patron=Type+in+query...+%28autocompleted%29&collection=Type+in+query...+%28autocompleted%29"
+  },
+  {
+     "Nation":"Netherlands"
+    ,"City":"Tilburg"
+    ,"Library":"Universiteitsbibliotheek Tilburg University"
+    ,"lat":51.564045
+    ,"lng":5.043603
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://mmdc.nl/static/site/search/?searchMode=advanced&recordId=null&selectedRecordId=null&maximumRecords=15&recordDisplayLevel=1&startRecord=1&showMap=1&freetextsearch=Type+in+query&shelfmark=tilburg&author=Type+in+query...+%28autocompleted%29&title=Type+in+query...+%28autocompleted%29&startyear=Type+in+query&endyear=Type+in+query&alt-title=Type+in+query...+%28autocompleted%29&incipit=Type+in+query&annotation_contents=Type+in+query&contains=null&language=null&language_original=null&translator=Type+in+query...+%28autocompleted%29&type=null&keyword=Type+in+query&person=Type+in+query...+%28autocompleted%29&medium=null&script=Type+in+query&scribe=Type+in+query...+%28autocompleted%29&binding=null&binder=Type+in+query...+%28autocompleted%29&region=null&place=Type+in+query&patron=Type+in+query...+%28autocompleted%29&collection=Type+in+query...+%28autocompleted%29"
+  },
+  {
+     "Nation":"Netherlands"
+    ,"City":"Amsterdam"
+    ,"Library":"Rijksmuseum"
+    ,"lat":52.359853
+    ,"lng":4.885489
+    ,"Quantity":"Unknown"
+    ,"Website":"https://www.rijksmuseum.nl/en/search?s=chronologic&f=1&p=1&ps=12&material=parchment%20(animal%20material)&imgonly=True&ii=0"
+  },
+  {
+     "Nation":"Netherlands"
+    ,"City":"Arnhem"
+    ,"Library":"Openbare Bibliotheek Arnhem / Erfgoedcentrum Rozet"
+    ,"lat":51.980616
+    ,"lng":5.904604
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://www.mmdc.nl/static/site/search/?searchMode=advanced&recordId=null&selectedRecordId=null&maximumRecords=15&recordDisplayLevel=1&startRecord=1&showMap=1&freetextsearch=Type+in+query&shelfmark=arnhem+ob&author=Type+in+query...+%28autocompleted%29&title=Type+in+query...+%28autocompleted%29&startyear=Type+in+query&endyear=Type+in+query&alt-title=Type+in+query...+%28autocompleted%29&incipit=Type+in+query&annotation_contents=Type+in+query&contains=null&language=null&language_original=null&translator=Type+in+query...+%28autocompleted%29&type=null&keyword=Type+in+query&person=Type+in+query...+%28autocompleted%29&medium=null&script=Type+in+query&scribe=Type+in+query...+%28autocompleted%29&binding=null&binder=Type+in+query...+%28autocompleted%29&region=null&place=Type+in+query&patron=Type+in+query...+%28autocompleted%29&collection=Type+in+query...+%28autocompleted%29"
+  },
+  {
+     "Nation":"Netherlands"
+    ,"City":"Dordrecht"
+    ,"Library":"Museum Huis Simon van Gijn"
+    ,"lat":51.816481
+    ,"lng":4.663817
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://mmdc.nl/static/site/search/?searchMode=advanced&recordId=null&selectedRecordId=null&maximumRecords=15&recordDisplayLevel=1&startRecord=1&showMap=1&freetextsearch=Type+in+query&shelfmark=dordrecht+museum&author=Type+in+query...+%28autocompleted%29&title=Type+in+query...+%28autocompleted%29&startyear=Type+in+query&endyear=Type+in+query&alt-title=Type+in+query...+%28autocompleted%29&incipit=Type+in+query&annotation_contents=Type+in+query&contains=null&language=null&language_original=null&translator=Type+in+query...+%28autocompleted%29&type=null&keyword=Type+in+query&person=Type+in+query...+%28autocompleted%29&medium=null&script=Type+in+query&scribe=Type+in+query...+%28autocompleted%29&binding=null&binder=Type+in+query...+%28autocompleted%29&region=null&place=Type+in+query&patron=Type+in+query...+%28autocompleted%29&collection=Type+in+query...+%28autocompleted%29"
+  },
+  {
+     "Nation":"Netherlands"
+    ,"City":"Breda"
+    ,"Library":"Stadsarchief"
+    ,"lat":51.584703
+    ,"lng":4.780068
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://mmdc.nl/static/site/search/?searchMode=advanced&recordId=null&selectedRecordId=null&maximumRecords=15&recordDisplayLevel=1&startRecord=1&showMap=1&freetextsearch=Type+in+query&shelfmark=breda+&author=Type+in+query...+%28autocompleted%29&title=Type+in+query...+%28autocompleted%29&startyear=Type+in+query&endyear=Type+in+query&alt-title=Type+in+query...+%28autocompleted%29&incipit=Type+in+query&annotation_contents=Type+in+query&contains=null&language=null&language_original=null&translator=Type+in+query...+%28autocompleted%29&type=null&keyword=Type+in+query&person=Type+in+query...+%28autocompleted%29&medium=null&script=Type+in+query&scribe=Type+in+query...+%28autocompleted%29&binding=null&binder=Type+in+query...+%28autocompleted%29&region=null&place=Type+in+query&patron=Type+in+query...+%28autocompleted%29&collection=Type+in+query...+%28autocompleted%29"
+  },
+  {
+     "Nation":"Netherlands"
+    ,"City":"Deventer"
+    ,"Library":"Stadsarchief en Atheneumbibliotheek"
+    ,"lat":52.253270
+    ,"lng":6.152643
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://www.athenaeumbibliotheek.nl/index.cfm?method=c.dsp_lib_rep_searchresults&set_id=6847A5E9-B96C-B63B-506198C1D25AB191"
+  },
+  {
+     "Nation":"Netherlands"
+    ,"City":"Zwolle"
+    ,"Library":"Stedelijk Museum Zwolle"
+    ,"lat":52.513022
+    ,"lng":6.090564
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://mmdc.nl/static/site/search/?searchMode=advanced&recordId=null&selectedRecordId=null&maximumRecords=15&recordDisplayLevel=1&startRecord=1&showMap=1&freetextsearch=Type+in+query&shelfmark=zwolle+sm&author=Type+in+query...+%28autocompleted%29&title=Type+in+query...+%28autocompleted%29&startyear=Type+in+query&endyear=Type+in+query&alt-title=Type+in+query...+%28autocompleted%29&incipit=Type+in+query&annotation_contents=Type+in+query&contains=null&language=null&language_original=null&translator=Type+in+query...+%28autocompleted%29&type=null&keyword=Type+in+query&person=Type+in+query...+%28autocompleted%29&medium=null&script=Type+in+query&scribe=Type+in+query...+%28autocompleted%29&binding=null&binder=Type+in+query...+%28autocompleted%29&region=null&place=Type+in+query&patron=Type+in+query...+%28autocompleted%29&collection=Type+in+query...+%28autocompleted%29"
+  },
+  {
+     "Nation":"Netherlands"
+    ,"City":"Goes"
+    ,"Library":"Gemeentearchief Goes"
+    ,"lat":51.499460
+    ,"lng":3.886012
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://mmdc.nl/static/site/search/?searchMode=advanced&recordId=null&selectedRecordId=null&maximumRecords=15&recordDisplayLevel=1&startRecord=1&showMap=1&freetextsearch=Type+in+query&shelfmark=goes&author=Type+in+query...+%28autocompleted%29&title=Type+in+query...+%28autocompleted%29&startyear=Type+in+query&endyear=Type+in+query&alt-title=Type+in+query...+%28autocompleted%29&incipit=Type+in+query&annotation_contents=Type+in+query&contains=null&language=null&language_original=null&translator=Type+in+query...+%28autocompleted%29&type=null&keyword=Type+in+query&person=Type+in+query...+%28autocompleted%29&medium=null&script=Type+in+query&scribe=Type+in+query...+%28autocompleted%29&binding=null&binder=Type+in+query...+%28autocompleted%29&region=null&place=Type+in+query&patron=Type+in+query...+%28autocompleted%29&collection=Type+in+query...+%28autocompleted%29"
+  },
+  {
+     "Nation":"Netherlands"
+    ,"City":"Gouda"
+    ,"Library":"Streekarchief Midden-Holland"
+    ,"lat":52.012293
+    ,"lng":4.716346
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://mmdc.nl/static/site/search/?searchMode=advanced&recordId=null&selectedRecordId=null&maximumRecords=15&recordDisplayLevel=1&startRecord=1&showMap=1&freetextsearch=Type+in+query&shelfmark=gouda&author=Type+in+query...+%28autocompleted%29&title=Type+in+query...+%28autocompleted%29&startyear=Type+in+query&endyear=Type+in+query&alt-title=Type+in+query...+%28autocompleted%29&incipit=Type+in+query&annotation_contents=Type+in+query&contains=null&language=null&language_original=null&translator=Type+in+query...+%28autocompleted%29&type=null&keyword=Type+in+query&person=Type+in+query...+%28autocompleted%29&medium=null&script=Type+in+query&scribe=Type+in+query...+%28autocompleted%29&binding=null&binder=Type+in+query...+%28autocompleted%29&region=null&place=Type+in+query&patron=Type+in+query...+%28autocompleted%29&collection=Type+in+query...+%28autocompleted%29"
+  },
+  {
+     "Nation":"England"
+    ,"City":"Cambridge"
+    ,"Library":"St. John's College Library, University of Cambridge"
+    ,"lat":52.207738
+    ,"lng":0.117867
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://www.joh.cam.ac.uk/library/special_collections/manuscripts/medieval_manuscripts/"
+  },
+  {
+     "Nation":"Italy"
+    ,"City":"Savona"
+    ,"Library":"Biblioteca Civica Barrili"
+    ,"lat":44.312395
+    ,"lng":8.478928
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bibliotecadigitale.regione.liguria.it/opacbdl/opac/bdl/list.jsp"
+  },
+  {
+     "Nation":"Belgium"
+    ,"City":"Ghent"
+    ,"Library":"Universiteitsbibliotheek Gent "
+    ,"lat":51.045201
+    ,"lng":3.725216
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://www.flandrica.be/solr-search/results/?solrfacet=136_s:%22handschrift%22+AND+collection:%22universiteitsbibliotheek%20gent%22"
+  },
+  {
+     "Nation":"Netherlands"
+    ,"City":"s-Hertogenbosch"
+    ,"Library":"Brabants Historisch Informatie Centrum (BHIC)"
+    ,"lat":51.694858
+    ,"lng":5.302437
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://mmdc.nl/static/site/search/?searchMode=advanced&recordId=null&selectedRecordId=null&maximumRecords=15&recordDisplayLevel=1&startRecord=1&showMap=1&freetextsearch=Type+in+query&shelfmark=hertogenbosch+bhic&author=Type+in+query...+%28autocompleted%29&title=Type+in+query...+%28autocompleted%29&startyear=Type+in+query&endyear=Type+in+query&alt-title=Type+in+query...+%28autocompleted%29&incipit=Type+in+query&annotation_contents=Type+in+query&contains=null&language=null&language_original=null&translator=Type+in+query...+%28autocompleted%29&type=null&keyword=Type+in+query&person=Type+in+query...+%28autocompleted%29&medium=null&script=Type+in+query&scribe=Type+in+query...+%28autocompleted%29&binding=null&binder=Type+in+query...+%28autocompleted%29&region=null&place=Type+in+query&patron=Type+in+query...+%28autocompleted%29&collection=Type+in+query...+%28autocompleted%29"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Angers"
+    ,"Library":"Musee des Beaux-Arts"
+    ,"lat":47.469155
+    ,"lng":-0.554460
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=angers%2C+Mus%C3%A9e+des+Beaux-Arts&newSearch=1"
+  },
+  {
+     "Nation":"Sevilla"
+    ,"City":"Spain"
+    ,"Library":"Universidad de Sevilla"
+    ,"lat":37.380758
+    ,"lng":-5.991231
+    ,"Quantity":"Unknown"
+    ,"Website":"http://fondosdigitales.us.es/fondos/"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Albi"
+    ,"Library":"Archives departementales du Tarn"
+    ,"lat":43.982521
+    ,"lng":1.743565
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=Archives+d%C3%A9partementales+du+Tarn&newSearch=1"
+  },
+  {
+     "Nation":"England"
+    ,"City":"London"
+    ,"Library":"The Courtauld Institute of Art"
+    ,"lat":51.511607
+    ,"lng":-0.117395
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.artandarchitecture.org.uk/search/results.html?n=1&allof=manuscript&title=&people=&dateto=1550&type=&noneof=&location=&oneof=&creator=&datefrom=500&keywords=&searchtype=all"
+  },
+  {
+     "Nation":"Spain"
+    ,"City":"Valladolid"
+    ,"Library":"Biblioteca de Castilla y Leon"
+    ,"lat":42.595414
+    ,"lng":-5.571864
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://bibliotecadigital.jcyl.es/i18n/estaticos/presentacion.cmd"
+  },
+  {
+     "Nation":"Czech Republic"
+    ,"City":"Prague"
+    ,"Library":"Narodni knihovna Ceske republiky"
+    ,"lat":50.061160
+    ,"lng":14.530722
+    ,"Quantity":"Thousands (more than 1000 digitized manuscripts)"
+    ,"Website":"http://www.manuscriptorium.com/en/node/868"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Paris"
+    ,"Library":"Banque d'images - Bibliotheque Nationale de France"
+    ,"lat":48.830589
+    ,"lng":2.376976
+    ,"Quantity":"Unknown"
+    ,"Website":"http://images.bnf.fr/jsp/index.jsp?contexte=accueil&destination=accueil.jsp"
+  },
+  {
+     "Nation":"Spain"
+    ,"City":"Salamanca"
+    ,"Library":"Universidad de Salamanca"
+    ,"lat":40.961338
+    ,"lng":-5.666925
+    ,"Quantity":"Unknown"
+    ,"Website":"http://gredos.usal.es/jspui/handle/10366/1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Nantes"
+    ,"Library":"Musee Dobree"
+    ,"lat":47.212604
+    ,"lng":-1.566473
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=dobree&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Paris"
+    ,"Library":"Bibliotheque Nationale de France "
+    ,"lat":48.835852
+    ,"lng":2.372197
+    ,"Quantity":"Unknown"
+    ,"Website":"http://mandragore.bnf.fr/jsp/rechercheExperte.jsp"
+  },
+  {
+     "Nation":"Ireland"
+    ,"City":"Dublin"
+    ,"Library":"Chester Beatty Library"
+    ,"lat":53.342274
+    ,"lng":-6.267473
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://www.cbl.ie/cbl_image_gallery/search/list.aspx"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Auxerre"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":47.793653
+    ,"lng":3.575586
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=auxerre&newSearch=1"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Berlin"
+    ,"Library":"Staatsbibliothek zu Berlin - Preussischer Kulturbesitz"
+    ,"lat":52.507538
+    ,"lng":13.370894
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=berlin&newSearch=1"
+  },
+  {
+     "Nation":"England"
+    ,"City":"London"
+    ,"Library":"Victoria and Albert Museum"
+    ,"lat":51.496639
+    ,"lng":-0.172180
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://collections.vam.ac.uk/category/manuscripts/30/"
+  },
+  {
+     "Nation":"Romania"
+    ,"City":"Alba Iulia"
+    ,"Library":"Batthyaneum"
+    ,"lat":46.070515
+    ,"lng":23.570748
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.manuscriptorium.com/"
+  },
+  {
+     "Nation":"Italy"
+    ,"City":"Genova"
+    ,"Library":"Biblioteca Civica L. Berio"
+    ,"lat":44.405211
+    ,"lng":8.937521
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bibliotecadigitale.regione.liguria.it/opacbdl/opac/bdl/collezioni_digitali.jsp"
+  },
+  {
+     "Nation":"Canada"
+    ,"City":"Toronto"
+    ,"Library":"University of Toronto, Fisher Library, Collection of Manuscript Fragments"
+    ,"lat":43.664088
+    ,"lng":-79.398880
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://link.library.utoronto.ca/vellum/"
+  },
+  {
+     "Nation":"Netherlands"
+    ,"City":"'s-Heerenberg "
+    ,"Library":"Huis Bergh"
+    ,"lat":51.874714
+    ,"lng":6.240756
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.collectiegelderland.nl/zoeken/?q=Huis+Bergh%3a+Manuscripten&fq=instellingscode:0211"
+  },
+  {
+     "Nation":"Belgium"
+    ,"City":"Antwerp"
+    ,"Library":"Erfgoedbibliotheek Hendrik Conscience"
+    ,"lat":51.220622
+    ,"lng":4.403961
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://www.flandrica.be/solr-search/results/?solrfacet=collection:%22Erfgoedbibliotheek%20Hendrik%20Conscience%22+AND+136_s:%22handschrift%22"
+  },
+  {
+     "Nation":"Netherlands"
+    ,"City":"Cuijk"
+    ,"Library":"Klooster Sint Aegten"
+    ,"lat":51.713203
+    ,"lng":5.917006
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://mmdc.nl/static/site/search/?searchMode=advanced&recordId=null&selectedRecordId=null&maximumRecords=15&recordDisplayLevel=1&startRecord=1&showMap=1&freetextsearch=Type+in+query&shelfmark=cuijk&author=Type+in+query...+%28autocompleted%29&title=Type+in+query...+%28autocompleted%29&startyear=Type+in+query&endyear=Type+in+query&alt-title=Type+in+query...+%28autocompleted%29&incipit=Type+in+query&annotation_contents=Type+in+query&contains=null&language=null&language_original=null&translator=Type+in+query...+%28autocompleted%29&type=null&keyword=Type+in+query&person=Type+in+query...+%28autocompleted%29&medium=null&script=Type+in+query&scribe=Type+in+query...+%28autocompleted%29&binding=null&binder=Type+in+query...+%28autocompleted%29&region=null&place=Type+in+query&patron=Type+in+query...+%28autocompleted%29&collection=Type+in+query...+%28autocompleted%29"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Limoges"
+    ,"Library":"Bibliotheque municipale Limoges"
+    ,"lat":45.828971
+    ,"lng":1.267604
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=limoges&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Versailles"
+    ,"Library":"Bibliotheque municipale Versailles"
+    ,"lat":48.802063
+    ,"lng":2.121009
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=versailles&newSearch=1"
+  },
+  {
+     "Nation":"Netherlands"
+    ,"City":"Haarlem"
+    ,"Library":"Teylers Museum"
+    ,"lat":52.380622
+    ,"lng":4.640057
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.teylersmuseum.nl/nl/collectie/boeken/ms-078-horae-romanae-briconnet-heures-jean-poyer"
+  },
+  {
+     "Nation":"Netherlands"
+    ,"City":"Haarlem"
+    ,"Library":"Stadsbibliotheek Haarlem"
+    ,"lat":52.380204
+    ,"lng":4.631200
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://collections.tresoar.nl/cdm/landingpage/collection/SBHMS"
+  },
+  {
+     "Nation":"England"
+    ,"City":"London"
+    ,"Library":"University College London,  Medieval Manuscript Fragments Imaging Project"
+    ,"lat":51.524559
+    ,"lng":-0.134040
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://digitool-b.lib.ucl.ac.uk:8881/R/RKJGQ7NDQK677S194X158KT1V2RGQN8GNQYCRQLLTKYLHLXDQ3-09797?func=collections&collection_id=3482"
+  },
+  {
+     "Nation":"Czech Republic"
+    ,"City":"Prague"
+    ,"Library":"Narodni Muzeum"
+    ,"lat":50.079951
+    ,"lng":14.431825
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://v2.manuscriptorium.com/apps/main/index.php?request=show_dynamic_collection_detail&collId=13262014091326201686"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Chicago"
+    ,"Library":"University of Chicago, The Goodspeed Manuscript Collection"
+    ,"lat":41.788608
+    ,"lng":-87.598713
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://goodspeed.lib.uchicago.edu/list/index.php?list=listscanned"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Boulogne-sur-mer"
+    ,"Library":"Bibliotheque Municipale"
+    ,"lat":50.735205
+    ,"lng":1.60553
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=boulogne-sur-mer&newSearch=1"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Paris"
+    ,"Library":"Gallica - Bibliotheque Nationale de France"
+    ,"lat":48.834140
+    ,"lng":2.374195
+    ,"Quantity":"Thousands (more than 1000 digitized manuscripts)"
+    ,"Website":"http://gallica.bnf.fr/"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Aix-en-Provence"
+    ,"Library":"Bibliotheque Municipale"
+    ,"lat": 43.524724
+    ,"lng":5.439092
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=aix-en-provence&newSearch=1"
+  },
+  {
+     "Nation":"Spain"
+    ,"City":"Madrid"
+    ,"Library":"Biblioteca de la Fundacion Lazaro Galdiano"
+    ,"lat":40.436913
+    ,"lng":-3.685847
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://www.bibliotecalazarogaldiano.es/mss/Entrada_ListaTitulos.html"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Mainz"
+    ,"Library":"Johannes Gutenberg Universitat"
+    ,"lat":49.992640
+    ,"lng":8.241555
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"https://visualcollections.ub.uni-mainz.de/ubmzms"
+  },
+  {
+     "Nation":"Italy"
+    ,"City":"Modena"
+    ,"Library":"Archivio Storico Diocesano di Modena-Nonantola"
+    ,"lat":44.646641
+    ,"lng":10.924396
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://archiviodiocesano.mo.it/opere-digitalizzate"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Charleville-Mezieres"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":49.774340
+    ,"lng":4.724702
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=CHARLEVILLE-MEZIERES&TOUT=true"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Erfurt"
+    ,"Library":"Universitats- und Forschungsbibliothek Erfurt/Gotha"
+    ,"lat":50.989321
+    ,"lng":11.008887
+    ,"Quantity":"Unknown"
+    ,"Website":"http://archive.thulb.uni-jena.de/ufb/content/below/index.xml\n"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Halle"
+    ,"Library":"Universitats- und Landesbibliothek (ULB)"
+    ,"lat":51.486132
+    ,"lng":11.969532
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://digital.bibliothek.uni-halle.de/hd/nav/classification/1406583"
+  },
+  {
+     "Nation":"Italy"
+    ,"City":"Genova"
+    ,"Library":"Biblioteca Digitale Ligure"
+    ,"lat":44.407325
+    ,"lng":8.932467
+    ,"Quantity":"Unknown"
+    ,"Website":"http://bibliotecadigitale.regione.liguria.it/opacbdl/opac/bdl/index.jsp"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Mainz"
+    ,"Library":"Stadtbibliothek "
+    ,"lat":50.003263
+    ,"lng":8.259267
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://www.dilibri.de/nav/classification/991549"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Neuburg a.d.Donau"
+    ,"Library":"Benediktinerinnenkloster "
+    ,"lat":54.418120
+    ,"lng":13.432520
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://www.phil-fak.uni-duesseldorf.de/geschichte/lehrstuehle/mittelalterliche-geschichte/forschung/dfg-projekt-schriftlichkeit-in-sueddeutschen-frauenkloestern/benediktinerinnenkloster-neuburg-a-d-donau/"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Perigord"
+    ,"Library":"Bibliotheque numerique"
+    ,"lat":43.607852
+    ,"lng":1.443869
+    ,"Quantity":"Unknown"
+    ,"Website":"http://my.yoolib.com/ad24/"
+  },
+  {
+     "Nation":"Austria"
+    ,"City":"Salzburg"
+    ,"Library":"Erzabtei St. Peter"
+    ,"lat":47.797337
+    ,"lng":13.044527
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://manuscripta.at/m1/lib_digi.php?libcode=AT7300"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Seligenthal"
+    ,"Library":"Archiv der Zisterzienserinnenabtei"
+    ,"lat":48.542280
+    ,"lng":12.148470
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://www.bayerische-landesbibliothek-online.de/seligenthal"
+  },
+  {
+     "Nation":"Scotland"
+    ,"City":"St. Andrews"
+    ,"Library":"University Library"
+    ,"lat":56.341971
+    ,"lng":-2.796074
+    ,"Quantity":"Unknown"
+    ,"Website":"https://arts.st-andrews.ac.uk/digitalhumanities/"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Aschaffenburg"
+    ,"Library":"Hofbibliothek Aschaffenburg"
+    ,"lat":49.975790
+    ,"lng":9.142110
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://daten.digitale-sammlungen.de/~db/0004/bsb00043455/images/index.html "
+  },
+  {
+     "Nation":"France"
+    ,"City":"Cambrai"
+    ,"Library":"Archives Diocesaines / Bibliotheque Municipale"
+    ,"lat":50.170558
+    ,"lng":3.235556
+    ,"Quantity":"Unknown"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=CAMBRAI&TOUT=true\n"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Conches"
+    ,"Library":"Bibliotheque Municipale"
+    ,"lat":48.955096
+    ,"lng":0.939920
+    ,"Quantity":"Unknown"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=CONCHES&TOUT=true"
+  },
+  {
+     "Nation":"Italy"
+    ,"City":"Firenze"
+    ,"Library":"Archivio Storico dell'Opera di Santa Maria del Fiore"
+    ,"lat":43.773200
+    ,"lng":11.258020
+    ,"Quantity":"Unknown"
+    ,"Website":"http://archivio.operaduomo.fi.it/corali/"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Kiel"
+    ,"Library":"Universitatsbibliothek"
+    ,"lat":54.346577
+    ,"lng":10.111188
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.ub.uni-kiel.de/digiport/Handschriften/hand.html"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Le Mans"
+    ,"Library":"Bibliotheque Municipale"
+    ,"lat":47.999356
+    ,"lng":0.205700
+    ,"Quantity":"Unknown"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=MANS+%28LE%29&TOUT=true"
+  },
+  {
+     "Nation":"Belgium"
+    ,"City":"Liege"
+    ,"Library":"Bibliotheques de l'Universite de Liege"
+    ,"lat":50.640390
+    ,"lng":5.575884
+    ,"Quantity":"Unknown"
+    ,"Website":"http://lib.ulg.ac.be/fr/content/du-pep-s-l-ulg-49-manuscrits-medievaux-et-renaissants-numerises"
+  },
+  {
+     "Nation":"Spain"
+    ,"City":"Montserrat"
+    ,"Library":"Biblioteca de Montserrat"
+    ,"lat":41.580862
+    ,"lng":1.779828
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.bibliotecademontserrat.net/cat/html/Exposicions/llibres.html"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Nurnberg"
+    ,"Library":"Germanischen Nationalmuseum "
+    ,"lat":49.448249
+    ,"lng":11.075511
+    ,"Quantity":"Unknown"
+    ,"Website":"http://webopac.gnm.de/aDISWeb/app?service=direct/0/Home/$DirectLink&sp=Sserver-bib.gnm.de:5105"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Saint-Etienne"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":45.420738
+    ,"lng":4.384328
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.numerique.culture.fr/pub-fr/document.html?base=dcollection&id=FR-DC-B422186101_9ff55a7c&hppage=10&totaldocs=9&pagename=resultats-in.html&querybase=institution"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Sion"
+    ,"Library":"Archives du Chapitre"
+    ,"lat":46.233122
+    ,"lng":7.360626
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/acs/Shelfmark/20/0"
+  },
+  {
+     "Nation":"Austria"
+    ,"City":"Zwettl"
+    ,"Library":"Zisterzienserstift"
+    ,"lat":48.617456
+    ,"lng":15.202792
+    ,"Quantity":"Unknown"
+    ,"Website":"http://manuscripta.at/m1/lib_digi.php?libcode=AT9800"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Hanover"
+    ,"Library":"Rauner Library - Dartmouth College Library"
+    ,"lat":43.705457
+    ,"lng":-72.288848
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"https://www.dartmouth.edu/~library/rauner/westmss/westmss_search.html"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Los Angeles"
+    ,"Library":"UCLA Library"
+    ,"lat":34.074956
+    ,"lng":-118.441517
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://digital2.library.ucla.edu/viewItem.do?ark=21198/zz0009gx4f"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Chicago"
+    ,"Library":"The Art Institute of Chicago"
+    ,"lat":41.879584
+    ,"lng":-87.623713
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://www.artic.edu/aic/collections/artwork-search/results/manuscripts"
+  },
+  {
+     "Nation":"Czech Republic"
+    ,"City":"Brno"
+    ,"Library":"Moravian Land Library"
+    ,"lat":49.208654
+    ,"lng":16.594387
+    ,"Quantity":"Unknown"
+    ,"Website":"http://kramerius.mzk.cz/search/r.jsp?offset=0&forProfile=facet&fq=language:%22lat%22\nhttp://www.manuscriptorium.com/index.php?q=content/manuscripts-moravian-regional-library-brno-and-benedictine-abbey-rajhrad"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Clamecy"
+    ,"Library":"Musee d'Art et d'Histoire Romain Rolland"
+    ,"lat":47.460363
+    ,"lng":3.520501
+    ,"Quantity":"Unknown"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=CLAMECY&TOUT=true\n"
+  },
+  {
+     "Nation":"Italy"
+    ,"City":"Firenze"
+    ,"Library":"Biblioteca Nazionale Centrale di Firenze"
+    ,"lat":43.767081
+    ,"lng":11.262348
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.bncf.firenze.sbn.it/Bib_digitale/Manoscritti/index.html"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Jura"
+    ,"Library":"Archives Departementales du Jura"
+    ,"lat":46.673785
+    ,"lng":5.537863
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.numerique.culture.fr/pub-fr/document.html?id=FR-IN-AD039&base=institution&hppage=10&totaldocs=9&pagename=resultats-in.html&querybase=institution&qid=miKl-q"
+  },
+  {
+     "Nation":"Austria"
+    ,"City":"Benediktinerstift"
+    ,"Library":"Melk"
+    ,"lat":48.229458
+    ,"lng":15.333505
+    ,"Quantity":"Unknown"
+    ,"Website":"http://manuscripta.at/m1/lib_digi.php?libcode=AT6000"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Nurnberg "
+    ,"Library":"Erlangen-Nurnberg"
+    ,"lat":49.597880
+    ,"lng":11.004551
+    ,"Quantity":"Unknown"
+    ,"Website":"http://bvbm1.bib-bvb.de/R/FFYMAJXC2SDUE3HRJ3LY55A7GMP519B1I12GYJK11QJC2MHX4I-00809?func=collections-result&collection_id=1995&local_base=UBE"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Rheinland-Pfalz"
+    ,"Library":"Rhineland-Palatinate"
+    ,"lat":50.118346
+    ,"lng":7.308953
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.dilibri.de/"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Sion"
+    ,"Library":"Archives de l'Etat du Valais/Staatsarchiv Wallis"
+    ,"lat":46.227021
+    ,"lng":7.353335
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/aev/Shelfmark/20/0"
+  },
+  {
+     "Nation":"Spain"
+    ,"City":"Zaragoza"
+    ,"Library":"Universidad de Zaragoza"
+    ,"lat":41.642177
+    ,"lng":-0.901233
+    ,"Quantity":"Unknown"
+    ,"Website":"http://zaguan.unizar.es/collection/Manuscritos?ln=es"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Augsburg"
+    ,"Library":"Staats- und Stadtbibliothek Augsburg"
+    ,"lat":48.369575
+    ,"lng":10.890558
+    ,"Quantity":"Unknown"
+    ,"Website":"http://digital.bib-bvb.de/R/8SUFPU28DEHHLGP52KFL83CY1H76CKYV6YSJ6978H96FAP68IS-02548?local_base=SUSTBA&pds_handle=GUEST"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Chavannes-pres-Renens"
+    ,"Library":"Archives Cantonales Vaudoises"
+    ,"lat":46.525602
+    ,"lng":6.578259
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Chavannes-pr%C3%A8s-Renens%2C+Archives+cantonales+vaudoises"
+  },
+  {
+     "Nation":"Ireland"
+    ,"City":"Farmleigh"
+    ,"Library":"Benjamin Iveagh Library"
+    ,"lat":53.365148
+    ,"lng":-6.359809
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.isos.dias.ie/libraries/Farmleigh/english/index.html?ref="
+  },
+  {
+     "Nation":"France"
+    ,"City":"Haute Savoie"
+    ,"Library":"Archives Departementales de la Haute-Savoie"
+    ,"lat":45.917211
+    ,"lng":6.127757
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.numerique.culture.fr/pub-fr/document.html?id=FR-IN-AD074&base=institution&hppage=10&totaldocs=9&pagename=resultats-in.html&querybase=institution&qid=miKl-q"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Meaux"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":48.950184
+    ,"lng":2.904287
+    ,"Quantity":"Unknown"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=MEAUX&TOUT=true"
+  },
+  {
+     "Nation":"Italy"
+    ,"City":"Nonantola "
+    ,"Library":"Biblioteca Nonantolana"
+    ,"lat":44.678001
+    ,"lng":11.042556
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.bncrm.librari.beniculturali.it/index.php?it/175/biblioteca-nonantolana-virtuale"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Regensburg"
+    ,"Library":"Benediktinerkloster St. Emmeram"
+    ,"lat":49.015971
+    ,"lng":12.093320
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.bayerische-landesbibliothek-online.de/handschriftenstemmeramregensburg"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"San Marino"
+    ,"Library":"Huntington Library"
+    ,"lat":34.129045
+    ,"lng":-118.114524
+    ,"Quantity":"Unknown"
+    ,"Website":"http://ucblibrary4.berkeley.edu:8088/xtf22/search?rmode=digscript&smode=bid&bid=43&docsPerPage=30"
+  },
+  {
+     "Nation":"Italy"
+    ,"City":"Siena"
+    ,"Library":"Biblioteca Comunale degli Intronati"
+    ,"lat":43.320561
+    ,"lng":11.329473
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.wdl.org/en/search/gallery/?institution=municipal-library-intronati"
+  },
+  {
+     "Nation":"Canada"
+    ,"City":"Victoria"
+    ,"Library":"University of Victoria"
+    ,"lat":48.463407
+    ,"lng":-123.311694
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.uvic.ca/library/featured/collections/manuscripts/index.php"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Augsburg"
+    ,"Library":"Bibliothek Oettingen Wallerstein"
+    ,"lat":48.369575
+    ,"lng":10.890558
+    ,"Quantity":"Unknown"
+    ,"Website":"http://digital.bib-bvb.de/R/Q56JANTPTV9P1MRM84JN8AUFMKE4K7S2P6FJSB6TC3A4DC8KP7-02712?func=collections&collection_id=2015"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Chaumont"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":48.112953
+    ,"lng":5.143930
+    ,"Quantity":"Unknown"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=CHAUMONT&TOUT=true"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Hamburg"
+    ,"Library":"Staats- und Universitatsbibliothek"
+    ,"lat":53.564724
+    ,"lng":9.985209
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.sub.uni-hamburg.de/recherche/elektronische-angebote/digitalisierte-bestaende.html"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Lorsch"
+    ,"Library":"Bibliotheca Laureshamensis"
+    ,"lat":49.653914
+    ,"lng":8.568965
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.bibliotheca-laureshamensis-digital.de/de/index.html"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Mannheim"
+    ,"Library":"Universitatsbibliothek "
+    ,"lat":49.487459
+    ,"lng":8.466040
+    ,"Quantity":"Unknown"
+    ,"Website":"http://goobi.bib.uni-mannheim.de/"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Nimes"
+    ,"Library":"Bibliotheque municipale"
+    ,"lat":43.838023
+    ,"lng":4.355030
+    ,"Quantity":"Unknown"
+    ,"Website":"http://bibliotheque-numerique.nimes.fr/fre/notices/104551-Collection-des-manuscrits---BM-N%EE-mes.html"
+  },
+  {
+     "Nation":"Italy"
+    ,"City":"Pistoia"
+    ,"Library":"Archivio Capitolare"
+    ,"lat":43.933281
+    ,"lng":10.918395
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.archiviocapitolaredipistoia.it/"
+  },
+  {
+     "Nation":"Austria"
+    ,"City":"Salzburg"
+    ,"Library":"Universitatsbibliothek"
+    ,"lat":47.798829
+    ,"lng":13.041252
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.ubs.sbg.ac.at/sosa/webseite/hsskat.htm"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Sens"
+    ,"Library":"Bibliotheque Municipale"
+    ,"lat":48.195720
+    ,"lng":3.289927
+    ,"Quantity":"Unknown"
+    ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=SENS&TOUT=true"
+  },
+  {
+     "Nation":"Italy"
+    ,"City":"Torre"
+    ,"Library":"Archivio Parrocchiale"
+    ,"lat":46.483333
+    ,"lng":8.950000
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/tap/Shelfmark/20/0"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Bayeux"
+    ,"Library":"Fonds du Chapitre Cathedral"
+    ,"lat":49.275469
+    ,"lng":-0.703469
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.archinoe.net/console/ir_ead_visu.php?PHPSID=5702d0db3a44f1091a247bae7b87a37c&ir=12494#"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Citeaux"
+    ,"Library":"Bibliotheque Municipale"
+    ,"lat":47.321947
+    ,"lng":5.041563
+    ,"Quantity":"Unknown"
+    ,"Website":"http://patrimoine.bm-dijon.fr/pleade/subset.html?name=sub-citeaux\n"
+  },
+  {
+     "Nation":"Italy"
+    ,"City":"Firenze"
+    ,"Library":"Biblioteca Medicea Laurenziana"
+    ,"lat":43.774326
+    ,"lng":11.254041
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.internetculturale.it/opencms/opencms/it/ricercaMag.jsp?searchType=avanzato&q=&opCha__creator=AND&channel__creator=&opCha__title=AND&channel__title=&opCha__contributor=AND&channel__contributor=&opCha__issuedYear=AND&channel__issuedYear_from=&channel__issuedYear_until=&opCha__publisher=AND&channel__publisher=&opCha__subject=AND&channel__subject=&opCha__language=AND+OR&opCha__typeTipo=AND+OR&opCha__typeLivello=AND&channel__typeLivello=&opCha__typeDigitale=AND+OR&opCha__location=AND&channel__location=&opCha__collectionText=AND&channel__collectionText=plutei&opCha__agency=AND&channel__agency=%22biblioteca+medicea+laurenziana+-+firenze%22&opCha__descSourceLevel2=AND+OR&imageField2.x=14&imageField2.y=9"
+  },
+  {
+     "Nation":"Austria"
+    ,"City":"Heiligenkreuz"
+    ,"Library":"Zisterzienserstift"
+    ,"lat":48.055796
+    ,"lng":16.130977
+    ,"Quantity":"Unknown"
+    ,"Website":"http://manuscripta.at/m1/lib_digi.php?libcode=AT3500"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Schwerin"
+    ,"Library":"Bibliothek Mecklenburg-Vorpommern"
+    ,"lat":53.615950
+    ,"lng":11.414730
+    ,"Quantity":"Unknown"
+    ,"Website":"http://ub-goobi-pr2.ub.uni-greifswald.de/viewer/"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Simplon"
+    ,"Library":"Congregation du Grand-Saint-Bernard"
+    ,"lat":46.250594
+    ,"lng":8.032207
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.gsbernard.ch/60/618_01.html"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Weingarten"
+    ,"Library":"Benediktinerabtei"
+    ,"lat":47.809602
+    ,"lng":9.637983
+    ,"Quantity":"Unknown"
+    ,"Website":"http://fuldig.hs-fulda.de/viewer/browse/"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Chalons-sur-Marne"
+    ,"Library":"Bibliotheques de Chalons"
+    ,"lat":48.956682
+    ,"lng":4.363073
+    ,"Quantity":"Unknown"
+    ,"Website":"http://bmvr.chalons-en-champagne.net/in/faces/browse.xhtml?profile=&pageSize=20&query=*&basket=default&pageNo=1&queryid=&sf=&sort=DateOfPublicationSearch_date_ASC&view=grid&subview=&mozQuirk=%3F&facetClause=%2BTypeOfDocumentFacet%3AOAIDocument%3B&dateRange=&ys=&ye=&searchType="
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Dalpe"
+    ,"Library":"Archivio Parrocchiale"
+    ,"lat":46.477356
+    ,"lng":8.772834
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Dalpe%2C+Archivio+parrocchiale\n"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Flawill"
+    ,"Library":"Gemeinde Flawil"
+    ,"lat":47.413371
+    ,"lng":9.187030
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Flawil%2C+Gemeinde+Flawil"
+  },
+  {
+     "Nation":"Austria"
+    ,"City":"Klagenfurt"
+    ,"Library":"Universitatsbibliothek"
+    ,"lat":46.615995
+    ,"lng":14.264790
+    ,"Quantity":"Unknown"
+    ,"Website":"http://manuscripta.at/m1/lib_digi.php?libcode=AT4400"
+  },
+  {
+     "Nation":"United States of America"
+    ,"City":"Lexington"
+    ,"Library":"University of Kentucky"
+    ,"lat":38.030651
+    ,"lng":-84.503970
+    ,"Quantity":"Unknown"
+    ,"Website":"http://toisondor.byu.edu/dscriptorium/ukentucky/uky.html"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Luneburg"
+    ,"Library":"Ratsbucherei "
+    ,"lat":53.246421
+    ,"lng":10.411518
+    ,"Quantity":"Unknown"
+    ,"Website":"http://diglib.hab.de/?db=mss&list=project&id=Digitalisierung%20der%20mittelalterlichen%20Handschriften%20der%20Ratsb%FCcherei%20L%FCneburg"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Moulins"
+    ,"Library":"Mediatheque Communautaire"
+    ,"lat":46.568059
+    ,"lng":3.334417
+    ,"Quantity":"Unknown"
+    ,"Website":"http://mediatheques.agglo-moulins.fr/agglo-moulins.fr/index/index/id_profil/161#/page/1"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Paderborn"
+    ,"Library":"Virtuelle Bibliothek Corvey"
+    ,"lat":51.718921
+    ,"lng":8.757509
+    ,"Quantity":"Unknown"
+    ,"Website":"http://nova-corbeia.uni-paderborn.de/"
+  },
+  {
+     "Nation":"France"
+    ,"City":"Saint-Mihiel"
+    ,"Library":"Archives Departementales de la Meuse"
+    ,"lat":48.888238
+    ,"lng":5.543405
+    ,"Quantity":"Unknown"
+    ,"Website":"http://archives.meuse.fr/?id=recherche_simple_detail&doc=accounts%2Fmnesys_ad55%2Fdatas%2Fir%2FManuscrits%20anciens%2FFRAD055000002.xml"
+  },
+  {
+     "Nation":"Italy"
+    ,"City":"Roma"
+    ,"Library":"Sapienza Digital Library"
+    ,"lat":41.903763
+    ,"lng":12.514438
+    ,"Quantity":"Unknown"
+    ,"Website":"http://sapienzadigitallibrary.uniroma1.it/search/dl_cineca_solr/manoscritti?keys=manoscritti#?query=facet%3Dtrue%26facet.field%3Davailability_it%26facet.field%3DcollectionName%26facet.field%3DportalType_it%26facet.field%3DdescMetadata.name%26facet.field%3DdescMetadata.subject%26facet.field%3Ddate%26facet.field%3Dconcepts_it%26fq%3Davailability_it%253A*%26q%3Dmanoscritti%26rows%3D10%26facet.limit%3D50%26facet.mincount%3D1%26json.nl%3Dmap%26sort%3Dscore%2520desc%252CtitleSort%2520asc%26hl%3Dtrue%26hl.fl%3D*"
+  },
+  {
+     "Nation":"Switzerland"
+    ,"City":"Sion"
+    ,"Library":"Mediatheque du Valais"
+    ,"lat":46.231036
+    ,"lng":7.355180
+    ,"Quantity":"Unknown"
+    ,"Website":"http://www.e-codices.unifr.ch/en/list/mvs/Shelfmark/20/0"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Lubeck"
+    ,"Library":"Stadtbibliothek"
+    ,"lat":53.868469
+    ,"lng":10.690120
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://digital.stadtbibliothek.luebeck.de/"
+  },
+  {
+     "Nation":"United States"
+    ,"City":"Bethlehem"
+    ,"Library":"Lehigh University Digital Library"
+    ,"lat":40.606909
+    ,"lng":-75.378283
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://digital.lib.lehigh.edu/manuscripts/browse.php"
+  }
+]

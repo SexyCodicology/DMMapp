@@ -1,170 +1,127 @@
-(function(){
+var map, infowindow;
+localStorage.placeData = localStorage.placeData ? localStorage.placeData : "";
 
-    'use strict';
-    
+function initMap() {
+    var customMapType = new google.maps.StyledMapType([
+        {
+            "featureType": "administrative",
+            "elementType": "all",
+            "stylers": [{
+                "visibility": "on"
+			}]
+		}, {
+            "featureType": "poi",
+            "elementType": "all",
+            "stylers": [{
+                "visibility": "off"
+			}]
+		}, {
+            "featureType": "road",
+            "elementType": "all",
+            "stylers": [{
+                "color": "#bfbfbf"
+			}]
+		}, {
+            "featureType": "landscape",
+            "elementType": "all",
+            "stylers": [{
+                "color": "#ebebeb"
+			}]
+		}, {
+            "featureType": "water",
+            "elementType": "all",
+            "stylers": [{
+                "visibility": "simplified"
+			}, {
+                "color": "#006699"
+			}]
+		}, {
+            "featureType": "road.highway",
+            "elementType": "labels.icon",
+            "stylers": [{
+                "visibility": "off"
+			}]
+  }]);
+    var customMapTypeId = 'custom_style';
 
-    var app = {
-
-        defaults: {
-            url          : 'https://www.googleapis.com/fusiontables/v1/query?sql=',
-            key          : 'AIzaSyBt51Kephzt5i8vo9vmZY1rCbzj-_mhNyY',
-            mobileColumn : 'Name',
-            klass        : 'min-tablet-l'
+    map = new google.maps.Map(document.getElementById('map'), {
+        center: {
+            lat: 48.76034594263708,
+            lng: 8.609468946875056
         },
+        zoom: 5,
+        zoomControl: true,
+        mapTypeControl: false,
+        scaleControl: false,
+        streetViewControl: false,
+        rotateControl: false,
+        fullscreenControl: true,
+    });
+    map.mapTypes.set(customMapTypeId, customMapType);
+    map.setMapTypeId(customMapTypeId);
+    infowindow = new google.maps.InfoWindow();
 
-        prepare: function(table){
-
-            var query = "SELECT * FROM " + table + " LIMIT 1000";
-
-            return encodeURI(this.options.url + query + '&key=' + this.options.key)
-
-        },
-
-        clean: function(data){
-
-            var columns = [],
-                category = [];
+    function placeMapper(place) {
+        //Here goes the stuff for the Infowindow
+        var infowindowContent = "<h3>" + place.Library + "</h3><br><p>" + place.City + "<br/>" + '<a href="' + place.Website + '">Link to digitized manuscripts</a>' + "</p>";
+        //Here goes the stuff for the Datatable
+        var row = $("<tr>" + "<td>" + place.Nation + "</td>" + "<td>" + place.City + "</td>" + "<td>" + place.Library + "</td>" + "<td>" + place.lat + "</td>" + "<td>" + place.lng + "</td>" + "<td>" + place.Quantity + "</td>" + "<td>" + '<a href="' + place.Website + '">Link to digitized manuscripts</a>' + "</td>" + "</tr>");
+        var clickToggle = function () {
+            map.setCenter({
+                lat: place.lat,
+                lng: place.lng
+            });
+            map.setZoom(12);
+            infowindow.setContent(infowindowContent);
+            infowindow.open(map, marker);
+            row.parent().find('tr').removeClass('bolderText');
+            row.addClass('bolderText');
             
-            /* Add responsive classes to table columns */
-
-            for(var i = 0; i < data.columns.length; i++){
-                
-                var _klass = this.options.klass,
-                    orderable= false
-
-                /* Check if column should be display in mobile devices */
-
-                switch(data.columns[i]){
-
-                    case this.options.mobileColumn:
-                        _klass = "all";
-                        orderable = true;
-                        break;
-                }
-
-                /* Push data to columns */
-                        
-                columns.push({
-                    title: data.columns[i],
-                    className: _klass,
-                    orderable: orderable
-                })    
-            }
-
+            //Smootly scroll up to the map when a row is clicked
+        $('html, body').animate({
+            scrollTop: $("#home").offset().top
+        }, 500);
             
-            return columns;            
-
-        },
-
-        init: function(options){
-
-            var self = this
-
-            this.instances = [];
-
-            /* Extend options */
-
-            this.options = $.extend({}, this.defaults, options)
-
-            /* Initialize */
-
-            options.el.each(function(){
-
-                var $this = $(this),
-                    id = self.options.dataSource || $this.data('fusion-table'),
-                    url = self.prepare(id),
-                    $t
-
-                
-                /* Append loading data */
-
-                $this.append('<span class="loading">Downloading from google fusion table...</span>')    
-
-                /* Request */
-
-                var request = $.get(url);
-
-                /* After request is completed */
-
-                request.then(function(data){
-
-                    /* Remove loader */
-
-                    $this.find('.loading').remove()
-
-                    /* Prepare columns */
-
-                    var columns = self.clean(data);
-
-                    /* Initialize datatable */
-
-                    $t = $this.DataTable({
-                            data           : data.rows,
-                            columns        : columns,
-                            responsive     : true,
-                            iDisplayLength : 10,
-                            lengthChange: false,                        
-                            language: {
-                                sSearchPlaceholder : "Search",
-                                sSearch            : '',
-                                paginate           : {
-                                    
-                                    previous : "‹ Previous",
-                                    next     : "Next ›"
-
-                                }                
-                            },
-                            initComplete: function(settings){
-
-                            }
-                    });
-
-                    /* Add a resize handler */
-
-                    var $w = $(window).off('resize.dt').on('resize.dt', function(){                
-                
-                        var _w = $w.width();
-
-                        if(_w > 600){
-
-                            $t.page.len(10).draw();
-                        }else{
-                            $t.page.len(-1).draw();
-                        }
-
-                    });
-
-
-                    $this.data('datatable', $t);                    
-
-                })
-
-                // End request
-
-            })
-            
-
         }
-    };
+        $("#datatablex").find('tbody').append(row);
 
-
-    /**
-     * Return window object
-     */
+        var marker = new google.maps.Marker({
+            position: {
+                lat: place.lat,
+                lng: place.lng
+            },
+            map: map,
+            title: place.Library
+        });
+        row.click(clickToggle);
+        marker.addListener('click', clickToggle);
+    }
     
-    return window._app = app;
-
-
-    /**
-     * On load
-     */
-    
-    $(function(){
-
-        
-        
-    })
-
-    
-
-})(undefined)
+    $(document).ready(function () {
+        $.get('js/data.json', function (tabledata) {
+            if (tabledata instanceof Array) {
+                tabledata = tabledata.concat(JSON.parse("[" + localStorage.placeData.slice(0, -1) + "]") || []);
+            } else {
+                console.log("AJAX error");
+                tabledata = JSON.parse("[" + localStorage.placeData.slice(0, -1) + "]") || [];
+            }
+            tabledata.map(placeMapper);
+            //Datatable options go here!
+            $('#datatablex').DataTable({
+                responsive: true,
+                "columnDefs": [
+                    {
+                        "targets": [3],
+                        "visible": false,
+                        "searchable": false
+            },
+                    {
+                        "targets": [4],
+                        "visible": false,
+                        "searchable": false
+            }
+        ]
+            });
+        });
+    });
+}
