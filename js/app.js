@@ -76,12 +76,12 @@ function initMap() {
             infowindow.open(map, marker);
             row.parent().find('tr').removeClass('bolderText');
             row.addClass('bolderText');
-            
+
             //Smootly scroll up to the map when a row is clicked
-        $('html, body').animate({
-            scrollTop: $("#home").offset().top
-        }, 500);
-            
+            $('html, body').animate({
+                scrollTop: $("#home").offset().top
+            }, 500);
+
         }
         $("#datatablex").find('tbody').append(row);
 
@@ -96,7 +96,7 @@ function initMap() {
         row.click(clickToggle);
         marker.addListener('click', clickToggle);
     }
-    
+
     $(document).ready(function () {
         $.get('js/data.json', function (tabledata) {
             if (tabledata instanceof Array) {
@@ -106,9 +106,10 @@ function initMap() {
                 tabledata = JSON.parse("[" + localStorage.placeData.slice(0, -1) + "]") || [];
             }
             tabledata.map(placeMapper);
-            //Datatable options go here!
+            //Datatable options go here! 
             $('#datatablex').DataTable({
-                responsive: true,
+                "responsive": true,
+                "processing": true,
                 "columnDefs": [
                     {
                         "targets": [3],
@@ -119,9 +120,20 @@ function initMap() {
                         "targets": [4],
                         "visible": false,
                         "searchable": false
-            }
+            },
+                    {
+                        responsivePriority: 1,
+                        targets: 2
+                    },
+                    {
+                        responsivePriority: 2,
+                        targets: -1
+                    }
         ]
+
             });
         });
     });
 }
+
+//FUTURE: Autofill?
