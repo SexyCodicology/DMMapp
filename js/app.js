@@ -50,12 +50,12 @@ function initMap() {
             lng: 8.609468946875056
         },
         zoom: 5,
-        zoomControl: true,
+        zoomControl: false,
         mapTypeControl: false,
         scaleControl: false,
         streetViewControl: false,
         rotateControl: false,
-        fullscreenControl: true,
+        fullscreenControl: false,
     });
     map.mapTypes.set(customMapTypeId, customMapType);
     map.setMapTypeId(customMapTypeId);
