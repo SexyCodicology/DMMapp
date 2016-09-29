@@ -28,9 +28,15 @@
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/t/bs-3.3.6/jqc-1.12.0,dt-1.10.11,r-2.0.2/datatables.min.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <script type="text/javascript" src="https://cdn.datatables.net/t/bs-3.3.6/jqc-1.12.0,dt-1.10.11,r-2.0.2/datatables.min.js"></script>
+    <script type="text/javascript">
+        $(window).load(function () {
+            $(".loader").fadeOut("slow");
+        })
+    </script>
 </head>
 
 <body>
+    <div class="loader"></div>
     <!-- Facebook stuff -->
     <div id="fb-root"></div>
     <script>
@@ -122,10 +128,10 @@
         <div class="tab-content">
             <!-- BEGIN MAP TAB -->
             <div id="home" class="tab-pane fade in active">
-               <!-- BEGIN DATATABLE -->
+                <!-- BEGIN DATATABLE -->
                 <div id="dmmtable">
                     <div class="well">
-                       <h3>Search for a library and tap/click it!</h3>
+                        <h3>Search for a library and tap/click it!</h3>
                         <noscript>
                             <div class='alert alert-info'>
                                 <h4>Your JavaScript is disabled</h4>
@@ -152,7 +158,7 @@
                 <!-- BEGIN MAP PILL -->
                 <div id="dmmmap">
                     <div class="well">
-                       <h3>Tap/click on "Browse the manuscripts" and off you go!</h3>
+                        <h3>Tap/click on "Browse the manuscripts" and off you go!</h3>
                         <div id="map">
                             <noscript>
                                 <div class='alert alert-info'>

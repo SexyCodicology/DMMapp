@@ -203,7 +203,6 @@ table.dataTable thead .sorting,
 table.dataTable thead .sorting_asc,
 table.dataTable thead .sorting_desc {
     cursor: pointer;
-
     *cursor: hand;
 }
 
@@ -512,7 +511,6 @@ table.dataTable td {
     position: relative;
     clear: both;
     zoom: 1;
-
     *zoom: 1;
 }
 
@@ -566,7 +564,6 @@ table.dataTable td {
 
 .dataTables_wrapper .dataTables_scroll div.dataTables_scrollBody {
     -webkit-overflow-scrolling: touch;
-
     *margin-top: -1px;
 }
 
@@ -645,6 +642,17 @@ button.btn.btn-outline-info.btn-outline {
 button.btn.btn-outline-info.btn-outline:hover {
     background-color: #dbf1f8;
 }
+
 a.button.btn.btn-outline-info.btn-outline {
     color: white;
+}
+
+.loader {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background: url('../images/loading.gif') 50% 50% no-repeat rgb(249, 249, 249);
 }

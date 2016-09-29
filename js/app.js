@@ -63,7 +63,7 @@ function initMap() {
 
     function placeMapper(place) {
         //Here goes the stuff for the Infowindow
-        var infowindowContent = "<h3>" + place.Library + "</h3><p>" + place.Quantity + "</p>" + '<div class="linkbutton"><button type="button" class="btn btn-outline-info btn-outline"><a href="' + place.Website + '">Browse the manuscripts</a></button></div>';
+        var infowindowContent = "<h3>" + place.Library + "</h3><p>" + place.Quantity + "</p>" + '<div class="linkbutton"><a class="btn btn-primary btn-outline" href="' + place.Website + '">Browse the manuscripts</a></div>';
         //Here goes the stuff for the Datatable
         var row = $("<tr>" + "<td>" + place.Nation + "</td>" + "<td>" + place.City + "</td>" + "<td>" + place.Library + "</td>" + "<td>" + place.lat + "</td>" + "<td>" + place.lng + "</td>" + "<td>" + place.Quantity + "</td>" + "<td>" + '<a href="' + place.Website + '">Browse the manuscripts</a>' + "</td>" + "</tr>");
         var clickToggle = function () {
@@ -121,7 +121,7 @@ function initMap() {
                         "visible": false,
                         "searchable": false
             },
-                     {
+                    {
                         "targets": [6],
                         "visible": false,
                         "searchable": false
