@@ -63,9 +63,9 @@ function initMap() {
 
     function placeMapper(place) {
         //Here goes the stuff for the Infowindow
-        var infowindowContent = "<h3>" + place.Library + "</h3><p>" + place.Quantity + "</p>" + '<div class="linkbutton"><button type="button" class="btn btn-outline-info btn-outline"><a href="' + place.Website + '">Link to digitized manuscripts</a></button></div>';
+        var infowindowContent = "<h3>" + place.Library + "</h3><p>" + place.Quantity + "</p>" + '<div class="linkbutton"><button type="button" class="btn btn-outline-info btn-outline"><a href="' + place.Website + '">Browse the manuscripts</a></button></div>';
         //Here goes the stuff for the Datatable
-        var row = $("<tr>" + "<td>" + place.Nation + "</td>" + "<td>" + place.City + "</td>" + "<td>" + place.Library + "</td>" + "<td>" + place.lat + "</td>" + "<td>" + place.lng + "</td>" + "<td>" + place.Quantity + "</td>" + "<td>" + '<a href="' + place.Website + '">Link to digitized manuscripts</a>' + "</td>" + "</tr>");
+        var row = $("<tr>" + "<td>" + place.Nation + "</td>" + "<td>" + place.City + "</td>" + "<td>" + place.Library + "</td>" + "<td>" + place.lat + "</td>" + "<td>" + place.lng + "</td>" + "<td>" + place.Quantity + "</td>" + "<td>" + '<a href="' + place.Website + '">Browse the manuscripts</a>' + "</td>" + "</tr>");
         var clickToggle = function () {
             map.setCenter({
                 lat: place.lat,
@@ -133,6 +133,9 @@ function initMap() {
 
             });
         });
+        $('a[data-toggle="pill"]').on('click', function(){
+        $('html,body').animate({scrollTop: $('#dmmmap').offset().top}, 800);
+    }); 
     });
 }
 
