@@ -79,7 +79,7 @@ function initMap() {
 
             //Smootly scroll up to the map when a row is clicked
             $('html, body').animate({
-                scrollTop: $("#home").offset().top
+                scrollTop: $("#dmmmap").offset().top
             }, 500);
 
         }
@@ -133,9 +133,11 @@ function initMap() {
 
             });
         });
-        $('a[data-toggle="pill"]').on('click', function(){
-        $('html,body').animate({scrollTop: $('#dmmmap').offset().top}, 800);
-    }); 
+        $('a[data-toggle="pill"]').on('click', function () {
+            $('html,body').animate({
+                scrollTop: $('#dmmtable').offset().top
+            }, 500);
+        });
     });
 }
 
