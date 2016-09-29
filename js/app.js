@@ -78,7 +78,7 @@ function initMap() {
 
             //Smootly scroll up to the map when a row is clicked
             $('html, body').animate({
-                scrollTop: $("#home").offset().top
+                scrollTop: $("#dmmmap").offset().top
             }, 500);
         }
         $("#datatablex").find('tbody').append(row);
