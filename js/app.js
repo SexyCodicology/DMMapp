@@ -121,6 +121,11 @@ function initMap() {
                         "visible": false,
                         "searchable": false
             },
+                     {
+                        "targets": [6],
+                        "visible": false,
+                        "searchable": false
+            },
                     {
                         responsivePriority: 1,
                         targets: 2
