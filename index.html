@@ -23,6 +23,7 @@
     <meta name="twitter:description" content="The #DMMapp - 500+ links to thousands of digitized manuscripts from all over the world!">
     <meta name="twitter:creator" content="@SexyCodicology">
     <meta name="twitter:site" content="@SexyCodicology">
+    <!-- TODO: This image no longer represents the DMMapp! Replace. -->
     <meta name="twitter:image" content="//digitizedmedievalmanuscripts.org/app/images/dmmapp.jpg">
     <meta name="twitter:image:alt" content="The DMMapp in action">
     <meta name="twitter:domain" content="//digitizedmedievalmanuscripts.org">
@@ -31,7 +32,9 @@
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/t/bs-3.3.6/jqc-1.12.0,dt-1.10.11,r-2.0.2/datatables.min.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <script type="text/javascript" src="https://cdn.datatables.net/t/bs-3.3.6/jqc-1.12.0,dt-1.10.11,r-2.0.2/datatables.min.js"></script>
-    <!-- TODO: change the loading gif. It's ugly. -->
+    <!-- DONE: change the loading gif. It's ugly. -->
+    <!-- TODO: Google tag manager -->
+    <!-- Script for loading image -->
     <script type="text/javascript">
         $(window).load(function () {
             $(".loader").fadeOut("slow");
@@ -40,6 +43,7 @@
 </head>
 
 <body>
+    <!-- NOTE: See CSS to change the loader image. -->
     <div class="loader"></div>
     <!-- Facebook stuff -->
     <div id="fb-root"></div>
@@ -142,6 +146,7 @@
                                 <p>Please enable JavaScript to see the table.</p>
                             </div>
                         </noscript>
+                        <!-- FIXME: Use CSS! -->
                         <table id="datatablex" class="display cell-border" cellspacing="0" width="100%">
                             <thead>
                                 <tr>
@@ -181,11 +186,13 @@
                     </div>
                 </div>
                 <!-- END MISSING LIBRARY BUTTON -->
+                <!-- TODO: insert "Start over" button that takes you back to search -->
             </div>
             <!-- END MAP TAB -->
             <!-- BEGIN TAB 3! -->
             <div id="appinfo" class="tab-pane fade">
                 <div class="well">
+                    <!-- TODO: should we add images here? -->
                     <h3>DMMapp Info</h3>
                     <h4>What is the DMMapp?</h4>
                     <p>The DMMapp is an app that links to digital repositories containing digitized western medieval manuscripts.</p>
@@ -267,25 +274,17 @@
     <!-- END MAIN CONTAINER -->
     <!-- BEGIN LICENSE -->
     <div class="license">
-        <a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/">
-            <img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by-sa/4.0/88x31.png" />
-        </a>
-        <br />
-        <span xmlns:dct="//purl.org/dc/terms/" href="//purl.org/dc/dcmitype/InteractiveResource" property="dct:title" rel="dct:type">DMMapp</span> by
-        <a xmlns:cc="//creativecommons.org/ns#" href="//sexycodicology.net/blog" property="cc:attributionName" rel="cc:attributionURL">Sexy Codicology</a> is licensed under a
-        <a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-        <br />Permissions beyond the scope of this license may be available
-        <a xmlns:cc="//creativecommons.org/ns#" href="//digitizedmedievalmanuscripts.org/contact/" rel="cc:morePermissions">here</a>.
-        <a href="//digitizedmedievalmanuscripts.org/app">DMMapp</a> development and idea by
-        <a href="//www.linkedin.com/in/giuliomenna">Giulio Menna</a>.
-        <br />Image source: <a href="//www.metmuseum.org/collection/the-collection-online/search/470306">MET, The Belles Heures of Jean de France, Duc de Berry</a>.
+        <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+        <br />DMMapp by <a href="http://sexycodicology.net/blog" property="cc:attributionName" rel="cc:attributionURL">Sexy Codicology</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+        <br />Permissions beyond the scope of this license may be available via <a href="http://sexycodicology.net/blog/contact-us/" rel="cc:morePermissions">the Sexy Codicology contact form</a>.
     </div>
     <!-- END LICENSE -->
     <script src="js/app.js"></script>
+    <!-- IMPLEMENTATION: Change api key -->
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAf7_7OBh8ofEyMNgLwLfabi22oCGFag5Q&callback=initMap"></script>
 </body>
 
 </html>
 <!-- TODO: Remove all comments from this html -->
-<!-- TODO: Add Google Analytics -->
+<!-- TODO: Add Google Analytics? -->
 <!-- TODO: Add Google Tag Manager -->
