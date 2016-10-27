@@ -3,7 +3,7 @@
 
 <head prefix="og: //ogp.me/ns#">
     <title>DMMapp - Digitized Medieval Manuscripts App</title>
-    <!-- NOTE: Remove the "Robots" in final implementation -->
+    <!-- IMPLEMENTATION : Remove the "Robots" in final implementation -->
     <meta name="robots" content="noindex, nofollow">
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
@@ -33,8 +33,8 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <script type="text/javascript" src="https://cdn.datatables.net/t/bs-3.3.6/jqc-1.12.0,dt-1.10.11,r-2.0.2/datatables.min.js"></script>
     <!-- DONE: change the loading gif. It's ugly. -->
-    <!-- TODO: Google tag manager -->
-    <!-- Script for loading image -->
+    <!-- IMPLEMENTATION: Google tag manager -->
+    <!-- Script for loading "loading" image -->
     <script type="text/javascript">
         $(window).load(function () {
             $(".loader").fadeOut("slow");
@@ -146,7 +146,7 @@
                                 <p>Please enable JavaScript to see the table.</p>
                             </div>
                         </noscript>
-                        <!-- FIXME: Use CSS! -->
+                        <!-- FIXME: Use CSS! Might conflict with datatables, investigate  -->
                         <table id="datatablex" class="display cell-border" cellspacing="0" width="100%">
                             <thead>
                                 <tr>
@@ -181,6 +181,7 @@
                 <!-- END MAP PILL -->
                 <!-- MISSING LIBRARY BUTTON -->
                 <div class="well">
+                   <!-- TODO: Move facebook App here? -->
                     <div class="missing">
                         <a class="btn btn-warning btn-lg btn-block" href="//digitizedmedievalmanuscripts.org/contact/send-us-tip/" role="button">Submit a missing repository</a>
                     </div>
@@ -193,6 +194,7 @@
             <div id="appinfo" class="tab-pane fade">
                 <div class="well">
                     <!-- TODO: should we add images here? -->
+                    <!-- TODO: Texts need revisioning, plus this section is damn ugly and boring -->
                     <h3>DMMapp Info</h3>
                     <h4>What is the DMMapp?</h4>
                     <p>The DMMapp is an app that links to digital repositories containing digitized western medieval manuscripts.</p>
@@ -226,13 +228,15 @@
                         </li>
                     </ul>
                     <h4>I would like to base a project on the DMMapp! Can I?</h4>
-                    <p>Absolutely! The code is on GitHub, please remember to mention us somewhere!</p>
+                    <p>Absolutely! The code is on GitHub and we proudly share our app with aa Creative Commons "By" license. You can download our code, modify it, change the data source and off you go! Please remember to mention us somewhere!</p>
                     <h4>Where can I contact you?</h4>
                     <p>There is a <a href="http://digitizedmedievalmanuscripts.org/contact/">nice and tidy contact form for that.</a></p>
                 </div>
             </div>
             <!-- END TAB 3! -->
             <div class="footer">
+               <!-- TODO: insert "shop"? Or link to shop? SOMETHING! -->
+               <!-- IMPLEMENTATION: Does the donation button even work? Test! -->
                 <!-- BEGIN DONATION -->
                 <div class="donation">
                     <div class="well">
@@ -285,6 +289,5 @@
 </body>
 
 </html>
-<!-- TODO: Remove all comments from this html -->
-<!-- TODO: Add Google Analytics? -->
-<!-- TODO: Add Google Tag Manager -->
+<!-- IMPLEMENTATION: Remove all comments from this html -->
+<!-- TODO: Add Google Analytic> Comes from cloudflare though!  -->

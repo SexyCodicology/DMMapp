@@ -138,6 +138,8 @@ function initMap() {
 
             });
         });
+        //Smootly scroll to the datatable when a row is clicked
+        //TODO: Add scrolling to top when start over is clicked
         $('a[data-toggle="pill"]').on('click', function () {
             $('html,body').animate({
                 scrollTop: $('#dmmtable').offset().top
