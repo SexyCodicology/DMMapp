@@ -140,7 +140,7 @@ function initMap() {
         });
         //Smootly scroll to the datatable when a row is clicked
         //TODO: Add scrolling to top when start over is clicked
-        $('a[data-toggle="pill"]').on('click', function () {
+        $('a[data-toggle="pill"], a[class="btn btn-warning btn-lg btn-block"] ').on('click', function () {
             $('html,body').animate({
                 scrollTop: $('#dmmtable').offset().top
             }, 500);
