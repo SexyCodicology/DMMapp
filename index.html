@@ -146,7 +146,7 @@
                                 <p>Please enable JavaScript to see the table.</p>
                             </div>
                         </noscript>
-                        <!-- FIXME: Use CSS! Might conflict with datatables, investigate  -->
+                        <!-- FUTURE: Use CSS! Might conflict with datatables, investigate  -->
                         <table id="datatablex" class="display cell-border" cellspacing="0" width="100%">
                             <thead>
                                 <tr>
@@ -181,20 +181,37 @@
                 <!-- END MAP PILL -->
                 <!-- MISSING LIBRARY BUTTON -->
                 <div class="well">
-                   <!-- TODO: Move facebook App here? -->
+                    <!-- DONE: Move facebook App here? -->
                     <div class="missing">
                         <a class="btn btn-warning btn-lg btn-block" href="//digitizedmedievalmanuscripts.org/contact/send-us-tip/" role="button">Submit a missing repository</a>
                     </div>
+                    <!--FIXME: change button color -->
+                    <div class="restart">
+                        <a class="btn btn-warning btn-lg btn-block" role="button">Start over!</a>
+                    </div>
                 </div>
                 <!-- END MISSING LIBRARY BUTTON -->
-                <!-- TODO: insert "Start over" button that takes you back to search -->
+                <!-- DONE: insert "Start over" button that takes you back to search -->
+                <div id="follow">
+                    <div class="well">
+                        <h3>Follow us and share this app!</h3>
+                        <div class="fb-page" data-href="https://www.facebook.com/SexyCodicology/" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false" data-width="500px">
+                            <div class="fb-xfbml-parse-ignore">
+                                <blockquote cite="https://www.facebook.com/SexyCodicology/"><a href="https://www.facebook.com/SexyCodicology/">Sexy Codicology</a></blockquote>
+                            </div>
+                        </div>
+                        <div class="twitter-flw">
+                            <iframe allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/follow_button.html?screen_name=SexyCodicology" style="width:250px; height:20px;"></iframe>
+                        </div>
+                    </div>
+                </div>
             </div>
             <!-- END MAP TAB -->
             <!-- BEGIN TAB 3! -->
             <div id="appinfo" class="tab-pane fade">
                 <div class="well">
-                    <!-- TODO: should we add images here? -->
-                    <!-- TODO: Texts need revisioning, plus this section is damn ugly and boring -->
+                    <!-- TODO: add images here - careful with loading times -->
+                    <!-- TODO: Texts need revisioning -->
                     <h3>DMMapp Info</h3>
                     <h4>What is the DMMapp?</h4>
                     <p>The DMMapp is an app that links to digital repositories containing digitized western medieval manuscripts.</p>
@@ -235,18 +252,24 @@
             </div>
             <!-- END TAB 3! -->
             <div class="footer">
-               <!-- TODO: insert "shop"? Or link to shop? SOMETHING! -->
-               <!-- IMPLEMENTATION: Does the donation button even work? Test! -->
+                <!-- IMPLEMENTATION: Does the donation button even work? Test! -->
                 <!-- BEGIN DONATION -->
-                <div class="donation">
-                    <div class="well">
-                        <h3>Give us a hand!</h3>
-                        <p>The DMMapp is created with a lot of passion by the fine people of <a href="//sexycodicology.net/blog">Sexy Codicology </a> for free. Why not show some love?</p>
+            </div>
+            <div class="donation">
+                <div class="well">
+                    <h3>Give us a hand!</h3>
+                    <p>The DMMapp is created with a lot of passion by the fine people of <a href="//sexycodicology.net/blog">Sexy Codicology </a> for free. Found it useful? Think it's great? Why not show some love?</p>
+                    <div class="shop">
+                        <!-- FIXME: Change the color of the button -->
+                        <a class="btn btn-warning btn-lg btn-block" href="//digitizedmedievalmanuscripts.org/contact/send-us-tip/" role="button">Shop Sexy Codicology</a>
+                        <!-- FIXME: fix the horrible text! -->
+                        <p>All the images used are Public domanin or available under a Creative Commons licesnse.</p>
+                        <h3>Donate!</h3>
                         <div class="donation-wrapper">
                             <form action="//www.paypal.com/cgi-bin/webscr" method="post">
                                 <input type="hidden" name="cmd" value="_donations">
                                 <input type="hidden" name="item_name" value="Donation">
-                                <!-- NOTE: insert paypal value here! -->
+                                <!-- NOTE: insert paypal email here! -->
                                 <input type="hidden" name="business" value="****">
                                 <input type="hidden" name="currency_code" value="EUR">
                                 <input type="text" class="form-control" placeholder="Please enter the amount you would like to donate." name="amount" required>
@@ -259,19 +282,7 @@
                         </div>
                     </div>
                 </div>
-                <div id="follow">
-                    <div class="well">
-                        <h3>Follow us and share this app!</h3>
-                        <div class="fb-page" data-href="https://www.facebook.com/SexyCodicology/" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false" data-width="500px">
-                            <div class="fb-xfbml-parse-ignore">
-                                <blockquote cite="https://www.facebook.com/SexyCodicology/"><a href="https://www.facebook.com/SexyCodicology/">Sexy Codicology</a></blockquote>
-                            </div>
-                        </div>
-                        <div class="twitter-flw">
-                            <iframe allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/follow_button.html?screen_name=SexyCodicology" style="width:250px; height:20px;"></iframe>
-                        </div>
-                    </div>
-                </div>
+
             </div>
         </div>
     </div>
@@ -290,4 +301,3 @@
 
 </html>
 <!-- IMPLEMENTATION: Remove all comments from this html -->
-<!-- TODO: Add Google Analytic> Comes from cloudflare though!  -->
