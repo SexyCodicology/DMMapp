@@ -131,9 +131,10 @@ input.form-control {
     max-width: 450px;
 }
 
-.missing {
+.missing, .restart, .shop {
     margin: auto;
     max-width: 450px;
+    margin-top: 10px;
 }
 
 ul {
