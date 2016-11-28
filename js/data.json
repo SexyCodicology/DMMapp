@@ -1851,7 +1851,7 @@
     ,"lat":52.089057
     ,"lng":5.122844
     ,"Quantity":"Few ( < 10 digitized manuscripts)"
-    ,"Website":"http://www.hetutrechtsarchief.nl/collectie/handschriften/buchelius"
+    ,"Website":"http://www.hetutrechtsarchief.nl/handschriften/"
   },
   {
      "Nation":"Netherlands"
@@ -2032,15 +2032,6 @@
     ,"lng":18.072134
     ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
     ,"Website":"http://www.kb.se/samlingarna/Handskrifter/Smakprov/"
-  },
-  {
-     "Nation":"Sweden"
-    ,"City":"Uppsala"
-    ,"Library":"Uppsala Universitetsbibliotek"
-    ,"lat":59.855188
-    ,"lng":17.631549
-    ,"Quantity":"Few ( < 10 digitized manuscripts)"
-    ,"Website":"http://www.ub.uu.se/samlingar/handskrifter/vasterlandska-medeltidshandskrifter/?languageId=1"
   },
   {
      "Nation":"Switzerland"
@@ -2809,15 +2800,6 @@
   },
   {
      "Nation":"United States of America"
-    ,"City":"Gambier"
-    ,"Library":"Greenslade Archives and Special Collections"
-    ,"lat":40.376809
-    ,"lng":-82.39659
-    ,"Quantity":"Unknown"
-    ,"Website":"https://www.flickr.com/photos/kenyon_special_collections/sets/72157627655737919/"
-  },
-  {
-     "Nation":"United States of America"
     ,"City":"Chicago"
     ,"Library":"University of Chicago Library"
     ,"lat":41.79218
@@ -3205,15 +3187,6 @@
   },
   {
      "Nation":"Belgium"
-    ,"City":"Antwerp"
-    ,"Library":"Museum Plantin-Moretus"
-    ,"lat":51.218446
-    ,"lng":4.397957
-    ,"Quantity":"Unknown"
-    ,"Website":"http://www.museumplantinmoretus.be/Museum_PlantinMoretus_NL/PlantinMoretusNL/PlantinMoretusNL-Bibliotheken-en-archieven/Bibliotheken-en-archieven-Bibliotheken/De-oude-bibliotheek/De-oude-bibliotheek-Manuscripten.html"
-  },
-  {
-     "Nation":"Belgium"
     ,"City":"Bruges"
     ,"Library":"Openbare Bibliotheek Brugge"
     ,"lat":51.20969
@@ -3444,7 +3417,7 @@
     ,"lat":-33.881738
     ,"lng":151.049136
     ,"Quantity":"Few ( < 10 digitized manuscripts)"
-    ,"Website":"http://www.library.usyd.edu.au/libraries/rare/7digmat.html"
+    ,"Website":"https://library.sydney.edu.au/collections/digital-collections.html"
   },
   {
      "Nation":"Australia"
@@ -3494,11 +3467,11 @@
   {
      "Nation":"Germany"
     ,"City":"Munchen"
-    ,"Library":"Pracht auf Pergament"
+    ,"Library":"PBayerischen Staatsbibliothek"
     ,"lat":48.135125
     ,"lng":11.581981
     ,"Quantity":"Unknown"
-    ,"Website":"https://www.bsb-muenchen.de/benutzung-und-service/virtuelle-angebote-app0/pracht-auf-pergament-schaetze-der-buchmalerei-von-780-bis-1180/"
+    ,"Website":"https://opacplus.bsb-muenchen.de/metaopac/refineSearch.do?id=media_type_facet&methodToCall=filterSearch&subval=Online-Ressource"
   },
   {
      "Nation":"Germany"
@@ -3993,7 +3966,7 @@
     ,"lat":52.380622
     ,"lng":4.640057
     ,"Quantity":"Few ( < 10 digitized manuscripts)"
-    ,"Website":"http://www.teylersmuseum.nl/nl/collectie/boeken/ms-078-horae-romanae-briconnet-heures-jean-poyer"
+    ,"Website":"http://www.teylersmuseum.nl/nl/collectie/boeken/ms-078-horae-romanae-briconnet-heures"
   },
   {
      "Nation":"Netherlands"
@@ -4129,15 +4102,6 @@
     ,"lng":8.259267
     ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
     ,"Website":"http://www.dilibri.de/nav/classification/991549"
-  },
-  {
-     "Nation":"Germany"
-    ,"City":"Neuburg a.d.Donau"
-    ,"Library":"Benediktinerinnenkloster "
-    ,"lat":54.418120
-    ,"lng":13.432520
-    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
-    ,"Website":"http://www.phil-fak.uni-duesseldorf.de/geschichte/lehrstuehle/mittelalterliche-geschichte/forschung/dfg-projekt-schriftlichkeit-in-sueddeutschen-frauenkloestern/benediktinerinnenkloster-neuburg-a-d-donau/"
   },
   {
      "Nation":"France"
@@ -4309,15 +4273,6 @@
     ,"lng":-87.623713
     ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
     ,"Website":"http://www.artic.edu/aic/collections/artwork-search/results/manuscripts"
-  },
-  {
-     "Nation":"Czech Republic"
-    ,"City":"Brno"
-    ,"Library":"Moravian Land Library"
-    ,"lat":49.208654
-    ,"lng":16.594387
-    ,"Quantity":"Unknown"
-    ,"Website":"http://kramerius.mzk.cz/search/r.jsp?offset=0&forProfile=facet&fq=language:%22lat%22\nhttp://www.manuscriptorium.com/index.php?q=content/manuscripts-moravian-regional-library-brno-and-benedictine-abbey-rajhrad"
   },
   {
      "Nation":"France"
@@ -4506,7 +4461,7 @@
     ,"lat":53.564724
     ,"lng":9.985209
     ,"Quantity":"Unknown"
-    ,"Website":"http://www.sub.uni-hamburg.de/recherche/elektronische-angebote/digitalisierte-bestaende.html"
+    ,"Website":"http://digitalisate.sub.uni-hamburg.de/handschriften.html"
   },
   {
      "Nation":"Germany"
