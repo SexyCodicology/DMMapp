@@ -3933,15 +3933,6 @@
         "Website": "http://www.collectiegelderland.nl/zoeken/?q=Huis+Bergh%3a+Manuscripten&fq=instellingscode:0211"
   },
     {
-        "Nation": "Belgium",
-        "City": "Antwerp",
-        "Library": "Erfgoedbibliotheek Hendrik Conscience",
-        "lat": 51.220622,
-        "lng": 4.403961,
-        "Quantity": "Some (between 10 and 50 digitized manuscripts)",
-        "Website": "http://www.flandrica.be/solr-search/results/?solrfacet=collection:%22Erfgoedbibliotheek%20Hendrik%20Conscience%22+AND+136_s:%22handschrift%22"
-  },
-    {
         "Nation": "Netherlands",
         "City": "Cuijk",
         "Library": "Klooster Sint Aegten",
