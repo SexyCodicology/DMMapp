@@ -4705,5 +4705,87 @@
         "lng": -75.378283,
         "Quantity": "Some (between 10 and 50 digitized manuscripts)",
         "Website": "http://digital.lib.lehigh.edu/manuscripts/browse.php"
+  },
+        {
+        "Nation": "Romania",
+        "City": "Bucharest",
+        "Library": "Medievalia - Fundamental texts of medieval Romanian culture",
+        "lat": 44.426767,
+        "lng": 26.102538,
+        "Quantity": "Many (Between 50 and 100 digitized manuscripts)",
+        "Website": "http://medievalia.com.ro/en/manuscripts"
+  },
+        {
+        "Nation": "Poland",
+        "City": "Szczecin",
+        "Library": "Pomeranian Library of Szczecin",
+        "lat": 53.423413,
+        "lng": 14.553854,
+        "Quantity": "Hundreds (between 100 and 500 digitized manuscripts)",
+        "Website": "http://zbc.ksiaznica.szczecin.pl/dlibra/pubindex?dirids=14"
+  },
+            {
+        "Nation": "England",
+        "City": "Oxford",
+        "Library": "Christ Church College",
+        "lat": 51.749802,
+        "lng": -1.255719,
+        "Quantity": "Some (between 10 and 50 digitized manuscripts)",
+        "Website": "http://www.chch.ox.ac.uk/library-and-archives/digital-library"
+  },
+            {
+        "Nation": "Canada",
+        "City": "Vancouver",
+        "Library": "University of British Columbia",
+        "lat": 49.260605,
+        "lng": -123.245994,
+        "Quantity": "Some (between 10 and 50 digitized manuscripts)",
+        "Website": "https://open.library.ubc.ca/collections/manuscripts"
+  },
+    
+                {
+        "Nation": "England",
+        "City": "Oxford",
+        "Library": "Pembroke College",
+        "lat": 52.201871,
+        "lng": 0.119922,
+        "Quantity": "Few ( < 10 digitized manuscripts)",
+        "Website": "http://digital-collections.pmb.ox.ac.uk/"
+  },
+                {
+        "Nation": "England",
+        "City": "Cambridge",
+        "Library": "St Catherine's College",
+        "lat": 52.202921,
+        "lng": 0.116992,
+        "Quantity": "Few ( < 10 digitized manuscripts)",
+        "Website": "http://www.caths.cam.ac.uk/about-us/library/special-collections/digital-library"
+  },
+                {
+        "Nation": "Slovakia",
+        "City": "Bratislava",
+        "Library": "Univerzitná knižnica v Bratislava (University Library, Bratislava)",
+        "lat": 48.143488,
+        "lng": 17.106403,
+        "Quantity": "Many (Between 50 and 100 digitized manuscripts)",
+        "Website": "http://digitalna.kniznica.info/browse"
+  },
+                {
+        "Nation": "England",
+        "City": "Durham",
+        "Library": "Durham Cathedral Library",
+        "lat": 54.773062,
+        "lng": -1.577053,
+        "Quantity": "Few ( < 10 digitized manuscripts)",
+        "Website": "https://www.durhampriory.ac.uk/digitised-priory-books/"
+  },
+                {
+        "Nation": "United States of America",
+        "City": "Corning",
+        "Library": "Rakow Library, Corning Museum of Glass",
+        "lat": 54.773062,
+        "lng": -1.577053,
+        "Quantity": "Few ( < 10 digitized manuscripts)",
+        "Website": "http://rakow.cmog.org/vwebv/holdingsInfo?searchId=432&recCount=50&recPointer=6&bibId=72720"
   }
 ]
