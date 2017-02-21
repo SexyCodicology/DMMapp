@@ -1742,8 +1742,8 @@
         "Library": "Biblioteca Medicea Laurenziana",
         "lat": 43.774181,
         "lng": 11.254802,
-        "Quantity": "Unknown",
-        "Website": "http://teca.bmlonline.it/TecaRicerca/index.jsp"
+        "Quantity": "Thousands (more than 1000 digitized manuscripts)",
+        "Website": "http://mss.bmlonline.it/"
   },
     {
         "Nation": "Italy",
@@ -4545,15 +4545,6 @@
         "Website": "http://patrimoine.bm-dijon.fr/pleade/subset.html?name=sub-citeaux\n"
   },
     {
-        "Nation": "Italy",
-        "City": "Firenze",
-        "Library": "Biblioteca Medicea Laurenziana",
-        "lat": 43.774326,
-        "lng": 11.254041,
-        "Quantity": "Unknown",
-        "Website": "http://www.internetculturale.it/opencms/opencms/it/ricercaMag.jsp?searchType=avanzato&q=&opCha__creator=AND&channel__creator=&opCha__title=AND&channel__title=&opCha__contributor=AND&channel__contributor=&opCha__issuedYear=AND&channel__issuedYear_from=&channel__issuedYear_until=&opCha__publisher=AND&channel__publisher=&opCha__subject=AND&channel__subject=&opCha__language=AND+OR&opCha__typeTipo=AND+OR&opCha__typeLivello=AND&channel__typeLivello=&opCha__typeDigitale=AND+OR&opCha__location=AND&channel__location=&opCha__collectionText=AND&channel__collectionText=plutei&opCha__agency=AND&channel__agency=%22biblioteca+medicea+laurenziana+-+firenze%22&opCha__descSourceLevel2=AND+OR&imageField2.x=14&imageField2.y=9"
-  },
-    {
         "Nation": "Austria",
         "City": "Heiligenkreuz",
         "Library": "Zisterzienserstift",
@@ -4787,5 +4778,5 @@
         "lng": -1.577053,
         "Quantity": "Few ( < 10 digitized manuscripts)",
         "Website": "http://rakow.cmog.org/vwebv/holdingsInfo?searchId=432&recCount=50&recPointer=6&bibId=72720"
-  }
+  },
 ]
