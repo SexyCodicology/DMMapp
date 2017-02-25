@@ -1783,7 +1783,7 @@
   },
     {
         "Nation": "Italy",
-        "City": "Mantua",
+        "City": "Mantova",
         "Library": "Biblioteca Teresiana",
         "lat": 45.158031,
         "lng": 10.79731,
@@ -1801,8 +1801,8 @@
   },
     {
         "Nation": "Italy",
-        "City": "Florence",
-        "Library": "Archivio dell'Opera\ndi Santa Maria del Fiore\ndi Firenze",
+        "City": "Firenze",
+        "Library": "Archivio dell'Opera di Santa Maria del Fiore di Firenze",
         "lat": 43.773168,
         "lng": 11.258017,
         "Quantity": "Many (Between 50 and 100 digitized manuscripts)",
@@ -1828,7 +1828,7 @@
   },
     {
         "Nation": "Netherlands",
-        "City": "The Hague",
+        "City": "Den Haag",
         "Library": "De Nationale Bibliotheek van Nederland (Including  Museum Meermanno | Huis van het Boek)",
         "lat": 52.081739,
         "lng": 4.327369,
@@ -4165,15 +4165,6 @@
         "lng": 0.939920,
         "Quantity": "Unknown",
         "Website": "http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=CONCHES&TOUT=true"
-  },
-    {
-        "Nation": "Italy",
-        "City": "Firenze",
-        "Library": "Archivio Storico dell'Opera di Santa Maria del Fiore",
-        "lat": 43.773200,
-        "lng": 11.258020,
-        "Quantity": "Unknown",
-        "Website": "http://archivio.operaduomo.fi.it/corali/"
   },
     {
         "Nation": "Germany",
