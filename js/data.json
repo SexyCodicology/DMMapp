@@ -2427,7 +2427,7 @@
         "lat": 39.296142,
         "lng": -76.616119,
         "Quantity": "Hundreds (between 100 and 500 digitized manuscripts)",
-        "Website": "http://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html"
+        "Website": "http://manuscripts.thewalters.org/"
   },
     {
         "Nation": "United States of America",
@@ -3476,11 +3476,11 @@
     {
         "Nation": "Germany",
         "City": "Munchen",
-        "Library": "PBayerischen Staatsbibliothek",
+        "Library": "Bayerischen Staatsbibliothek",
         "lat": 48.135125,
         "lng": 11.581981,
         "Quantity": "Unknown",
-        "Website": "https://opacplus.bsb-muenchen.de/metaopac/refineSearch.do?id=media_type_facet&methodToCall=filterSearch&subval=Online-Ressource"
+        "Website": "https://app.digitale-sammlungen.de/bookshelf/?query=handschrift&submit&language=en"
   },
     {
         "Nation": "Germany",
