@@ -2376,7 +2376,7 @@
         "Website": "http://www.manuscripta-mediaevalia.de/?xdb_objtype!\"digitalisierteHandschriften\"%20r5a:*%20r5a!\"Solothurn\"%20r5b!\"Domschatz der St.-Ursen-Kathedrale|Solothurn\""
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "New York",
         "Library": "Columbia University, Rare Book and Manuscript Library",
         "lat": 40.8064,
@@ -2385,7 +2385,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=20&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Philadelphia",
         "Library": "Free Library of Philadelphia, Rare Book Department",
         "lat": 39.949353,
@@ -2394,7 +2394,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=4&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Berkeley",
         "Library": "University of California, Berkeley, Bancroft Library",
         "lat": 37.87226,
@@ -2403,7 +2403,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=1&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Philadelphia",
         "Library": "University of Pennsylvania, Rare Book and Manuscript Library",
         "lat": 39.952739,
@@ -2412,7 +2412,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=27&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Cambridge",
         "Library": "Harvard University, Houghton Library",
         "lat": 42.373069,
@@ -2421,7 +2421,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=2&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Baltimore",
         "Library": "The Walters Art Museum",
         "lat": 39.296142,
@@ -2430,7 +2430,7 @@
         "Website": "http://manuscripts.thewalters.org/"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "New York",
         "Library": "The Metropolitan Museum of Art",
         "lat": 40.780008,
@@ -2439,7 +2439,7 @@
         "Website": "http://www.metmuseum.org/collection/the-collection-online/search?&what=Manuscripts&ft=*&ao=on&when=A.D.+1000-1400&pg=1"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Columbia",
         "Library": "University of Missouri, Ellis Library, Special Collections",
         "lat": 38.944278,
@@ -2448,7 +2448,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=45&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Lawrence",
         "Library": "University of Kansas, Kenneth Spencer Research Library, Special Collections",
         "lat": 38.958922,
@@ -2457,7 +2457,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=30&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Berkeley",
         "Library": "University of California, Berkeley, Robbins Collection",
         "lat": 37.869972,
@@ -2466,7 +2466,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=11&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "New York",
         "Library": "New York Public Library, Manuscripts and Archives Division and the Spencer Collection",
         "lat": 40.758703,
@@ -2475,7 +2475,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=41&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Austin",
         "Library": "University of Texas at Austin, Harry Ransom Humanities Research Center",
         "lat": 30.2843,
@@ -2484,7 +2484,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=37&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "New Haven",
         "Library": "Beinecke Rare Book & Manuscript Library",
         "lat": 41.311636,
@@ -2493,7 +2493,7 @@
         "Website": "http://brbl-dl.library.yale.edu/vufind/Search/Results?type=AllFields&filter[]=genre_facet:%22Manuscripts%22&daterange[]=publishDate&publishDatefrom=0&publishDateto=1550"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Notre Dame",
         "Library": "University of Notre Dame, Hesburgh Library, Special Collections",
         "lat": 41.702683,
@@ -2502,7 +2502,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=14&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "New York",
         "Library": "New York Public Library,",
         "lat": 40.758703,
@@ -2511,7 +2511,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=42&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "New York",
         "Library": "The Morgan Library & Museum",
         "lat": 40.748667,
@@ -2520,7 +2520,7 @@
         "Website": "http://utu.morganlibrary.org/index.cfm"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Bloomington",
         "Library": "Indiana University, The Lilly Library",
         "lat": 39.167894,
@@ -2529,7 +2529,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=40&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "New York",
         "Library": "Fordham University, Walsh Library, Archives and Special Collections",
         "lat": 40.861331,
@@ -2538,7 +2538,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=3&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "New York",
         "Library": "Columbia University, Burke Library at Union Theological Seminary",
         "lat": 40.811269,
@@ -2547,7 +2547,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=22&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "New Brunswick",
         "Library": "Rutgers, The State University of New Jersey, Special Collections and University Archives",
         "lat": 40.503858,
@@ -2556,7 +2556,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=6&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Oberlin",
         "Library": "Oberlin College, Main Library, Special Collections",
         "lat": 41.29325,
@@ -2565,7 +2565,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=26&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Berkeley",
         "Library": "University of California, Berkeley, Jean Gray Hargrove Music Library",
         "lat": 37.870447,
@@ -2574,7 +2574,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=8&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Conception",
         "Library": "Conception Abbey and Seminary, Special Collection",
         "lat": 40.241353,
@@ -2583,7 +2583,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=15&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "San Francisco",
         "Library": "State of California, Sutro Collection",
         "lat": 37.720914,
@@ -2592,7 +2592,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=12&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "San Francisco",
         "Library": "San Francisco State University, J. Paul Leonard Library, De Bellis Collection",
         "lat": 37.721894,
@@ -2601,7 +2601,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=13&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Davis",
         "Library": "University of California, Davis, Shields Library, Special Collections",
         "lat": 38.539511,
@@ -2610,7 +2610,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=7&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "San Francisco",
         "Library": "San Francisco State University, J. Paul Leonard Library, De Bellis Collection",
         "lat": 37.721458,
@@ -2619,7 +2619,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=13&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "New York",
         "Library": "The Library of The Jewish Theological Seminary",
         "lat": 40.811742,
@@ -2628,7 +2628,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=39&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Pittsburgh",
         "Library": "University of Pittsburgh, Hillman Library, Special Collections",
         "lat": 40.442603,
@@ -2637,7 +2637,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=36&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "New York",
         "Library": "General Theological Seminary, Christoph Keller, Jr. Library, Special Collections",
         "lat": 40.745931,
@@ -2646,7 +2646,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=23&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Baltimore",
         "Library": "Johns Hopkins University, Milton S. Eisenhower Library",
         "lat": 39.3275798,
@@ -2655,7 +2655,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=33&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "New York",
         "Library": "Grolier Club",
         "lat": 40.7613,
@@ -2664,7 +2664,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=24&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Baltimore",
         "Library": "Johns Hopkins University, John Work Garrett Library",
         "lat": 39.348333,
@@ -2673,7 +2673,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=31&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Riverside",
         "Library": "University of California, Riverside, Tomas Rivera Library, Special Collections",
         "lat": 33.972522,
@@ -2682,7 +2682,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=10&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Kansas City",
         "Library": "Nelson-Atkins Museum of Art, Spencer Art Reference Library",
         "lat": 39.044817,
@@ -2691,7 +2691,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=46&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "New York",
         "Library": "New York University, Bobst Library, Special Collections",
         "lat": 40.729467,
@@ -2700,7 +2700,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=25&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Providence",
         "Library": "Providence Public Library, Special Collections",
         "lat": 41.822067,
@@ -2709,7 +2709,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=28&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "New York",
         "Library": "Columbia University, Barnard College Library",
         "lat": 40.809673,
@@ -2718,7 +2718,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=16&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Sacramento",
         "Library": "State of California, California State Library",
         "lat": 38.575783,
@@ -2727,7 +2727,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=9&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "New York",
         "Library": "Columbia University, Gabe M. Wiener Music and Arts Library",
         "lat": 40.807764,
@@ -2736,7 +2736,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=19&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "New York",
         "Library": "Columbia University, Gottesman Libraries, Special Collections",
         "lat": 40.809897,
@@ -2745,7 +2745,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=21&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Baltimore",
         "Library": "Johns Hopkins University, George Peabody Library",
         "lat": 39.297361,
@@ -2754,7 +2754,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=32&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Burlington",
         "Library": "University of Vermont, Bailey/Howe Library, Special Collections",
         "lat": 44.475942,
@@ -2763,7 +2763,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=38&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Baltimore",
         "Library": "Johns Hopkins University, Institute of the History of Medicine, Historical Collection",
         "lat": 39.299053,
@@ -2772,7 +2772,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=34&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "New York",
         "Library": "Columbia University, Arthur W. Diamond Law Library",
         "lat": 40.807128,
@@ -2781,7 +2781,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=17&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "New York",
         "Library": "City College of New York, Morris R. Cohen Library, Archives and Special Collections",
         "lat": 40.823275,
@@ -2790,7 +2790,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=5&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "New York",
         "Library": "Columbia University, Augustus C. Long Health Sciences Library",
         "lat": 40.823275,
@@ -2799,7 +2799,7 @@
         "Website": "http://vm133.lib.berkeley.edu:8080/xtf22/search?rmode=digscript&smode=bid&bid=18&docsPerPage=30"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Chicago",
         "Library": "University of Chicago Library",
         "lat": 41.79218,
@@ -2808,7 +2808,7 @@
         "Website": "http://goodspeed.lib.uchicago.edu/list/index.php?list=listscanned"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Stanford",
         "Library": "Stanford University Libraries",
         "lat": 37.427474,
@@ -2817,7 +2817,7 @@
         "Website": "http://collections.stanford.edu/images/bin/search/advanced/process?sort=title&clauseMapped(collectionBrowse)=Medieval+Manuscripts+and+Fragments&browse=1"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Los Angeles",
         "Library": "The J. Paul Getty Museum",
         "lat": 34.077174,
@@ -2826,7 +2826,7 @@
         "Website": "http://www.getty.edu/art/collection/"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Iowa City",
         "Library": "Special Collections, University of Iowa Libraries",
         "lat": 41.659395,
@@ -2853,7 +2853,7 @@
         "Website": "http://www.llgc.org.uk/index.php?id=4730"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Philadelphia",
         "Library": "Schoenberg Collection",
         "lat": 39.952576,
@@ -2952,7 +2952,7 @@
         "Website": "http://www.nuovabibliotecamanoscritta.it/Generale/BibliotecaDigitale/manoscritti.html"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Washington",
         "Library": "Library of Congress, Lessing J. Rosenwald Collection",
         "lat": 38.888629,
@@ -3222,7 +3222,7 @@
         "Website": "http://www.mmdc.nl/static/site/search/?searchMode=advanced&recordId=null&selectedRecordId=null&maximumRecords=15&recordDisplayLevel=1&startRecord=1&showMap=1&freetextsearch=Type+in+query&shelfmark=middelburg&author=Type+in+query...+%28autocompleted%29&title=Type+in+query...+%28autocompleted%29&startyear=Type+in+query&endyear=Type+in+query&alt-title=Type+in+query...+%28autocompleted%29&incipit=Type+in+query&annotation_contents=Type+in+query&contains=null&language=null&language_original=null&translator=Type+in+query...+%28autocompleted%29&type=null&keyword=Type+in+query&person=Type+in+query...+%28autocompleted%29&medium=null&script=Type+in+query&scribe=Type+in+query...+%28autocompleted%29&binding=null&binder=Type+in+query...+%28autocompleted%29&region=null&place=Type+in+query&patron=Type+in+query...+%28autocompleted%29&collection=Type+in+query...+%28autocompleted%29"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Kalamazoo",
         "Library": "Dwight B. Waldo Library, Western Michigan University",
         "lat": 42.282326,
@@ -3231,7 +3231,7 @@
         "Website": "http://luna.library.wmich.edu:8180/luna/servlet/s/4w5t8d"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Birmingham",
         "Library": "Reynolds Historical Library, University of Alabama at Birmingham",
         "lat": 33.498091,
@@ -3249,7 +3249,7 @@
         "Website": "http://www.collectierijksmuseumtwenthe.nl/ventura/engine.php?Cmd=see&P_site=812&P_self=32&PMax=0&PSkip=0&Fresh=1&Push=1411028631&x=0&y=0&Search=manuscript"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "St. Louis",
         "Library": "Pius XII Memorial Library, Special Collections",
         "lat": 38.636763,
@@ -3339,7 +3339,7 @@
         "Website": "http://www.canterbury.ac.nz/canterburyroll"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Plano",
         "Library": "Center for the Study of New Testament Manuscripts",
         "lat": 33.008042,
@@ -3996,7 +3996,7 @@
         "Website": "http://v2.manuscriptorium.com/apps/main/index.php?request=show_dynamic_collection_detail&collId=13262014091326201686"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Chicago",
         "Library": "University of Chicago, The Goodspeed Manuscript Collection",
         "lat": 41.788608,
@@ -4239,7 +4239,7 @@
         "Website": "http://manuscripta.at/m1/lib_digi.php?libcode=AT9800"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Hanover",
         "Library": "Rauner Library - Dartmouth College Library",
         "lat": 43.705457,
@@ -4248,7 +4248,7 @@
         "Website": "https://www.dartmouth.edu/~library/rauner/westmss/westmss_search.html"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Los Angeles",
         "Library": "UCLA Library",
         "lat": 34.074956,
@@ -4257,7 +4257,7 @@
         "Website": "http://digital2.library.ucla.edu/viewItem.do?ark=21198/zz0009gx4f"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Chicago",
         "Library": "The Art Institute of Chicago",
         "lat": 41.879584,
@@ -4401,7 +4401,7 @@
         "Website": "http://www.bayerische-landesbibliothek-online.de/handschriftenstemmeramregensburg"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "San Marino",
         "Library": "Huntington Library",
         "lat": 34.129045,
@@ -4608,7 +4608,7 @@
         "Website": "http://manuscripta.at/m1/lib_digi.php?libcode=AT4400"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Lexington",
         "Library": "University of Kentucky",
         "lat": 38.030651,
@@ -4771,7 +4771,7 @@
         "Website": "https://www.dur.ac.uk/library/asc/theme/medmss/"
   },
     {
-        "Nation": "United States of America",
+        "Nation": "United States",
         "City": "Corning",
         "Library": "Rakow Library, Corning Museum of Glass",
         "lat": 42.149804,
