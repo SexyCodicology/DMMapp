@@ -4688,7 +4688,7 @@
         "Quantity": "Some (between 10 and 50 digitized manuscripts)",
         "Website": "http://digital.lib.lehigh.edu/manuscripts/browse.php"
   },
-        {
+    {
         "Nation": "Romania",
         "City": "Bucharest",
         "Library": "Medievalia - Fundamental texts of medieval Romanian culture",
@@ -4697,7 +4697,7 @@
         "Quantity": "Many (Between 50 and 100 digitized manuscripts)",
         "Website": "http://medievalia.com.ro/en/manuscripts"
   },
-        {
+    {
         "Nation": "Poland",
         "City": "Szczecin",
         "Library": "Pomeranian Library of Szczecin",
@@ -4706,7 +4706,7 @@
         "Quantity": "Hundreds (between 100 and 500 digitized manuscripts)",
         "Website": "http://zbc.ksiaznica.szczecin.pl/dlibra/pubindex?dirids=14"
   },
-            {
+    {
         "Nation": "England",
         "City": "Oxford",
         "Library": "Christ Church College",
@@ -4715,7 +4715,7 @@
         "Quantity": "Some (between 10 and 50 digitized manuscripts)",
         "Website": "http://www.chch.ox.ac.uk/library-and-archives/digital-library"
   },
-            {
+    {
         "Nation": "Canada",
         "City": "Vancouver",
         "Library": "University of British Columbia",
@@ -4724,8 +4724,8 @@
         "Quantity": "Some (between 10 and 50 digitized manuscripts)",
         "Website": "https://open.library.ubc.ca/collections/manuscripts"
   },
-    
-                {
+
+    {
         "Nation": "England",
         "City": "Oxford",
         "Library": "Pembroke College",
@@ -4734,7 +4734,7 @@
         "Quantity": "Few ( < 10 digitized manuscripts)",
         "Website": "http://digital-collections.pmb.ox.ac.uk/"
   },
-                {
+    {
         "Nation": "England",
         "City": "Cambridge",
         "Library": "St Catharine's College",
@@ -4743,7 +4743,7 @@
         "Quantity": "Few ( < 10 digitized manuscripts)",
         "Website": "http://www.caths.cam.ac.uk/about-us/library/special-collections/digital-library"
   },
-                {
+    {
         "Nation": "Slovakia",
         "City": "Bratislava",
         "Library": "Univerzitná knižnica v Bratislava (University Library, Bratislava)",
@@ -4752,7 +4752,7 @@
         "Quantity": "Many (Between 50 and 100 digitized manuscripts)",
         "Website": "http://digitalna.kniznica.info/browse"
   },
-                {
+    {
         "Nation": "England",
         "City": "Durham",
         "Library": "Durham Cathedral Library",
@@ -4770,7 +4770,7 @@
         "Quantity": "Few ( < 10 digitized manuscripts)",
         "Website": "https://www.dur.ac.uk/library/asc/theme/medmss/"
   },
-                {
+    {
         "Nation": "United States of America",
         "City": "Corning",
         "Library": "Rakow Library, Corning Museum of Glass",
@@ -4778,5 +4778,59 @@
         "lng": -77.054196,
         "Quantity": "Few ( < 10 digitized manuscripts)",
         "Website": "http://rakow.cmog.org/vwebv/holdingsInfo?searchId=432&recCount=50&recPointer=6&bibId=72720"
+  },
+    {
+        "Nation": "England",
+        "City": "Manchester",
+        "Library": "Chetham's Library",
+        "lat": 53.486617,
+        "lng": -2.243786,
+        "Quantity": "Few ( < 10 digitized manuscripts)",
+        "Website": "http://library.chethams.com/collections/archives-manuscripts/medieval-manuscripts/"
+  },
+    {
+        "Nation": "England",
+        "City": "York",
+        "Library": "Borthwick Archives",
+        "lat": 53.948961,
+        "lng": -1.051405,
+        "Quantity": "Thousands (more than 1000 digitized manuscripts)",
+        "Website": "https://archbishopsregisters.york.ac.uk/"
+  },
+    {
+        "Nation": "United States",
+        "City": "Columbia",
+        "Library": "University of South Carolina University Libraries",
+        "lat": 33.996112,
+        "lng": -81.027428,
+        "Quantity": "Hundreds (between 100 and 500 digitized manuscripts)",
+        "Website": "http://digital.tcl.sc.edu/cdm/search/collection/pfp/order/ordern/ad/asc/cosuppress/0"
+  },
+    {
+        "Nation": "United States",
+        "City": "Greensboro",
+        "Library": "University of North Carolina at Greensboro",
+        "lat": 36.067491,
+        "lng": -79.809843,
+        "Quantity": "Some (between 10 and 50 digitized manuscripts)",
+        "Website": "http://libcdm1.uncg.edu/cdm/search/field/lc/searchterm/Manuscripts,%20Medieval/mode/exact"
+  },
+    {
+        "Nation": "United States",
+        "City": "Springfield",
+        "Library": "Missouri State University",
+        "lat": 37.200566,
+        "lng": -93.280670,
+        "Quantity": "Some (between 10 and 50 digitized manuscripts)",
+        "Website": "http://purl.missouristate.edu/library/archives/DigitalCollections/MedievalManuscript"
+  },
+    {
+        "Nation": "United States",
+        "City": "Collegeville",
+        "Library": "Virtual Hill Museum & Manuscript Library",
+        "lat": 45.581541,
+        "lng": -94.392490,
+        "Quantity": "Unknown",
+        "Website": "http://purl.missouristate.edu/library/archives/DigitalCollections/MedievalManuscript"
   }
 ]
