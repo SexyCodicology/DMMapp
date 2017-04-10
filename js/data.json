@@ -4761,6 +4761,15 @@
         "Quantity": "Few ( < 10 digitized manuscripts)",
         "Website": "https://www.durhampriory.ac.uk/digitised-priory-books/"
   },
+    {
+        "Nation": "England",
+        "City": "Durham",
+        "Library": "Durham University Library",
+        "lat": 54.563037,
+        "lng": -1.296011,
+        "Quantity": "Few ( < 10 digitized manuscripts)",
+        "Website": "https://www.dur.ac.uk/library/asc/theme/medmss/"
+  },
                 {
         "Nation": "United States of America",
         "City": "Corning",
