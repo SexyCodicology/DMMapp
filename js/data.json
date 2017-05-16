@@ -4832,5 +4832,23 @@
         "lng": -94.392490,
         "Quantity": "Unknown",
         "Website": "https://www.vhmml.org/readingRoom/"
+  },
+        {
+        "Nation": "United States",
+        "City": "Sarasota",
+        "Library": "New College of Florida",
+        "lat": 27.384828,
+        "lng": -82.558703,
+        "Quantity": "Some (between 10 and 50 digitized manuscripts)",
+        "Website": "http://ncf.sobek.ufl.edu/manu/all"
+  },
+        {
+        "Nation": "Belgium",
+        "City": "Leuven",
+        "Library": "Universiteitsbibliotheek KU Leuven",
+        "lat": 50.859692,
+        "lng": 4.682045,
+        "Quantity": "More than half-thousand digitized manuscripts (between 500 and 1000)",
+        "Website": "http://limo.libis.be/primo_library/libweb/action/search.do?ct=facet&fctN=facet_searchcreationdate&fctV=%5b0001+TO+1540%5d&rfnGrp=2&rfnGrpCounter=2&frbg=&rfnGrpCounter=1&fn=search&indx=21&dscnt=0&scp.scps=scope%3A(SCOPE_773)%2Cscope%3A(KUL)%2C(scope%3A(lirias)%20OR%20scope%3A(LIRIAS))%2Cscope%3A(ODIS)%2Cscope%3A(32LIBIS_ALMA_DS_P)%2Cprimo_central_multiple_fe&tb=t&vid=KULeuven&fctV=online_resources&fctV=Manuscripts&mode=Basic&ct=Next%20Page&rfnGrp=show_only&rfnGrp=1&tab=all_content_tab&srt=rank&fctN=facet_tlevel&fctN=facet_rtype&dum=true&vl(freeText0)=callnumberms*&dstmp=1494940388135"
   }
 ]
