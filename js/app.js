@@ -55,7 +55,7 @@ function initMap() {
         scaleControl: false,
         streetViewControl: false,
         rotateControl: false,
-        fullscreenControl: false,
+        fullscreenControl: false
     });
     map.mapTypes.set(customMapTypeId, customMapType);
     map.setMapTypeId(customMapTypeId);
@@ -63,9 +63,9 @@ function initMap() {
 
     function placeMapper(place) {
         //Here goes the stuff for the Infowindow
-        var infowindowContent = "<h3>" + place.Library + "</h3><p>" + place.Quantity + "</p>" + '<div class="linkbutton"><a class="btn btn-primary btn-block" href="' + place.Website + '">Browse the manuscripts</a></div>';
+        var infowindowContent = "<h3>" + place.Library + "</h3><p>" + place.Quantity + "</p>" + '<div class="linkbutton"><a class="btn btn-primary btn-block" href="' + place.Website + '" target="_blank">Browse the manuscripts</a></div>';
         //Here goes the stuff for the Datatable
-        var row = $("<tr>" + "<td>" + place.Nation + "</td>" + "<td>" + place.City + "</td>" + "<td>" + place.Library + "</td>" + "<td>" + place.lat + "</td>" + "<td>" + place.lng + "</td>" + "<td>" + place.Quantity + "</td>" + "<td>" + '<a href="' + place.Website + '">Browse the manuscripts</a>' + "</td>" + "</tr>");
+        var row = $("<tr>" + "<td>" + place.Nation + "</td>" + "<td>" + place.City + "</td>" + "<td>" + place.Library + "</td>" + "<td>" + place.lat + "</td>" + "<td>" + place.lng + "</td>" + "<td>" + place.Quantity + "</td>" + "<td>" + '<a href="' + place.Website + '" target="_blank">Browse the manuscripts</a>' + "</td>" + "</tr>");
         var clickToggle = function () {
             map.setCenter({
                 lat: place.lat,
@@ -82,7 +82,7 @@ function initMap() {
                 scrollTop: $("#dmmmap").offset().top
             }, 500);
 
-        }
+        };
         $("#datatablex").find('tbody').append(row);
 
         var marker = new google.maps.Marker({
@@ -139,13 +139,32 @@ function initMap() {
             });
         });
         //Smootly scroll to the datatable when a row is clicked
-        //TODO: Add scrolling to top when start over is clicked
-        $('a[data-toggle="pill"], a[class="btn btn-warning btn-lg btn-block"] ').on('click', function () {
+        $('a[data-toggle="pill"], a[class="btn btn-primary btn-lg btn-block"] ').on('click', function () {
             $('html,body').animate({
                 scrollTop: $('#dmmtable').offset().top
             }, 500);
         });
-    });
-}
+    })
+};
 
-//FUTURE: Autofill?
+$('#datatableAdded').dataTable({
+    "sAjaxSource": "js/dataAdded.json",
+    "sAjaxDataProp": "data",
+    "responsive": true,
+    "processing": true,
+    "columns": [
+        {
+            "data": "Institution"
+        },
+        {
+            "data": "Website"
+        },
+        ],
+    "columnDefs": [{
+        "targets": 1,
+        "data": "Website",
+        "render": function (data, type, full, meta) {
+            return '<a href="' + data + '" target="_blank">Link</a>';
+        }
+  }]
+})
