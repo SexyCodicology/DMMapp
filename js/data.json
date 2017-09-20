@@ -1455,7 +1455,7 @@
     ,"lat":49.3034
     ,"lng":10.57451
     ,"Quantity":"Few ( < 10 digitized manuscripts)"
-    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!%22digitalisierteHandschriften%22%20r5a:*%20r5a!%22Ansbach%22"
+    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!%22digitalisierteHandschriften%22%20biblio%3Aansbach%20sp-datum%3C1550"
   },
   {
      "Nation":"Germany"
@@ -1464,7 +1464,7 @@
     ,"lat":54.368928
     ,"lng":12.724311
     ,"Quantity":"Few ( < 10 digitized manuscripts)"
-    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!\"digitalisierteHandschriften\"%20r5a:*%20r5a!\"Barth\""
+    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!%22digitalisierteHandschriften%22%20biblio%3ABarth%20sp-datum%3C1550"
   },
   {
      "Nation":"Germany"
@@ -1473,7 +1473,7 @@
     ,"lat":50.731342
     ,"lng":7.108468
     ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
-    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!\"digitalisierteHandschriften\"%20r5a!\"Bonn\""
+    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!%22digitalisierteHandschriften%22%20biblio%3ADarmstadt%20sp-datum%3C1550"
   },
   {
      "Nation":"Germany"
@@ -1482,7 +1482,7 @@
     ,"lat":49.873369
     ,"lng":8.656489
     ,"Quantity":"Few ( < 10 digitized manuscripts)"
-    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!\"digitalisierteHandschriften\"%20r5a:*%20r5a!\"Darmstadt\""
+    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!%22digitalisierteHandschriften%22%20biblio%3ADarmstadt%20sp-datum%3C1550"
   },
   {
      "Nation":"Germany"
@@ -1491,7 +1491,7 @@
     ,"lat":48.576892
     ,"lng":10.491123
     ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
-    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!\"digitalisierteHandschriften\"%20r5a:*%20r5a!\"Dillingen an der Donau\""
+    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!%22digitalisierteHandschriften%22%20biblio%3ADillingen"
   },
   {
      "Nation":"Germany"
@@ -1500,7 +1500,7 @@
     ,"lat":51.192465
     ,"lng":6.793181
     ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
-    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!\"digitalisierteHandschriften\"%20r5a:*%20r5a!\"Dusseldorf\""
+    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!%22digitalisierteHandschriften%22%20biblio%3ADusseldorf%20sp-datum%3C1550"
   },
   {
      "Nation":"Germany"
@@ -1509,7 +1509,7 @@
     ,"lat":54.095319
     ,"lng":13.377666
     ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
-    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!\"digitalisierteHandschriften\"%20r5a:*%20r5a!\"Greifswald\"%20r5b!\"Geistliches Ministerium Greifswald|Greifswald\""
+    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!%22digitalisierteHandschriften%22%20biblio%3AGreifswald%20sp-datum%3C1550"
   },
   {
      "Nation":"Germany"
@@ -1518,7 +1518,7 @@
     ,"lat":54.090826
     ,"lng":13.406299
     ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
-    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!\"digitalisierteHandschriften\"%20r5a:*%20r5a!\"Greifswald\"%20r5b!\"Universitatsbibliothek Greifswald|Greifswald\""
+    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!%22digitalisierteHandschriften%22%20biblio%3AGreifswald%20sp-datum%3C1550"
   },
   {
      "Nation":"Germany"
@@ -1527,7 +1527,7 @@
     ,"lat":51.332293
     ,"lng":12.368593
     ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
-    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!\"digitalisierteHandschriften\"%20r5a:*%20r5a!\"Leipzig\""
+    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!%22digitalisierteHandschriften%22%20biblio%3ALeipzig%20sp-datum%3C1550"
   },
   {
      "Nation":"Germany"
@@ -1536,7 +1536,7 @@
     ,"lat":50.80355
     ,"lng":8.76291
     ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
-    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!\"digitalisierteHandschriften\"%20r5a:*%20r5a!\"Marburg\""
+    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!%22digitalisierteHandschriften%22%20biblio%3AMarburg%20sp-datum%3C1550"
   },
   {
      "Nation":"Germany"
@@ -1545,7 +1545,7 @@
     ,"lat":48.632276
     ,"lng":10.444606
     ,"Quantity":"Few ( < 10 digitized manuscripts)"
-    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!\"digitalisierteHandschriften\"%20r5a:*%20r5a!\"Modingen\""
+    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!%22digitalisierteHandschriften%22%20biblio%3AMödingen%20sp-datum%3C1550"
   },
   {
      "Nation":"Germany"
@@ -1554,7 +1554,7 @@
     ,"lat":48.147493
     ,"lng":11.580119
     ,"Quantity":"Thousands (more than 1000 digitized manuscripts)"
-    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!\"digitalisierteHandschriften\"%20r5a:*%20r5a!\"Munchen\""
+    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!%22digitalisierteHandschriften%22%20biblio%3AMünchen%20sp-datum%3C1550"
   },
   {
      "Nation":"Germany"
@@ -1563,7 +1563,7 @@
     ,"lat":54.317652
     ,"lng":13.092205
     ,"Quantity":"Few ( < 10 digitized manuscripts)"
-    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!\"digitalisierteHandschriften\"%20r5a:*%20r5a!\"Stralsund\""
+    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!%22digitalisierteHandschriften%22%20biblio%3AStralsund%20sp-datum%3C1550"
   },
   {
      "Nation":"Greece"
@@ -1941,7 +1941,7 @@
     ,"lat":55.752161
     ,"lng":37.609043
     ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
-    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!\"digitalisierteHandschriften\"%20r5a!\"Moskau\""
+    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!%22digitalisierteHandschriften%22%20biblio%3AMoskau%20sp-datum%3C1550"
   },
   {
      "Nation":"Scotland"
@@ -2382,7 +2382,7 @@
     ,"lat":47.208117
     ,"lng":7.538777
     ,"Quantity":"Few ( < 10 digitized manuscripts)"
-    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!\"digitalisierteHandschriften\"%20r5a:*%20r5a!\"Solothurn\"%20r5b!\"Domschatz der St.-Ursen-Kathedrale|Solothurn\""
+    ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!%22digitalisierteHandschriften%22%20biblio%3ADomschatz%20sp-datum%3C1550"
   },
   {
      "Nation":"United States of America"
