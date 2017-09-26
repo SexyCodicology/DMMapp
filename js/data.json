@@ -1566,15 +1566,6 @@
     ,"Website":"http://www.manuscripta-mediaevalia.de/?xdb_objtype!%22digitalisierteHandschriften%22%20biblio%3AStralsund%20sp-datum%3C1550"
   },
   {
-     "Nation":"Greece"
-    ,"City":"Kalloni"
-    ,"Library":"Leimonos Monastery (Μονή Λειμώνος)"
-    ,"lat":39.247975
-    ,"lng":26.17225
-    ,"Quantity":"Unknown"
-    ,"Website":"http://84.205.233.134/library/xeirografa_en.php"
-  },
-  {
      "Nation":"Hungary"
     ,"City":"Budapest"
     ,"Library":"National Szechenyi Library"
@@ -1771,15 +1762,6 @@
     ,"lng":12.390454
     ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
     ,"Website":"http://augusta.alchimedia.com/indice.aspx?prov=div"
-  },
-  {
-     "Nation":"Italy"
-    ,"City":"Cesena"
-    ,"Library":"Biblioteca Malatestiana"
-    ,"lat":44.139089
-    ,"lng":12.244332
-    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
-    ,"Website":"http://catalogoaperto.malatestiana.it/cgi-bin/wxis.exe/?IsisScript=Opcat/search2.xis"
   },
   {
      "Nation":"Italy"
@@ -2032,15 +2014,6 @@
     ,"lng":18.072134
     ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
     ,"Website":"http://www.kb.se/samlingarna/Handskrifter/Smakprov/"
-  },
-  {
-     "Nation":"Sweden"
-    ,"City":"Uppsala"
-    ,"Library":"Uppsala Universitetsbibliotek"
-    ,"lat":59.855188
-    ,"lng":17.631549
-    ,"Quantity":"Few ( < 10 digitized manuscripts)"
-    ,"Website":"http://www.ub.uu.se/samlingar/handskrifter/vasterlandska-medeltidshandskrifter/?languageId=1"
   },
   {
      "Nation":"Switzerland"
@@ -2827,15 +2800,6 @@
   },
   {
      "Nation":"United States of America"
-    ,"City":"Stanford"
-    ,"Library":"Stanford University Libraries"
-    ,"lat":37.427474
-    ,"lng":-122.169719
-    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
-    ,"Website":"http://collections.stanford.edu/images/bin/search/advanced/process?sort=title&clauseMapped(collectionBrowse)=Medieval+Manuscripts+and+Fragments&browse=1"
-  },
-  {
-     "Nation":"United States of America"
     ,"City":"Los Angeles"
     ,"Library":"The J. Paul Getty Museum"
     ,"lat":34.077174
@@ -2986,24 +2950,6 @@
     ,"lng":16.326588
     ,"Quantity":"Few ( < 10 digitized manuscripts)"
     ,"Website":"http://mws.unibas.ch/mikrofilmarchiv/musikhandschriften-online/#c36670"
-  },
-  {
-     "Nation":"Italy"
-    ,"City":"Trento"
-    ,"Library":"Castello del Buonconsiglio"
-    ,"lat":46.071532
-    ,"lng":11.126576
-    ,"Quantity":"Few ( < 10 digitized manuscripts)"
-    ,"Website":"http://www.trentinocultura.net/portal/server.pt/community/musical_manuscripts_%27400/814/sfoglia_codice/22660?Codice=Tr87"
-  },
-  {
-     "Nation":"Austria"
-    ,"City":"Kremsmunster"
-    ,"Library":"Stiftsbibliothek Kremsmunster"
-    ,"lat":48.054408
-    ,"lng":14.128826
-    ,"Quantity":"Few ( < 10 digitized manuscripts)"
-    ,"Website":"http://schulen.eduhi.at/stift_kremsmuenster/vat/index.htm"
   },
   {
      "Nation":"Poland"
@@ -4437,15 +4383,6 @@
     ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=MEAUX&TOUT=true"
   },
   {
-     "Nation":"Italy"
-    ,"City":"Nonantola "
-    ,"Library":"Biblioteca Nonantolana"
-    ,"lat":44.678001
-    ,"lng":11.042556
-    ,"Quantity":"Unknown"
-    ,"Website":"http://www.bncrm.librari.beniculturali.it/index.php?it/175/biblioteca-nonantolana-virtuale"
-  },
-  {
      "Nation":"Germany"
     ,"City":"Regensburg"
     ,"Library":"Benediktinerkloster St. Emmeram"
@@ -4506,7 +4443,7 @@
     ,"lat":53.564724
     ,"lng":9.985209
     ,"Quantity":"Unknown"
-    ,"Website":"http://www.sub.uni-hamburg.de/recherche/elektronische-angebote/digitalisierte-bestaende.html"
+    ,"Website":"http://digitalisate.sub.uni-hamburg.de/recherche.html"
   },
   {
      "Nation":"Germany"
@@ -4714,15 +4651,6 @@
     ,"lng":5.543405
     ,"Quantity":"Unknown"
     ,"Website":"http://archives.meuse.fr/?id=recherche_simple_detail&doc=accounts%2Fmnesys_ad55%2Fdatas%2Fir%2FManuscrits%20anciens%2FFRAD055000002.xml"
-  },
-  {
-     "Nation":"Italy"
-    ,"City":"Roma"
-    ,"Library":"Sapienza Digital Library"
-    ,"lat":41.903763
-    ,"lng":12.514438
-    ,"Quantity":"Unknown"
-    ,"Website":"http://sapienzadigitallibrary.uniroma1.it/search/dl_cineca_solr/manoscritti?keys=manoscritti#?query=facet%3Dtrue%26facet.field%3Davailability_it%26facet.field%3DcollectionName%26facet.field%3DportalType_it%26facet.field%3DdescMetadata.name%26facet.field%3DdescMetadata.subject%26facet.field%3Ddate%26facet.field%3Dconcepts_it%26fq%3Davailability_it%253A*%26q%3Dmanoscritti%26rows%3D10%26facet.limit%3D50%26facet.mincount%3D1%26json.nl%3Dmap%26sort%3Dscore%2520desc%252CtitleSort%2520asc%26hl%3Dtrue%26hl.fl%3D*"
   },
   {
      "Nation":"Switzerland"
