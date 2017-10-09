@@ -56,7 +56,7 @@
   {
      "Nation":"Austria"
     ,"City":"Graz"
-    ,"Library":"Universitatsbibliothek Karl-Franzens"
+    ,"Library":"Universitätsbibliothek Karl-Franzens"
     ,"lat":47.078064
     ,"lng":15.450868
     ,"Quantity":"Unknown"
@@ -1234,17 +1234,17 @@
   },
   {
      "Nation":"Germany"
-    ,"City":"Wolfenbuttel"
+    ,"City":"Wolfenbüttel"
     ,"Library":"Herzog August Bibliothek"
     ,"lat":52.164047
     ,"lng":10.530299
     ,"Quantity":"More than half-thousand digitized manuscripts (between 500 and 1000)"
-    ,"Website":"http://dbs.hab.de/mss/"
+    ,"Website":"http://diglib.hab.de/?db=mss"
   },
   {
      "Nation":"Germany"
-    ,"City":"Munchen,"
-    ,"Library":"Munchener Digitalisierungszentrum (MDZ)"
+    ,"City":"München"
+    ,"Library":"Münchener Digitalisierungszentrum (MDZ)"
     ,"lat":48.147529
     ,"lng":11.580119
     ,"Quantity":"More than half-thousand digitized manuscripts (between 500 and 1000)"
@@ -1252,8 +1252,8 @@
   },
   {
      "Nation":"Germany"
-    ,"City":"Cologne"
-    ,"Library":"Erzbischoflichen Diozesan- und Dombibliothek Koln (DDB)"
+    ,"City":"Köln"
+    ,"Library":"Erzbischoflichen Diozesan- und Dombibliothek Köln (DDB)"
     ,"lat":50.944368
     ,"lng":6.95202
     ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
@@ -1262,7 +1262,7 @@
   {
      "Nation":"Germany"
     ,"City":"Berlin"
-    ,"Library":"Staatsbibliothek zu Berlin"
+    ,"Library":"Staatsbibliothek zu Berlin - Preussischer Kulturbesitz"
     ,"lat":52.507474
     ,"lng":13.370871
     ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
@@ -1280,7 +1280,7 @@
   {
      "Nation":"Germany"
     ,"City":"Heidelberg"
-    ,"Library":"Universitatsbibliothek Heidelberg"
+    ,"Library":"Universitätsbibliothek Heidelberg"
     ,"lat":49.408916
     ,"lng":8.705869
     ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
@@ -1288,8 +1288,8 @@
   },
   {
      "Nation":"Germany"
-    ,"City":"Dusseldorf"
-    ,"Library":"Universitats- und Landesbibliothek Dusseldorf"
+    ,"City":"Düsseldorf"
+    ,"Library":"Universitäts- und Landesbibliothek Düsseldorf"
     ,"lat":51.186793
     ,"lng":6.802896
     ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
@@ -1298,7 +1298,7 @@
   {
      "Nation":"Germany"
     ,"City":"Ausburg"
-    ,"Library":"Universitatsbibliothek Augsburg"
+    ,"Library":"Universitätsbibliothek Augsburg"
     ,"lat":48.334369
     ,"lng":10.895214
     ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
@@ -1316,7 +1316,7 @@
   {
      "Nation":"Germany"
     ,"City":"Darmstadt"
-    ,"Library":"Universitats- und Landesbibliothek Darmstadt"
+    ,"Library":"Universitäts- und Landesbibliothek Darmstadt"
     ,"lat":49.876431
     ,"lng":8.658064
     ,"Quantity":"Unknown"
@@ -1325,7 +1325,7 @@
   {
      "Nation":"Germany"
     ,"City":"Dresden"
-    ,"Library":"Sachsische Landesbibliothek –\nStaats- und Universitatsbibliothek Dresden (SLUB)"
+    ,"Library":"Sachsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden (SLUB)"
     ,"lat":51.028563
     ,"lng":13.736838
     ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
@@ -1334,7 +1334,7 @@
   {
      "Nation":"Germany"
     ,"City":"Erlangen"
-    ,"Library":"Universitatsbibliothek Erlangen-Nurnberg"
+    ,"Library":"Universitätsbibliothek Erlangen-Nürnberg"
     ,"lat":49.596806
     ,"lng":11.007345
     ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
@@ -1342,8 +1342,8 @@
   },
   {
      "Nation":"Germany"
-    ,"City":"Wurzburg"
-    ,"Library":"Universitatsbibliothek Wurzburg"
+    ,"City":"Würzburg"
+    ,"Library":"Universitätsbibliothek Würzburg"
     ,"lat":49.782455
     ,"lng":9.968649
     ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
@@ -1351,8 +1351,8 @@
   },
   {
      "Nation":"Germany"
-    ,"City":"Giessen"
-    ,"Library":"Universitatsbibliothek Giesen"
+    ,"City":"Gießen"
+    ,"Library":"Universitätsbibliothek Gießen"
     ,"lat":50.57617
     ,"lng":8.69526
     ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
@@ -1370,7 +1370,7 @@
   {
      "Nation":"Germany"
     ,"City":"Jena"
-    ,"Library":"Thuringer Universitats- und Landesbibliothek Jena"
+    ,"Library":"Thüringer Universitäts- und Landesbibliothek Jena"
     ,"lat":50.930698
     ,"lng":11.588001
     ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
@@ -1388,7 +1388,7 @@
   {
      "Nation":"Germany"
     ,"City":"Kassel"
-    ,"Library":"Universitatsbibliothek Kassel"
+    ,"Library":"Universitätsbibliothek Kassel"
     ,"lat":51.321851
     ,"lng":9.505549
     ,"Quantity":"Unknown"
@@ -1396,8 +1396,8 @@
   },
   {
      "Nation":"Germany"
-    ,"City":"Cologne"
-    ,"Library":"Historisches Archiv der Stadt Koln"
+    ,"City":"Köln"
+    ,"Library":"Historisches Archiv der Stadt Köln"
     ,"lat":50.93467
     ,"lng":6.96211
     ,"Quantity":"Unknown"
@@ -1415,7 +1415,7 @@
   {
      "Nation":"Germany"
     ,"City":"Frankfurt am Main"
-    ,"Library":"Goethe-Universitat Frankfurt am Main Universitatsbibliothek"
+    ,"Library":"Goethe-Universitat Frankfurt am Main Universitätsbibliothek"
     ,"lat":50.12052
     ,"lng":8.653091
     ,"Quantity":"More than half-thousand digitized manuscripts (between 500 and 1000)"
@@ -1424,7 +1424,7 @@
   {
      "Nation":"Germany"
     ,"City":"Stuttgart"
-    ,"Library":"Wurttembergische Landesbibliothek"
+    ,"Library":"Württembergische Landesbibliothek"
     ,"lat":48.776926
     ,"lng":9.18504
     ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
@@ -1441,8 +1441,8 @@
   },
   {
      "Nation":"Germany"
-    ,"City":"Tubingen"
-    ,"Library":"Universitatsbibliothek Tubingen"
+    ,"City":"Tübingen"
+    ,"Library":"Universitätsbibliothek Tübingen"
     ,"lat":48.5251
     ,"lng":9.06176
     ,"Quantity":"Unknown"
@@ -1469,7 +1469,7 @@
   {
      "Nation":"Germany"
     ,"City":"Bonn"
-    ,"Library":"Universitats- und Landesbibliothek Bonn"
+    ,"Library":"Universitäts- und Landesbibliothek Bonn"
     ,"lat":50.731342
     ,"lng":7.108468
     ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
@@ -1495,8 +1495,8 @@
   },
   {
      "Nation":"Germany"
-    ,"City":"Dusseldorf"
-    ,"Library":"Heinrich-Heine-Universitat Dusseldorf"
+    ,"City":"Düsseldorf"
+    ,"Library":"Heinrich-Heine-Universität Düsseldorf"
     ,"lat":51.192465
     ,"lng":6.793181
     ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
@@ -1514,7 +1514,7 @@
   {
      "Nation":"Germany"
     ,"City":"Greifswald"
-    ,"Library":"Universitatsbibliothek Greifswald"
+    ,"Library":"Universitätsbibliothek Greifswald"
     ,"lat":54.090826
     ,"lng":13.406299
     ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
@@ -1523,7 +1523,7 @@
   {
      "Nation":"Germany"
     ,"City":"Leipzig"
-    ,"Library":"Universitatsbibliothek Leipzig"
+    ,"Library":"Universitätsbibliothek Leipzig"
     ,"lat":51.332293
     ,"lng":12.368593
     ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
@@ -1549,7 +1549,7 @@
   },
   {
      "Nation":"Germany"
-    ,"City":"Munich"
+    ,"City":"München"
     ,"Library":"Bayerische Staatsbibliothek"
     ,"lat":48.147493
     ,"lng":11.580119
@@ -1810,7 +1810,7 @@
   },
   {
      "Nation":"Netherlands"
-    ,"City":"The Hague"
+    ,"City":"Den Haag"
     ,"Library":"De Nationale Bibliotheek van Nederland (Including  Museum Meermanno | Huis van het Boek)"
     ,"lat":52.081739
     ,"lng":4.327369
@@ -2135,7 +2135,7 @@
   {
      "Nation":"Switzerland"
     ,"City":"Fribourg"
-    ,"Library":"Bibliotheque cantonale et universitaire / Kantons- und Universitatsbibliothek"
+    ,"Library":"Bibliotheque cantonale et universitaire / Kantons- und Universitätsbibliothek"
     ,"lat":46.820073
     ,"lng":7.004371
     ,"Quantity":"Few ( < 10 digitized manuscripts)"
@@ -2180,7 +2180,7 @@
   {
      "Nation":"Switzerland"
     ,"City":"Basel"
-    ,"Library":"Universitatsbibliothek"
+    ,"Library":"Universitätsbibliothek"
     ,"lat":47.55901
     ,"lng":7.580962
     ,"Quantity":"Few ( < 10 digitized manuscripts)"
@@ -2908,7 +2908,7 @@
   },
   {
      "Nation":"Germany"
-    ,"City":"Munich"
+    ,"City":"München"
     ,"Library":"LMU University Library"
     ,"lat":48.158186
     ,"lng":11.564218
@@ -2990,7 +2990,7 @@
   {
      "Nation":"Germany"
     ,"City":"Rostock"
-    ,"Library":"Universitatsbibliothek Rostock"
+    ,"Library":"Universitätsbibliothek Rostock"
     ,"lat":54.075574
     ,"lng":12.103569
     ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
@@ -3439,7 +3439,7 @@
   },
   {
      "Nation":"Germany"
-    ,"City":"Munchen"
+    ,"City":"München"
     ,"Library":"Pracht auf Pergament"
     ,"lat":48.135125
     ,"lng":11.581981
@@ -3999,7 +3999,7 @@
      "Nation":"France"
     ,"City":"Aix-en-Provence"
     ,"Library":"Bibliotheque Municipale"
-    ,"lat": 43.524724
+    ,"lat":43.524724
     ,"lng":5.439092
     ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
     ,"Website":"http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=aix-en-provence&newSearch=1"
@@ -4016,7 +4016,7 @@
   {
      "Nation":"Germany"
     ,"City":"Mainz"
-    ,"Library":"Johannes Gutenberg Universitat"
+    ,"Library":"Johannes Gutenberg Universität"
     ,"lat":49.992640
     ,"lng":8.241555
     ,"Quantity":"Few ( < 10 digitized manuscripts)"
@@ -4043,16 +4043,16 @@
   {
      "Nation":"Germany"
     ,"City":"Erfurt"
-    ,"Library":"Universitats- und Forschungsbibliothek Erfurt/Gotha"
+    ,"Library":"Universitäts- und Forschungsbibliothek Erfurt/Gotha"
     ,"lat":50.989321
     ,"lng":11.008887
     ,"Quantity":"Unknown"
-    ,"Website":"http://archive.thulb.uni-jena.de/ufb/content/below/index.xml\n"
+    ,"Website":"https://archive.thulb.uni-jena.de/ufb/templates/master/template_ufb2/index.xml"
   },
   {
      "Nation":"Germany"
     ,"City":"Halle"
-    ,"Library":"Universitats- und Landesbibliothek (ULB)"
+    ,"Library":"Universitäts- und Landesbibliothek (ULB)"
     ,"lat":51.486132
     ,"lng":11.969532
     ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
@@ -4070,7 +4070,7 @@
   {
      "Nation":"Germany"
     ,"City":"Mainz"
-    ,"Library":"Stadtbibliothek "
+    ,"Library":"Stadtbibliothek"
     ,"lat":50.003263
     ,"lng":8.259267
     ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
@@ -4079,7 +4079,7 @@
   {
      "Nation":"Germany"
     ,"City":"Neuburg a.d.Donau"
-    ,"Library":"Benediktinerinnenkloster "
+    ,"Library":"Benediktinerinnenkloster"
     ,"lat":54.418120
     ,"lng":13.432520
     ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
@@ -4160,7 +4160,7 @@
   {
      "Nation":"Germany"
     ,"City":"Kiel"
-    ,"Library":"Universitatsbibliothek"
+    ,"Library":"Universitätsbibliothek"
     ,"lat":54.346577
     ,"lng":10.111188
     ,"Quantity":"Unknown"
@@ -4195,8 +4195,8 @@
   },
   {
      "Nation":"Germany"
-    ,"City":"Nurnberg"
-    ,"Library":"Germanischen Nationalmuseum "
+    ,"City":"Nürnberg"
+    ,"Library":"Germanischen Nationalmuseum"
     ,"lat":49.448249
     ,"lng":11.075511
     ,"Quantity":"Unknown"
@@ -4303,11 +4303,11 @@
   },
   {
      "Nation":"Germany"
-    ,"City":"Nurnberg "
-    ,"Library":"Erlangen-Nurnberg"
+    ,"City":"Nürnberg"
+    ,"Library":"Erlangen-Nürnberg"
     ,"lat":49.597880
     ,"lng":11.004551
-    ,"Quantity":"Unknown"
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
     ,"Website":"http://bvbm1.bib-bvb.de/R/FFYMAJXC2SDUE3HRJ3LY55A7GMP519B1I12GYJK11QJC2MHX4I-00809?func=collections-result&collection_id=1995&local_base=UBE"
   },
   {
@@ -4439,11 +4439,11 @@
   {
      "Nation":"Germany"
     ,"City":"Hamburg"
-    ,"Library":"Staats- und Universitatsbibliothek"
+    ,"Library":"Staats- und Universitätsbibliothek"
     ,"lat":53.564724
     ,"lng":9.985209
-    ,"Quantity":"Unknown"
-    ,"Website":"http://digitalisate.sub.uni-hamburg.de/recherche.html"
+    ,"Quantity":"Many (Between 50 and 100 digitized manuscripts)"
+    ,"Website":"http://digitalisate.sub.uni-hamburg.de/de/startseite.html"
   },
   {
      "Nation":"Germany"
@@ -4457,7 +4457,7 @@
   {
      "Nation":"Germany"
     ,"City":"Mannheim"
-    ,"Library":"Universitatsbibliothek "
+    ,"Library":"Universitätsbibliothek "
     ,"lat":49.487459
     ,"lng":8.466040
     ,"Quantity":"Unknown"
@@ -4484,7 +4484,7 @@
   {
      "Nation":"Austria"
     ,"City":"Salzburg"
-    ,"Library":"Universitatsbibliothek"
+    ,"Library":"Universitätsbibliothek"
     ,"lat":47.798829
     ,"lng":13.041252
     ,"Quantity":"Unknown"
@@ -4601,7 +4601,7 @@
   {
      "Nation":"Austria"
     ,"City":"Klagenfurt"
-    ,"Library":"Universitatsbibliothek"
+    ,"Library":"Universitätsbibliothek"
     ,"lat":46.615995
     ,"lng":14.264790
     ,"Quantity":"Unknown"
@@ -4618,12 +4618,165 @@
   },
   {
      "Nation":"Germany"
-    ,"City":"Luneburg"
-    ,"Library":"Ratsbucherei "
-    ,"lat":53.246421
-    ,"lng":10.411518
-    ,"Quantity":"Unknown"
-    ,"Website":"http://diglib.hab.de/?db=mss&list=project&id=Digitalisierung%20der%20mittelalterlichen%20Handschriften%20der%20Ratsb%FCcherei%20L%FCneburg"
+    ,"City":"Bad Gandersheim"
+    ,"Library":"Stiftbibliothek "
+    ,"lat":51.871670
+    ,"lng":10.025370
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://diglib.hab.de/?db=mss&list=collection&id=ed&settlement=Bad%20Gandersheim"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Dessau"
+    ,"Library":"Landesarchiv Sachsen-Anhalt "
+    ,"lat":51.822724
+    ,"lng":12.2404543
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://diglib.hab.de/?db=mss&list=collection&id=ed&settlement=Dessau"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Dresden"
+    ,"Library":"Sächsisches Hauptstaatsarchiv"
+    ,"lat":51.059791
+    ,"lng":13.746864
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://diglib.hab.de/?db=mss&list=collection&id=ed&settlement=Dresden"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Göttingen"
+    ,"Library":"Seminar für Mittlere und Neuere Geschichte der Georg-August-Universität, Diplomatischer Apparat"
+    ,"lat":51.5427595
+    ,"lng":9.9390712
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://diglib.hab.de/?db=mss&list=collection&id=ed&settlement=G%C3%B6ttingen"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Halberstadt"
+    ,"Library":"Historisches Archiv der Stadt"
+    ,"lat":51.8964728
+    ,"lng":11.0476959
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://diglib.hab.de/?db=mss&list=collection&id=ed&settlement=Halberstadt&repository=Historisches+Stadtarchiv"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Halberstadt"
+    ,"Library":"Stiftung Dome und Schlösser in Sachsen Anhalt"
+    ,"lat":51.8959138
+    ,"lng":11.0471889
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://diglib.hab.de/?db=mss&list=collection&id=ed&settlement=Halberstadt&repository=Domschatz"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Haldensleben"
+    ,"Library":"Schloss Hundisburg [=ehem. Depositum Sammlung Alvensleben]"
+    ,"lat":52.2488653
+    ,"lng":11.3985026
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://diglib.hab.de/?db=mss&list=collection&id=ed&settlement=Haldensleben"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Hamburg"
+    ,"Library":"Staatsarchiv"
+    ,"lat":53.5754241
+    ,"lng":10.0686062
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://diglib.hab.de/?db=mss&list=collection&id=ed&settlement=Hamburg"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Hameln"
+    ,"Library":"Museum der Stadt"
+    ,"lat":52.1046477
+    ,"lng":9.3584105
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://diglib.hab.de/?db=mss&list=collection&id=ed&settlement=Hameln"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Hannover"
+    ,"Library":"Hauptstaatsarchiv"
+    ,"lat":52.3696446
+    ,"lng":9.73042964559288
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://diglib.hab.de/?db=mss&list=collection&id=ed&settlement=Hannover"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Helmstedt"
+    ,"Library":"Stadtarchiv"
+    ,"lat":52.22397665
+    ,"lng":11.0130656231203
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://diglib.hab.de/?db=mss&list=collection&id=ed&settlement=Helmstedt&repository=Stadtarchiv"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Helmstedt"
+    ,"Library":"Juleum (ehemalige Universitätsbibliothek)"
+    ,"lat":52.22937
+    ,"lng":11.0052563
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://diglib.hab.de/?db=mss&list=collection&id=ed&settlement=Helmstedt&repository=Ehemalige%20Universit%C3%A4tsbibliothek"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Hildesheim"
+    ,"Library":"Stadtarchiv"
+    ,"lat":52.1495987
+    ,"lng":9.9429872
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://diglib.hab.de/?db=mss&list=collection&id=ed&settlement=Hildesheim&repository=Stadtarchiv"
+  },
+  {
+     "Nation":"Austria"
+    ,"City":"Kirchdorf"
+    ,"Library":"Gemeindearchiv"
+    ,"lat":47.5918675
+    ,"lng":12.1122624
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://diglib.hab.de/?db=mss&list=collection&id=ed&settlement=Kirchdorf"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Köthen"
+    ,"Library":"Historisches Museum"
+    ,"lat":51.7538151
+    ,"lng":11.9746275
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://diglib.hab.de/?db=mss&list=collection&id=ed&settlement=K%C3%B6then"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Lüneburg"
+    ,"Library":"Ratsbücherei "
+    ,"lat":53.2507364
+    ,"lng":10.4034988
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"http://diglib.hab.de/?db=mss&list=collection&id=ed&settlement=L%C3%BCneburg"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Quedlinburg"
+    ,"Library":"Stiftskirche"
+    ,"lat":51.78611
+    ,"lng":11.1362944
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://diglib.hab.de/?db=mss&list=collection&id=ed&settlement=Quedlinburg"
+  },
+  {
+     "Nation":"Germany"
+    ,"City":"Wolfenbüttel"
+    ,"Library":"Niedersächsisches Staatsarchiv"
+    ,"lat":52.1818
+    ,"lng":10.5299613
+    ,"Quantity":"Few ( < 10 digitized manuscripts)"
+    ,"Website":"http://diglib.hab.de/?db=mss&list=collection&id=ed&settlement=Wolfenb%C3%BCttel&repository=Staatsarchiv%20Wolfenb%C3%BCttel"
   },
   {
      "Nation":"France"
@@ -4663,7 +4816,7 @@
   },
   {
      "Nation":"Germany"
-    ,"City":"Lubeck"
+    ,"City":"Lübeck"
     ,"Library":"Stadtbibliothek"
     ,"lat":53.868469
     ,"lng":10.690120
