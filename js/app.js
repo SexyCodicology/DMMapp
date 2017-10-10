@@ -106,8 +106,8 @@ function initMap() {
                 tabledata = JSON.parse("[" + localStorage.placeData.slice(0, -1) + "]") || [];
             }
             tabledata.map(placeMapper);
-            //Datatable options go here! 
-            $('#datatablex').DataTable({
+            //Datatable options go here!
+            var $tablex = $('#datatablex').DataTable({
                 "responsive": true,
                 "processing": true,
                 "columnDefs": [
@@ -137,6 +137,14 @@ function initMap() {
         ]
 
             });
+
+            // Replace diacritics in search as well to allow search input that has diacritics
+            $('#datatablex_filter input[type=search]').keyup( function () {
+              $tablex.search(
+                  jQuery.fn.DataTable.ext.type.search.string( this.value )
+                )
+                .draw()
+            } );
         });
         //Smootly scroll to the datatable when a row is clicked
         $('a[data-toggle="pill"], a[class="btn btn-primary btn-lg btn-block"] ').on('click', function () {
@@ -147,7 +155,7 @@ function initMap() {
     })
 };
 
-$('#datatableAdded').DataTable({
+var $tableAdded = $('#datatableAdded').DataTable({
     "ajax": "js/dataAdded.json",
     "responsive": true,
     "processing": true,
@@ -164,5 +172,12 @@ $('#datatableAdded').DataTable({
         "render": function(data, type, full, meta) {
             return '<a href="' + data + '" target="_blank">Link</a>';
         }
-    }]
+  }]
 });
+
+$('#datatableAdded_filter input[type=search]').on("keyup", function () {
+  $tableAdded.search(
+      jQuery.fn.DataTable.ext.type.search.string( this.value )
+    )
+    .draw()
+} );
