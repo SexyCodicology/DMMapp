@@ -147,24 +147,22 @@ function initMap() {
     })
 };
 
-$('#datatableAdded').dataTable({
-    "sAjaxSource": "js/dataAdded.json",
-    "sAjaxDataProp": "data",
+$('#datatableAdded').DataTable({
+    "ajax": "js/dataAdded.json",
     "responsive": true,
     "processing": true,
-    "columns": [
-        {
-            "data": "Institution"
-        },
-        {
-            "data": "Website"
-        },
-        ],
+    "columns": [{
+        "data": "Type"
+    }, {
+        "data": "Title"
+    }, {
+        "data": "Website"
+    }],
     "columnDefs": [{
-        "targets": 1,
+        "targets": 2,
         "data": "Website",
-        "render": function (data, type, full, meta) {
+        "render": function(data, type, full, meta) {
             return '<a href="' + data + '" target="_blank">Link</a>';
         }
-  }]
-})
+    }]
+});
