@@ -1392,7 +1392,7 @@
     ,"lat":51.321851
     ,"lng":9.505549
     ,"Quantity":"Unknown"
-    ,"Website":"http://orka.bibliothek.uni-kassel.de/viewer/search/handschriften*/-/1/SORT_YEARPUBLISH/-/"
+    ,"Website":"https://orka.bibliothek.uni-kassel.de/viewer/search/DC%3Ahandschriften%3B%3B/-/1/-/DOCSTRCT%3Amanuscript/"
   },
   {
      "Nation":"Germany"
