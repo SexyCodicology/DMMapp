@@ -4841,5 +4841,14 @@
     ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
     ,"Website":"http://ncf.sobek.ufl.edu/manu/all"
   },
+         {
+     "Nation":"findland"
+    ,"City":"Helsinki"
+    ,"Library":"Finnish Literature Society"
+    ,"lat":60.170153
+    ,"lng":24.956232
+    ,"Quantity":"Hundreds (between 100 and 500 digitized manuscripts)"
+    ,"Website":"https://www.codicesfennici.fi/?language=en"
+  },
     
 ]
