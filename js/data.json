@@ -78,7 +78,7 @@
         "lat": 50.640306,
         "lng": 5.575766,
         "Quantity": "Some (between 10 and 50 digitized manuscripts)",
-        "Website": "http://lib.ulg.ac.be/fr/content/du-pep-s-l-ulg-49-manuscrits-medievaux-et-renaissants-numerises"
+        "Website": "https://donum.uliege.be/simple-search?filterquery=manuscripts+%28document+genre%29&filtername=type&filtertype=authority"
   },
     {
         "Nation": "Belgium",
@@ -4192,15 +4192,6 @@
         "lng": 0.205700,
         "Quantity": "Unknown",
         "Website": "http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?NOM_VILLE=MANS+%28LE%29&TOUT=true"
-  },
-    {
-        "Nation": "Belgium",
-        "City": "Liege",
-        "Library": "Bibliotheques de l'Universite de Liege",
-        "lat": 50.640390,
-        "lng": 5.575884,
-        "Quantity": "Unknown",
-        "Website": "http://lib.ulg.ac.be/fr/content/du-pep-s-l-ulg-49-manuscrits-medievaux-et-renaissants-numerises"
   },
     {
         "Nation": "Spain",
