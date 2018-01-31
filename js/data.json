@@ -216,6 +216,15 @@
         "Website": "http://webapps.fitzmuseum.cam.ac.uk/explorer/index.php?qu=manuscript"
   },
     {
+        "Nation": "England",
+        "City": "Cambridge",
+        "Library": "Cambridge Digital Library",
+        "lat": 52.205068,
+        "lng": 0.107760,
+        "Quantity": "Thousands (more than 1000 digitized manuscripts)",
+        "Website": "https://cudl.lib.cam.ac.uk"
+  },
+    {
         "Nation": "Finland",
         "City": "Helsinki",
         "Library": "National Library of Finland",
@@ -4868,7 +4877,7 @@
         "Quantity": "Hundreds (between 100 and 500 digitized manuscripts)",
         "Website": "http://www.archiviodistato.firenze.it/archividigitali/"
   },
-        {
+    {
         "Nation": "Italy",
         "City": "Firenze",
         "Library": "Archivio di Stato di Firenze - Diplomatico",
@@ -4877,7 +4886,7 @@
         "Quantity": "Thousands (more than 1000 digitized manuscripts)",
         "Website": "http://www.archiviodistato.firenze.it/pergasfi/"
   },
-            {
+    {
         "Nation": "Canada",
         "City": "St. John's",
         "Library": "Queen Elizabeth II Library, Memorial University",
@@ -4885,6 +4894,5 @@
         "lng": -52.735035,
         "Quantity": "Few ( < 10 digitized manuscripts)",
         "Website": "http://collections.mun.ca/cdm/landingpage/collection/rarebooks"
-  },
-
+  }
 ]
