@@ -4860,13 +4860,22 @@
         "Website": "https://www.codicesfennici.fi/?language=en"
   },
     {
-        "Nation": "findland",
-        "City": "Helsinki",
-        "Library": "Finnish Literature Society",
-        "lat": 60.170153,
-        "lng": 24.956232,
+        "Nation": "Italy",
+        "City": "Firenze",
+        "Library": "Archivio di Stato di Firenze - Archivi Digitali",
+        "lat": 43.769123,
+        "lng": 11.270713,
         "Quantity": "Hundreds (between 100 and 500 digitized manuscripts)",
-        "Website": "https://www.codicesfennici.fi/?language=en"
+        "Website": "http://www.archiviodistato.firenze.it/archividigitali/"
+  },
+        {
+        "Nation": "Italy",
+        "City": "Firenze",
+        "Library": "Archivio di Stato di Firenze - Diplomatico",
+        "lat": 43.769559,
+        "lng": 11.272130,
+        "Quantity": "Thousands (more than 1000 digitized manuscripts)",
+        "Website": "http://www.archiviodistato.firenze.it/pergasfi/"
   },
 
 ]
