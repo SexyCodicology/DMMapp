@@ -4831,5 +4831,15 @@
     ,"lng":-75.378283
     ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
     ,"Website":"http://digital.lib.lehigh.edu/manuscripts/browse.php"
-  }
+  },
+     {
+     "Nation":"United States"
+    ,"City":"Sarasota"
+    ,"Library":"New College of Florida"
+    ,"lat":27.384828
+    ,"lng":-82.558703
+    ,"Quantity":"Some (between 10 and 50 digitized manuscripts)"
+    ,"Website":"http://ncf.sobek.ufl.edu/manu/all"
+  },
+    
 ]
