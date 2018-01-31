@@ -4877,5 +4877,14 @@
         "Quantity": "Thousands (more than 1000 digitized manuscripts)",
         "Website": "http://www.archiviodistato.firenze.it/pergasfi/"
   },
+            {
+        "Nation": "Canada",
+        "City": "St. John's",
+        "Library": "Queen Elizabeth II Library, Memorial University",
+        "lat": 47.571727,
+        "lng": -52.735035,
+        "Quantity": "Few ( < 10 digitized manuscripts)",
+        "Website": "http://collections.mun.ca/cdm/landingpage/collection/rarebooks"
+  },
 
 ]
