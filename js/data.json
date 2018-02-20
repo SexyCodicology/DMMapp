@@ -1252,7 +1252,7 @@
   },
     {
         "Nation": "Germany",
-        "City": "Wolfenbüttel",
+        "City": "Wolfenbuttel",
         "Library": "Herzog August Bibliothek",
         "lat": 52.164047,
         "lng": 10.530299,
@@ -1261,7 +1261,7 @@
   },
     {
         "Nation": "Germany",
-        "City": "München",
+        "City": "Munich",
         "Library": "Münchener Digitalisierungszentrum (MDZ)",
         "lat": 48.147529,
         "lng": 11.580119,
@@ -1270,7 +1270,7 @@
   },
     {
         "Nation": "Germany",
-        "City": "Köln",
+        "City": "Cologne",
         "Library": "Erzbischoflichen Diozesan- und Dombibliothek Köln (DDB)",
         "lat": 50.944368,
         "lng": 6.95202,
@@ -1306,7 +1306,7 @@
   },
     {
         "Nation": "Germany",
-        "City": "Düsseldorf",
+        "City": "Dusseldorf",
         "Library": "Universitäts- und Landesbibliothek Düsseldorf",
         "lat": 51.186793,
         "lng": 6.802896,
@@ -1315,7 +1315,7 @@
   },
     {
         "Nation": "Germany",
-        "City": "Ausburg",
+        "City": "Augsburg",
         "Library": "Universitätsbibliothek Augsburg",
         "lat": 48.334369,
         "lng": 10.895214,
@@ -1360,7 +1360,7 @@
   },
     {
         "Nation": "Germany",
-        "City": "Würzburg",
+        "City": "Wurzburg",
         "Library": "Universitätsbibliothek Würzburg",
         "lat": 49.782455,
         "lng": 9.968649,
@@ -1369,7 +1369,7 @@
   },
     {
         "Nation": "Germany",
-        "City": "Gießen",
+        "City": "Giessen",
         "Library": "Universitätsbibliothek Gießen",
         "lat": 50.57617,
         "lng": 8.69526,
@@ -1414,7 +1414,7 @@
   },
     {
         "Nation": "Germany",
-        "City": "Köln",
+        "City": "Cologne",
         "Library": "Historisches Archiv der Stadt Köln",
         "lat": 50.93467,
         "lng": 6.96211,
@@ -1459,8 +1459,8 @@
   },
     {
         "Nation": "Germany",
-        "City": "Tübingen",
-        "Library": "Universitätsbibliothek Tübingen",
+        "City": "Tubingen",
+        "Library": "Universitätsbibliothek Tubingen",
         "lat": 48.5251,
         "lng": 9.06176,
         "Quantity": "Unknown",
@@ -1513,7 +1513,7 @@
   },
     {
         "Nation": "Germany",
-        "City": "Düsseldorf",
+        "City": "Dusseldorf",
         "Library": "Heinrich-Heine-Universität Düsseldorf",
         "lat": 51.192465,
         "lng": 6.793181,
@@ -1567,7 +1567,7 @@
   },
     {
         "Nation": "Germany",
-        "City": "München",
+        "City": "Munich",
         "Library": "Bayerische Staatsbibliothek",
         "lat": 48.147493,
         "lng": 11.580119,
@@ -1747,7 +1747,7 @@
   },
     {
         "Nation": "Italy",
-        "City": "Firenze",
+        "City": "Florence",
         "Library": "Biblioteca Medicea Laurenziana",
         "lat": 43.774181,
         "lng": 11.254802,
@@ -1828,8 +1828,8 @@
   },
     {
         "Nation": "Netherlands",
-        "City": "Den Haag",
-        "Library": "De Nationale Bibliotheek van Nederland (Including  Museum Meermanno | Huis van het Boek)",
+        "City": "The Hague",
+        "Library": "Koninklijke Bibliotheek - Nationale bibliotheek van Nederland (Including  Museum Meermanno | Huis van het Boek)",
         "lat": 52.081739,
         "lng": 4.327369,
         "Quantity": "Hundreds (between 100 and 500 digitized manuscripts)",
@@ -1838,7 +1838,7 @@
     {
         "Nation": "Netherlands",
         "City": "Leiden",
-        "Library": "Leiden University Library",
+        "Library": "Universitaire Bibliotheken Leiden",
         "lat": 52.157513,
         "lng": 4.481256,
         "Quantity": "Unknown",
@@ -1918,7 +1918,7 @@
   },
     {
         "Nation": "Portugal",
-        "City": "Lisboa",
+        "City": "Lisbon",
         "Library": "Biblioteca Nacional de Portugal",
         "lat": 38.751018,
         "lng": -9.15174,
@@ -2080,7 +2080,7 @@
   },
     {
         "Nation": "Switzerland",
-        "City": "Geneve",
+        "City": "Geneva",
         "Library": "Bibliotheque de Geneve",
         "lat": 46.198816,
         "lng": 6.14508,
@@ -2926,7 +2926,7 @@
   },
     {
         "Nation": "Germany",
-        "City": "München",
+        "City": "Munich",
         "Library": "LMU University Library",
         "lat": 48.158186,
         "lng": 11.564218,
@@ -2944,7 +2944,7 @@
   },
     {
         "Nation": "Italy",
-        "City": "Venezia",
+        "City": "Venice",
         "Library": "Biblioteca del Museo Correr",
         "lat": 45.433576,
         "lng": 12.337191,
@@ -3457,7 +3457,7 @@
   },
     {
         "Nation": "Germany",
-        "City": "München",
+        "City": "Munich",
         "Library": "Pracht auf Pergament",
         "lat": 48.135125,
         "lng": 11.581981,
@@ -3762,8 +3762,8 @@
         "Website": "http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?rechercheRapide=angers%2C+Mus%C3%A9e+des+Beaux-Arts&newSearch=1"
   },
     {
-        "Nation": "Sevilla",
-        "City": "Spain",
+        "Nation": "Spain",
+        "City": "Sevilla",
         "Library": "Universidad de Sevilla",
         "lat": 37.380758,
         "lng": -5.991231,
@@ -3907,7 +3907,7 @@
   },
     {
         "Nation": "Netherlands",
-        "City": "'s-Heerenberg ",
+        "City": "s-Heerenberg ",
         "Library": "Huis Bergh",
         "lat": 51.874714,
         "lng": 6.240756,
@@ -4168,7 +4168,7 @@
   },
     {
         "Nation": "Italy",
-        "City": "Firenze",
+        "City": "Florence",
         "Library": "Archivio Storico dell'Opera di Santa Maria del Fiore",
         "lat": 43.773200,
         "lng": 11.258020,
@@ -4186,7 +4186,7 @@
   },
     {
         "Nation": "France",
-        "City": "Le Mans",
+        "City": "Mans (Le)",
         "Library": "Bibliotheque Municipale",
         "lat": 47.999356,
         "lng": 0.205700,
@@ -4204,7 +4204,7 @@
   },
     {
         "Nation": "Germany",
-        "City": "Nürnberg",
+        "City": "Nuremberg",
         "Library": "Germanischen Nationalmuseum",
         "lat": 49.448249,
         "lng": 11.075511,
@@ -4285,7 +4285,7 @@
   },
     {
         "Nation": "Italy",
-        "City": "Firenze",
+        "City": "Florence",
         "Library": "Biblioteca Nazionale Centrale di Firenze",
         "lat": 43.767081,
         "lng": 11.262348,
@@ -4312,7 +4312,7 @@
   },
     {
         "Nation": "Germany",
-        "City": "Nürnberg",
+        "City": "Nuremberg",
         "Library": "Erlangen-Nürnberg",
         "lat": 49.597880,
         "lng": 11.004551,
@@ -4537,7 +4537,7 @@
   },
     {
         "Nation": "Italy",
-        "City": "Firenze",
+        "City": "FLorence",
         "Library": "Biblioteca Medicea Laurenziana",
         "lat": 43.774326,
         "lng": 11.254041,
@@ -4654,7 +4654,7 @@
   },
     {
         "Nation": "Germany",
-        "City": "Göttingen",
+        "City": "Gottingen",
         "Library": "Seminar für Mittlere und Neuere Geschichte der Georg-August-Universität, Diplomatischer Apparat",
         "lat": 51.5427595,
         "lng": 9.9390712,
@@ -4708,7 +4708,7 @@
   },
     {
         "Nation": "Germany",
-        "City": "Hannover",
+        "City": "Hanover",
         "Library": "Hauptstaatsarchiv",
         "lat": 52.3696446,
         "lng": 9.73042964559288,
@@ -4753,7 +4753,7 @@
   },
     {
         "Nation": "Germany",
-        "City": "Köthen",
+        "City": "Kothen",
         "Library": "Historisches Museum",
         "lat": 51.7538151,
         "lng": 11.9746275,
@@ -4762,7 +4762,7 @@
   },
     {
         "Nation": "Germany",
-        "City": "Lüneburg",
+        "City": "Luneburg",
         "Library": "Ratsbücherei ",
         "lat": 53.2507364,
         "lng": 10.4034988,
@@ -4780,7 +4780,7 @@
   },
     {
         "Nation": "Germany",
-        "City": "Wolfenbüttel",
+        "City": "Wolfenbuttel",
         "Library": "Niedersächsisches Staatsarchiv",
         "lat": 52.1818,
         "lng": 10.5299613,
@@ -4825,7 +4825,7 @@
   },
     {
         "Nation": "Germany",
-        "City": "Lübeck",
+        "City": "Lubeck",
         "Library": "Stadtbibliothek",
         "lat": 53.868469,
         "lng": 10.690120,
@@ -4861,7 +4861,7 @@
   },
     {
         "Nation": "Italy",
-        "City": "Firenze",
+        "City": "Florence",
         "Library": "Archivio di Stato di Firenze - Archivi Digitali",
         "lat": 43.769123,
         "lng": 11.270713,
@@ -4870,7 +4870,7 @@
   },
     {
         "Nation": "Italy",
-        "City": "Firenze",
+        "City": "Florence",
         "Library": "Archivio di Stato di Firenze - Diplomatico",
         "lat": 43.769559,
         "lng": 11.272130,
