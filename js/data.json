@@ -4227,7 +4227,7 @@
         "lat": 46.233122,
         "lng": 7.360626,
         "Quantity": "Unknown",
-        "Website": "http://www.e-codices.unifr.ch/en/list/acs/Shelfmark/20/0"
+        "Website": "http://www.e-codices.unifr.ch/en/list/acs/"
   },
     {
         "Nation": "Austria",
@@ -4335,7 +4335,7 @@
         "lat": 46.227021,
         "lng": 7.353335,
         "Quantity": "Unknown",
-        "Website": "http://www.e-codices.unifr.ch/en/list/aev/Shelfmark/20/0"
+        "Website": "http://www.e-codices.unifr.ch/en/list/aev/"
   },
     {
         "Nation": "Spain",
@@ -4515,7 +4515,7 @@
         "lat": 46.483333,
         "lng": 8.950000,
         "Quantity": "Unknown",
-        "Website": "http://www.e-codices.unifr.ch/en/list/tap/Shelfmark/20/0"
+        "Website": "http://www.e-codices.unifr.ch/en/list/tap/"
   },
     {
         "Nation": "France",
@@ -4821,7 +4821,7 @@
         "lat": 46.231036,
         "lng": 7.355180,
         "Quantity": "Unknown",
-        "Website": "http://www.e-codices.unifr.ch/en/list/mvs/Shelfmark/20/0"
+        "Website": "http://www.e-codices.unifr.ch/en/list/mvs/"
   },
     {
         "Nation": "Germany",
