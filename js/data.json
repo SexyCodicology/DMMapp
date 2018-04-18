@@ -4859,7 +4859,7 @@
         "Quantity": "Few ( < 10 digitized manuscripts)",
         "Website": "http://collections.mun.ca/cdm/landingpage/collection/rarebooks"
   },
-   {
+    {
         "Nation": "England",
         "City": "London",
         "Library": "Lambeth Palace Library",
@@ -4867,5 +4867,294 @@
         "lng": -0.11988,
         "Quantity": "Unknown",
         "Website": "http://images.lambethpalacelibrary.org.uk/luna/servlet/LPLIBLPL~17~17"
-  } 
+  },
+    {
+        "Nation": "Switzerland",
+        "City": "Appenzell",
+        "Library": "Landesarchiv Appenzell Innerrhoden",
+        "lat": ,
+        "lng": ,
+        "Quantity": "Few ( < 10 digitized manuscripts)",
+        "Website": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets%5bcollection_facet%5d%5b%5d=Appenzell%2C+Landesarchiv+Appenzell+Innerrhoden"
+  },
+    {
+        "Nation": "Switzerland",
+        "City": "Basel",
+        "Library": "Pharmazie-Historisches Museum der Universität Basel",
+        "lat": ,
+        "lng": ,
+        "Quantity": "Few ( < 10 digitized manuscripts)",
+        "Website": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets%5bcollection_facet%5d%5b%5d=Basel%2C+Pharmazie-Historisches+Museum+der+Universit%C3%A4t+Basel"
+  },
+    {
+        "Nation": "Switzerland",
+        "City": "Bever",
+        "Library": "Dorfarchiv Bever",
+        "lat": ,
+        "lng": ,
+        "Quantity": "Few ( < 10 digitized manuscripts)",
+        "Website": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets%5bcollection_facet%5d%5b%5d=Bever%2C+Dorfarchiv+Bever"
+  },
+    {
+        "Nation": "Switzerland",
+        "City": "Bulle",
+        "Library": "Musée gruérien",
+        "lat": ,
+        "lng": ,
+        "Quantity": "Few ( < 10 digitized manuscripts)",
+        "Website": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets%5bcollection_facet%5d%5b%5d=Bulle%2C+Mus%C3%A9e+gru%C3%A9rien"
+  },
+    {
+        "Nation": "Switzerland",
+        "City": "Castro",
+        "Library": "Archivio parrocchiale",
+        "lat": ,
+        "lng": ,
+        "Quantity": "Few ( < 10 digitized manuscripts)",
+        "Website": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets%5bcollection_facet%5d%5b%5d=Castro%2C+Archivio+parrocchiale"
+  },
+    {
+        "Nation": "Switzerland",
+        "City": "Chironico",
+        "Library": "Archivio parrocchiale",
+        "lat": ,
+        "lng": ,
+        "Quantity": "Few ( < 10 digitized manuscripts)",
+        "Website": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets%5bcollection_facet%5d%5b%5d=Chironico%2C+Archivio+parrocchiale"
+  },
+    {
+        "Nation": "Switzerland",
+        "City": "Chur",
+        "Library": "Staatsarchiv Graubünden",
+        "lat": ,
+        "lng": ,
+        "Quantity": "Few ( < 10 digitized manuscripts)",
+        "Website": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets%5bcollection_facet%5d%5b%5d=Chur%2C+Staatsarchiv+Graub%C3%BCnden"
+  },
+    {
+        "Nation": "Switzerland",
+        "City": "Claro",
+        "Library": "Archivio parrocchiale",
+        "lat": ,
+        "lng": ,
+        "Quantity": "Few ( < 10 digitized manuscripts)",
+        "Website": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets%5bcollection_facet%5d%5b%5d=Claro%2C+Archivio+parrocchiale"
+  },
+    {
+        "Nation": "Switzerland",
+        "City": "Disentis",
+        "Library": "Romanische Bibliothek des Klosters Disentis",
+        "lat": ,
+        "lng": ,
+        "Quantity": "Few ( < 10 digitized manuscripts)",
+        "Website": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets%5bcollection_facet%5d%5b%5d=Disentis%2C+Romanische+Bibliothek+des+Klosters+Disentis"
+  },
+    {
+        "Nation": "Switzerland",
+        "City": "Estavayer-le-Lac",
+        "Library": "Paroisse catholique Saint-Laurent",
+        "lat": ,
+        "lng": ,
+        "Quantity": "Few ( < 10 digitized manuscripts)",
+        "Website": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets%5bcollection_facet%5d%5b%5d=Estavayer-le-Lac%2C+Paroisse+catholique+Saint-Laurent"
+  },
+    {
+        "Nation": "Switzerland",
+        "City": "Frauenfeld",
+        "Library": "Katholisches Pfarrarchiv Frauenfeld",
+        "lat": ,
+        "lng": ,
+        "Quantity": "Few ( < 10 digitized manuscripts)",
+        "Website": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets%5bcollection_facet%5d%5b%5d=Frauenfeld%2C+Katholisches+Pfarrarchiv+Frauenfeld"
+  },
+    {
+        "Nation": "Switzerland",
+        "City": "Hermetschwil",
+        "Library": "Benediktinerinnenkloster",
+        "lat": ,
+        "lng": ,
+        "Quantity": "Many (Between 50 and 100 digitized manuscripts)",
+        "Website": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets%5bcollection_facet%5d%5b%5d=Hermetschwil%2C+Benediktinerinnenkloster"
+  },
+    {
+        "Nation": "Switzerland",
+        "City": "Luzern",
+        "Library": "Korporation Luzern",
+        "lat": ,
+        "lng": ,
+        "Quantity": "Few ( < 10 digitized manuscripts)",
+        "Website": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets%5bcollection_facet%5d%5b%5d=Luzern%2C+Korporation+Luzern"
+  },
+    {
+        "Nation": "Switzerland",
+        "City": "Luzern",
+        "Library": "Staatsarchiv",
+        "lat": ,
+        "lng": ,
+        "Quantity": "Some (between 10 and 50 digitized manuscripts)",
+        "Website": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets%5bcollection_facet%5d%5b%5d=Luzern%2C+Staatsarchiv"
+  },
+    {
+        "Nation": "Switzerland",
+        "City": "Mairengo",
+        "Library": "Archivio parrocchiale",
+        "lat": ,
+        "lng": ,
+        "Quantity": "Few ( < 10 digitized manuscripts)",
+        "Website": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets%5bcollection_facet%5d%5b%5d=Mairengo%2C+Archivio+parrocchiale"
+  },
+    {
+        "Nation": "Switzerland",
+        "City": "Mariastein",
+        "Library": "Benediktinerkloster",
+        "lat": ,
+        "lng": ,
+        "Quantity": "Few ( < 10 digitized manuscripts)",
+        "Website": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets%5bcollection_facet%5d%5b%5d=Mariastein%2C+Benediktinerkloster"
+  },
+    {
+        "Nation": "Switzerland",
+        "City": "Montreux",
+        "Library": "Bibliotheca Sefarad",
+        "lat": ,
+        "lng": ,
+        "Quantity": "Few ( < 10 digitized manuscripts)",
+        "Website": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets%5bcollection_facet%5d%5b%5d=Montreux%2C+Bibliotheca+Sefarad"
+  },
+       {
+        "Nation": "Switzerland",
+        "City": "Müstair",
+        "Library": "Benediktinerinnenkloster St. Johann",
+        "lat": ,
+        "lng": ,
+        "Quantity": "Some (between 10 and 50 digitized manuscripts)",
+        "Website": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets%5bcollection_facet%5d%5b%5d=M%C3%BCstair%2C+Benediktinerinnenkloster+St.+Johann"
+  },
+       {
+        "Nation": "Switzerland",
+        "City": "Quinto",
+        "Library": "Archivio parrocchiale",
+        "lat": ,
+        "lng": ,
+        "Quantity": "Few ( < 10 digitized manuscripts)",
+        "Website": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets%5bcollection_facet%5d%5b%5d=Quinto%2C+Archivio+parrocchiale"
+  },
+       {
+        "Nation": "Switzerland",
+        "City": "Romont",
+        "Library": "Abbaye de la Fille-Dieu Romont",
+        "lat": ,
+        "lng": ,
+        "Quantity": "Few ( < 10 digitized manuscripts)",
+        "Website": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets%5bcollection_facet%5d%5b%5d=Romont%2C+Abbaye+de+la+Fille-Dieu+Romont"
+  },
+       {
+        "Nation": "Switzerland",
+        "City": "Saint-Imier",
+        "Library": "Mémoires d'Ici",
+        "lat": ,
+        "lng": ,
+        "Quantity": "Few ( < 10 digitized manuscripts)",
+        "Website": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets%5bcollection_facet%5d%5b%5d=Saint-Imier%2C+M%C3%A9moires+d%27Ici"
+  },
+       {
+        "Nation": "Switzerland",
+        "City": "Saint-Maurice",
+        "Library": "Abbaye de Saint-Maurice",
+        "lat": ,
+        "lng": ,
+        "Quantity": "Few ( < 10 digitized manuscripts)",
+        "Website": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets%5bcollection_facet%5d%5b%5d=Saint-Maurice%2C+Abbaye+de+Saint-Maurice"
+  },
+       {
+        "Nation": "Switzerland",
+        "City": "Samedan",
+        "Library": "Chesa Planta Samedan",
+        "lat": ,
+        "lng": ,
+        "Quantity": "Few ( < 10 digitized manuscripts)",
+        "Website": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets%5bcollection_facet%5d%5b%5d=Samedan%2C+Chesa+Planta+Samedan"
+  },
+       {
+        "Nation": "Switzerland",
+        "City": "Schaffhausen",
+        "Library": "Konzernarchiv Georg Fischer AG",
+        "lat": ,
+        "lng": ,
+        "Quantity": "Few ( < 10 digitized manuscripts)",
+        "Website": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets%5bcollection_facet%5d%5b%5d=Schaffhausen%2C+Konzernarchiv+Georg+Fischer+AG"
+  },
+       {
+        "Nation": "Switzerland",
+        "City": "Sils / Segl Maria",
+        "Library": "Dorfarchiv Sils i.E. / Segl",
+        "lat": ,
+        "lng": ,
+        "Quantity": "Few ( < 10 digitized manuscripts)",
+        "Website": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets%5bcollection_facet%5d%5b%5d=Sils+%2F+Segl+Maria%2C+Dorfarchiv+Sils+i.E.+%2F+Segl"
+  },
+       {
+        "Nation": "Switzerland",
+        "City": "Solothurn",
+        "Library": "Staatsarchiv",
+        "lat": ,
+        "lng": ,
+        "Quantity": "Some (between 10 and 50 digitized manuscripts)",
+        "Website": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets%5bcollection_facet%5d%5b%5d=Solothurn%2C+Staatsarchiv"
+  },
+       {
+        "Nation": "Switzerland",
+        "City": "Tesserete",
+        "Library": "Archivio parrocchiale",
+        "lat": ,
+        "lng": ,
+        "Quantity": "Few ( < 10 digitized manuscripts)",
+        "Website": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets%5bcollection_facet%5d%5b%5d=Tesserete%2C+Archivio+parrocchiale"
+  },
+       {
+        "Nation": "Switzerland",
+        "City": "Urnäsch",
+        "Library": "Gemeindearchiv Urnäsch",
+        "lat": ,
+        "lng": ,
+        "Quantity": "Few ( < 10 digitized manuscripts)",
+        "Website": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets%5bcollection_facet%5d%5b%5d=Urn%C3%A4sch%2C+Gemeindearchiv+Urn%C3%A4sch"
+  },
+       {
+        "Nation": "Switzerland",
+        "City": "Vevey",
+        "Library": "Musée historique de Vevey",
+        "lat": ,
+        "lng": ,
+        "Quantity": "Few ( < 10 digitized manuscripts)",
+        "Website": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets%5bcollection_facet%5d%5b%5d=Vevey%2C+Mus%C3%A9e+historique+de+Vevey"
+  },
+       {
+        "Nation": "Switzerland",
+        "City": "Wädenswil",
+        "Library": "Dokumentationsstelle Oberer Zürichsee",
+        "lat": ,
+        "lng": ,
+        "Quantity": "Few ( < 10 digitized manuscripts)",
+        "Website": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets%5bcollection_facet%5d%5b%5d=W%C3%A4denswil%2C+Dokumentationsstelle+Oberer+Z%C3%BCrichsee"
+  },
+       {
+        "Nation": "Switzerland",
+        "City": "Zürich",
+        "Library": "Braginsky Collection",
+        "lat": ,
+        "lng": ,
+        "Quantity": "Many (Between 50 and 100 digitized manuscripts)",
+        "Website": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets%5bcollection_facet%5d%5b%5d=Z%C3%BCrich%2C+Braginsky+Collection"
+  },
+       {
+        "Nation": "Switzerland",
+        "City": "Zürich",
+        "Library": "Schweizerisches Nationalmuseum",
+        "lat": ,
+        "lng": ,
+        "Quantity": "Some (between 10 and 50 digitized manuscripts)",
+        "Website": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets%5bcollection_facet%5d%5b%5d=Zürich%2C+Schweizerisches+Nationalmuseum"
+  }
+    
 ]
