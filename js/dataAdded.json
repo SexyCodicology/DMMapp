@@ -4,41 +4,47 @@
             "Type": "Resource",
             "Website": "http://web.nli.org.il/sites/NLIS/en/ManuScript/",
             "Title": "The International Collection of Digitized Hebrew Manuscripts"
-        }, 
+        },
         {
             "Type": "Blog",
             "Website": "http://britishlibrary.typepad.co.uk/digitisedmanuscripts/",
             "Title": "The Medieval and Earlier Manuscripts Blog (British Library)"
        },
-       {
+        {
             "Type": "Blog",
             "Website": "http://www.textmanuscripts.com/blog",
             "Title": "Medieval Text Manuscripts Blog (Les Enluminures)"
        },
-       {
+        {
             "Type": "Blog",
             "Website": "http://blog.wellcomelibrary.org/tag/medieval-manuscripts/",
             "Title": "Wellcome Library Blog"
        },
-       {
+        {
             "Type": "Blog",
             "Website": "https://mssprovenance.blogspot.com/",
             "Title": "Medieval Manuscripts Provenance"
        },
-       {
+        {
             "Type": "Blog",
             "Website": "https://sexycodicology.net/",
             "Title": "Sexy Codicology"
        },
-       {
+        {
             "Type": "Blog",
             "Website": "https://medievalbooks.nl/",
             "Title": "Erik Kwakkel's Medieval Books"
        },
-       {
+        {
             "Type": "Portal",
             "Website": "http://www.manuscripta-mediaevalia.de/",
             "Title": "Manuscripta Mediaevalia"
+       },
+        {
+            "Type": "Portal",
+            "Website": "https://www.e-codices.unifr.ch/en",
+            "Title": "e-codices - Virtual Manuscript Library of Switzerland"
        }
+
 ]
 }
