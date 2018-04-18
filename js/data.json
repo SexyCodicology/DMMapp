@@ -2081,7 +2081,7 @@
     {
         "Nation": "Switzerland",
         "City": "Geneva",
-        "Library": "Bibliotheque de Geneve",
+        "Library": "Bibliotheque de Genève",
         "lat": 46.198816,
         "lng": 6.14508,
         "Quantity": "Some (between 10 and 50 digitized manuscripts)",
@@ -2242,7 +2242,7 @@
   },
     {
         "Nation": "Switzerland",
-        "City": "Sitten",
+        "City": "Sion / Sitten",
         "Library": "Archives du Chapitre/Kapitelsarchiv",
         "lat": 46.233372,
         "lng": 7.358321,
@@ -2296,7 +2296,7 @@
   },
     {
         "Nation": "Switzerland",
-        "City": "Sitten",
+        "City": "Sion / Sitten",
         "Library": "Mediatheque du Valais",
         "lat": 46.230705,
         "lng": 7.355588,
@@ -3429,15 +3429,6 @@
         "Website": "http://library.leeds.ac.uk/special-collections-explore/?query=&displayMedia=list&objectType=&searchColumn=archiveKeyWord&collectionGroup=Medieval+Manuscripts&archiveLevel=&archiveEarliest=&archiveLatest=&sortBy=Relevance&browseQuery=Search&searchMode=advanced&selection="
   },
     {
-        "Nation": "Switzerland",
-        "City": "Trogen",
-        "Library": "Kantonsbibliothek Appenzell Ausserrhoden",
-        "lat": 47.443143,
-        "lng": 9.471495,
-        "Quantity": "Some (between 10 and 50 digitized manuscripts)",
-        "Website": "http://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Trogen%2C+Kantonsbibliothek+Appenzell+Ausserrhoden"
-  },
-    {
         "Nation": "Poland",
         "City": "Warsaw",
         "Library": "Biblioteka Narodowa",
@@ -4221,15 +4212,6 @@
         "Website": "http://www.numerique.culture.fr/pub-fr/document.html?base=dcollection&id=FR-DC-B422186101_9ff55a7c&hppage=10&totaldocs=9&pagename=resultats-in.html&querybase=institution"
   },
     {
-        "Nation": "Switzerland",
-        "City": "Sion",
-        "Library": "Archives du Chapitre",
-        "lat": 46.233122,
-        "lng": 7.360626,
-        "Quantity": "Unknown",
-        "Website": "http://www.e-codices.unifr.ch/en/list/acs/"
-  },
-    {
         "Nation": "Austria",
         "City": "Zwettl",
         "Library": "Zisterzienserstift",
@@ -4330,7 +4312,7 @@
   },
     {
         "Nation": "Switzerland",
-        "City": "Sion",
+        "City": "Sion / Sitten",
         "Library": "Archives de l'Etat du Valais/Staatsarchiv Wallis",
         "lat": 46.227021,
         "lng": 7.353335,
@@ -4600,7 +4582,7 @@
   },
     {
         "Nation": "Switzerland",
-        "City": "Flawill",
+        "City": "Flawil",
         "Library": "Gemeinde Flawil",
         "lat": 47.413371,
         "lng": 9.187030,
@@ -4813,15 +4795,6 @@
         "lng": 5.543405,
         "Quantity": "Unknown",
         "Website": "http://archives.meuse.fr/?id=recherche_simple_detail&doc=accounts%2Fmnesys_ad55%2Fdatas%2Fir%2FManuscrits%20anciens%2FFRAD055000002.xml"
-  },
-    {
-        "Nation": "Switzerland",
-        "City": "Sion",
-        "Library": "Mediatheque du Valais",
-        "lat": 46.231036,
-        "lng": 7.355180,
-        "Quantity": "Unknown",
-        "Website": "http://www.e-codices.unifr.ch/en/list/mvs/"
   },
     {
         "Nation": "Germany",
