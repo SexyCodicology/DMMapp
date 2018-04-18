@@ -1977,7 +1977,7 @@
         "lat": 40.423761,
         "lng": -3.690232,
         "Quantity": "Hundreds (between 100 and 500 digitized manuscripts)",
-        "Website": "http://bdh.bne.es/bnesearch/Search.do"
+        "Website": "http://bdh.bne.es/bnesearch/Search.do?fechaFhasta=1300&text=&fechaFdesde=400&sort=&showYearItems=&exact=&textH=&advanced=&completeText=&tipomaterial1=Manuscrito&pageNumber=1&pageSize=30&language=es"
   },
     {
         "Nation": "Spain",
@@ -3306,8 +3306,8 @@
         "Nation": "Spain",
         "City": "Barcelona",
         "Library": "Biblioteca de la Universidad de Barcelona",
-        "lat": 41.501285,
-        "lng": 2.103270,
+        "lat": 41.386608,
+        "lng": 2.164020,
         "Quantity": "Many (Between 50 and 100 digitized manuscripts)",
         "Website": "http://bipadi.ub.edu/cdm/search/collection/manuscrits/display/200/order/title/ad/asc"
   },
