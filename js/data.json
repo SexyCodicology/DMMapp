@@ -1293,7 +1293,7 @@
         "lat": 49.897355,
         "lng": 10.882194,
         "Quantity": "Hundreds (between 100 and 500 digitized manuscripts)",
-        "Website": "http://bsbsbb.bsb.lrz-muenchen.de/~db/ausgaben/index.html"
+        "Website": "http://bsbsbb.bsb.lrz.de/~db/ausgaben/index.html"
   },
     {
         "Nation": "Germany",
@@ -4551,7 +4551,7 @@
         "lat": 46.250594,
         "lng": 8.032207,
         "Quantity": "Unknown",
-        "Website": "http://www.gsbernard.ch/60/618_01.html"
+        "Website": "https://gsbernard.ch/60/643-1.php"
   },
     {
         "Nation": "Germany",
