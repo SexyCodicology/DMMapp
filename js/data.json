@@ -2022,7 +2022,7 @@
         "lat": 55.708951,
         "lng": 13.197349,
         "Quantity": "Many (Between 50 and 100 digitized manuscripts)",
-        "Website": "http://laurentius.ub.lu.se/index_by_idno.html"
+        "Website": "http://www.alvin-portal.org/alvin/resultList.jsf?aq=%5B%5B%7B%22RES%22%3A%22text+OR+text_manuscript%22%7D%2C%7B%22ARCHIVE_ORG_CODES%22%3A%22L%22%7D%2C%7B%22MANUSCRIPT_bool%22%3A%22true%22%7D%5D%5D&sortString=creationYear_sort_asc&aqe=%5B%5D&af=%5B%22FREE_ONLINE%3Atrue%22%5D&searchType=EXTENDED&noOfRows=10&dswid=7615"
   },
     {
         "Nation": "Sweden",

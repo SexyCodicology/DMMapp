@@ -44,6 +44,11 @@
             "Type": "Portal",
             "Website": "https://www.e-codices.unifr.ch/en",
             "Title": "e-codices - Virtual Manuscript Library of Switzerland"
+       },
+       {
+            "Type": "Portal",
+            "Website": "http://www.alvin-portal.org/alvin/resultList.jsf?dswid=618&af=%5B%22alpha3_facet%3Alat%22%5D&p=1&fs=true&searchType=EXTENDED&sortString=creationYear_sort_asc&noOfRows=10&query=&aq=%5B%5B%7B%22RES%22%3A%22text+OR+text_manuscript%22%7D%2C%7B%22CRY%22%3A%7B%22to%22%3A1550%7D%7D%2C%7B%22FORM%22%3A%5B%22digital%22%5D%7D%2C%7B%22MANUSCRIPT_bool%22%3A%22true%22%7D%5D%5D&aqe=%5B%5D",
+            "Title": "ALVIN - Platform for digital collections and digitized cultural heritage"
        }
 
 ]
