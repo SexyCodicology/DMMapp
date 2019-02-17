@@ -1,4 +1,5 @@
-# DMMapp - Digitized Medieval Manuscripts app
+# [[!! LEGACY !!]] DMMapp - Digitized Medieval Manuscripts app
+## This is a legacy version of the DMMapp. The data contained in data.json is no longer maintained, but the framework of the app will still work ##
 
 The DMMapp is a webapp containing links to digitized manuscripts repositories available worldwide.
 
@@ -6,7 +7,7 @@ The DMMapp is a webapp containing links to digitized manuscripts repositories av
 You can see the DMMapp in action [here](//digitizedmedievalmanuscripts.org/app).
 
 ## How does the DMMapp work?
-The DMMapp uses the Google Maps API, DataTables, and JQuery. THe data is in JSON format.
+The DMMapp uses the Google Maps API, DataTables, and JQuery. The data is in JSON format.
 
 We receive a new library via the submission form
 We check the new repository and find the best and quickest link to the digitized manuscripts.
