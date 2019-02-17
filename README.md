@@ -1,5 +1,5 @@
 # [[!! LEGACY !!]] DMMapp - Digitized Medieval Manuscripts app
-## This is a legacy version of the DMMapp. The data contained in data.json is no longer maintained, but the framework of the app will still work ##
+## This is a legacy version of the DMMapp. The data contained in data.json is no longer maintained, but the framework of the app will still work. ##
 
 The DMMapp is a webapp containing links to digitized manuscripts repositories available worldwide.
 
